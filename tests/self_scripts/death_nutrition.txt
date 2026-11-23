@@ -1,0 +1,7 @@
+# Nutrition 0: starvation damage (cause 4) until death (water kept full by the first line only).
+time 28918
+self m_dNutrition 0
+self m_dHydration 100
+self m_dHealth 1
+run 30000 90
+dump

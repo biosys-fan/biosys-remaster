@@ -1,0 +1,7 @@
+# Eat coca (code 40) (r8co_1, consumable code on the object): pick it up (event 1), eat it (event 4), idle two hours, dump player and object.
+time 28918
+event r8co_1 1
+event r8co_1 4
+dump obj r8co_1
+run 7200 90
+dump obj r8co_1

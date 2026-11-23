@@ -1,0 +1,13 @@
+# Drink command: water (0xbe) at hydration 40, then worm water (0xc8), the yuk water (0xc3) and a drink code that does nothing (0x5).
+# The player is warm (body 60) so the cooling branch (LoseTemperature 10) runs.
+time 28918
+self m_dTemperature 60
+drink 0xbe
+dump
+drink 0xc8
+drink 0xc3
+drink 5
+dump
+self m_dHydration 99.5
+drink 0xbe
+dump

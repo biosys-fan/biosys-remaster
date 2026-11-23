@@ -1,0 +1,7 @@
+# Sleep with the body temperature above 75: the sleep loop ends after one step, wake reason 5.
+time 28918
+cel R4 flags=32
+self m_dTemperature 80
+self m_dEnergy 40
+sleep 0 0 1
+dump

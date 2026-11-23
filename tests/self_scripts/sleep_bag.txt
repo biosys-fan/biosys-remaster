@@ -1,0 +1,7 @@
+# Sleep in the sleeping bag (Sleep(0,...): bag multiplier 1.5 on gain and length) at R4.
+time 28918
+cel R4 flags=32
+self m_bHasSleepingBag 1
+self m_dEnergy 20
+sleep 0 0 1
+dump obj survibag

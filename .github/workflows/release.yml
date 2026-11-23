@@ -1,0 +1,34 @@
+# Publishes a release when a version tag is pushed.
+#
+# The macOS app is built and tested on a developer's Mac (packaging/build_deps.sh, make_app.sh, make_dmg.sh), because
+# the test of the first-run import needs the original discs, which no build server has. The finished disk image is
+# pushed to the branch "release-assets" (one commit, only the .dmg); this workflow attaches it to the release and
+# takes the notes from the newest section of CHANGELOG.md. Nothing is built here.
+name: release
+on:
+  push:
+    tags: ['v*']
+permissions:
+  contents: write
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+      TAG: ${{ github.ref_name }}
+    steps:
+      - name: Fetch the tagged sources and the prebuilt disk image
+        run: |
+          git clone --quiet --depth 1 --branch "$TAG" "https://github.com/${{ github.repository }}.git" src
+          git clone --quiet --depth 1 --branch release-assets "https://github.com/${{ github.repository }}.git" assets
+          ls -la assets
+      - name: Check the disk image against its recorded checksum
+        run: cd assets && sha256sum -c SHA256SUMS
+      - name: Take the release notes from the changelog
+        run: awk '/^## /{n++; if (n == 2) exit; next} n == 1' src/CHANGELOG.md > notes.md && cat notes.md
+      - name: Create the release
+        run: |
+          gh release create "$TAG" assets/*.dmg assets/SHA256SUMS \
+            --repo "${{ github.repository }}" \
+            --title "Biosys Remaster ${TAG#v}" \
+            --notes-file notes.md

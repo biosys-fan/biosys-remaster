@@ -1,0 +1,9 @@
+# Same as sleep.txt with the clock running (extension command `ticks 40` = CTimeline::SetTicksPerGameSec(40)): the sleep loop
+# advances the game clock by 90 s per step and the world objects are updated (CWorld::UpdateAllObjects). The clock stays frozen
+# in the saved game, so the oracle needs this command; a program that ignores it gets a different t= in the dump.
+time 28918
+ticks 40
+cel R4 flags=32
+self m_dEnergy 20
+sleep 0 0 1
+dump

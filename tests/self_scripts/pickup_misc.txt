@@ -1,0 +1,11 @@
+# Base object handlers on a plain object (the apple): pick up (weight added), stash, hold, drop (weight removed).
+time 28918
+event apple 1
+dump obj apple
+event apple 10
+dump obj apple
+event apple 6 R4
+dump obj apple
+event apple 1
+event apple 2
+dump obj apple

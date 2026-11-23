@@ -1,0 +1,367 @@
+# page	hotspot	class	digest	verdict	note	signature (shortened)      -- see tests/test_sweep.py
+AR1MA	R1ma_1@RFRUIT1	react	2513c01105		status 6	message 5 | ev gameobject r1ma_1 10 | message 5 | ev gameobject r1ma_1 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | message 5 | ev gameobject r1ma_1 11 | ev gameobject r1ma_1 2 | message 366 | img hh=0 | img uh=0 | img dh=0 | mess
+AR2BA	R2ba_1@RFRUIT1	react	7fb8f9bc74		status 6	message 7 | ev gameobject r2ba_1 10 | message 7 | ev gameobject r2ba_1 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit1=0 | message 7 | ev gameobject r2ba_1 11 | ev gameobject r2ba_1 2 | message 366 | img hh=0 | img uh=0 | 
+AR2BA	R2ba_2@RFRUIT2	react	480af8d7f6		status 6	message 7 | ev gameobject r2ba_2 10 | message 7 | ev gameobject r2ba_2 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit2=0 | message 7 | ev gameobject r2ba_2 11 | ev gameobject r2ba_2 2 | message 366 | img hh=0 | img uh=0 | 
+AR2BA	R2ba_3@RFRUIT3	react	785f26b3e1		status 6	message 7 | ev gameobject r2ba_3 10 | message 7 | ev gameobject r2ba_3 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit3=0 | message 7 | ev gameobject r2ba_3 11 | ev gameobject r2ba_3 2 | message 366 | img hh=0 | img uh=0 | 
+AR3AV_1	R3AV_1@RFRUIT1	react	7ac2ed2e1d		status 6	message 3 | ev gameobject r3av_1 10 | message 3 | ev gameobject r3av_1 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit1=0 | message 3 | ev gameobject r3av_1 11 | ev gameobject r3av_1 2 | message 366 | img hh=0 | img uh=0 | 
+AR3AV_1	R3AV_2@RFRUIT2	react	dfa1c2cfe9		status 6	message 3 | ev gameobject r3av_2 10 | message 3 | ev gameobject r3av_2 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit2=0 | message 3 | ev gameobject r3av_2 11 | ev gameobject r3av_2 2 | message 366 | img hh=0 | img uh=0 | 
+AR3AV_2	R3AV_3@RFRUIT3	react	c7ee90c9aa		status 6	message 3 | ev gameobject r3av_3 10 | message 3 | ev gameobject r3av_3 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit3=0 | message 3 | ev gameobject r3av_3 11 | ev gameobject r3av_3 2 | message 366 | img hh=0 | img uh=0 | 
+AR3AV_2	R3AV_4@RFRUIT4	react	a9c3304f98		status 6	message 3 | ev gameobject r3av_4 10 | message 3 | ev gameobject r3av_4 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit4=0 | message 3 | ev gameobject r3av_4 11 | ev gameobject r3av_4 2 | message 366 | img hh=0 | img uh=0 | 
+AR3EG	R3eg_1@RR3eg_1	react	d47132b25c		status 6	message 280 | ev gameobject r3eg_1 10 | message 280 | ev gameobject r3eg_1 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit1=0 | message 280 | ev gameobject r3eg_1 11 | ev gameobject r3eg_1 2 | img fruit2=1 | img fruit3=1 | 
+AR3EG	R3eg_2@RR3eg_2	react	80722b15f5		status 6	message 280 | ev gameobject r3eg_2 10 | message 280 | ev gameobject r3eg_2 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit2=0 | message 280 | ev gameobject r3eg_2 11 | ev gameobject r3eg_2 2 | img fruit1=1 | img fruit3=1 | 
+AR3EG	R3eg_3@RR3eg_3	react	16f533a040		status 6	message 280 | ev gameobject r3eg_3 10 | message 280 | ev gameobject r3eg_3 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit3=0 | message 280 | ev gameobject r3eg_3 11 | ev gameobject r3eg_3 2 | img fruit1=1 | img fruit2=1 | 
+AR3EG	R3eg_4@RR3eg_4	react	17a9fc6629		status 6	message 280 | ev gameobject r3eg_4 10 | message 280 | ev gameobject r3eg_4 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit4=0 | message 280 | ev gameobject r3eg_4 11 | ev gameobject r3eg_4 2 | img fruit1=1 | img fruit2=1 | 
+AR3EG	R3eg_5@RR3eg_5	react	c98def29ec		status 6	message 280 | ev gameobject r3eg_5 10 | message 280 | ev gameobject r3eg_5 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit5=0 | message 280 | ev gameobject r3eg_5 11 | ev gameobject r3eg_5 2 | img fruit1=1 | img fruit2=1 | 
+AR3EG	R3eg_6@RR3eg_6	react	92afdd4883		status 6	message 280 | ev gameobject r3eg_6 10 | message 280 | ev gameobject r3eg_6 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit6=0 | message 280 | ev gameobject r3eg_6 11 | ev gameobject r3eg_6 2 | img fruit1=1 | img fruit2=1 | 
+AR3YA	R3ya_1@RFRUIT1	react	950a9f2344		status 6	message 9 | ev gameobject r3ya_1 10 | message 9 | ev gameobject r3ya_1 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | message 9 | ev gameobject r3ya_1 11 | ev gameobject r3ya_1 2 | message 366 | img hh=0 | img uh=0 | img dh=0 | mess
+AR4YA	R4ya_1@RFRUIT1	react	b9d88e6bb6		status 6	message 9 | ev gameobject r4ya_1 10 | message 9 | ev gameobject r4ya_1 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | message 9 | ev gameobject r4ya_1 11 | ev gameobject r4ya_1 2 | message 366 | img hh=0 | img uh=0 | img dh=0 | mess
+AR5AV	R5av_4@RFRUIT4	react	092d4429a2		status 6	message 3 | ev gameobject r5av_4 10 | message 3 | ev gameobject r5av_4 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit4=0 | message 3 | ev gameobject r5av_4 11 | ev gameobject r5av_4 2 | message 366 | img hh=0 | img uh=0 | 
+AR5AV	R5av_5@RFRUIT5	react	1ebaeda8de		status 6	message 3 | ev gameobject r5av_5 10 | message 3 | ev gameobject r5av_5 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit5=0 | message 3 | ev gameobject r5av_5 11 | ev gameobject r5av_5 2 | message 366 | img hh=0 | img uh=0 | 
+AR5AV	R5av_6@RFRUIT6	react	2d4db366dd		status 6	message 3 | ev gameobject r5av_6 10 | message 3 | ev gameobject r5av_6 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit6=0 | message 3 | ev gameobject r5av_6 11 | ev gameobject r5av_6 2 | message 366 | img hh=0 | img uh=0 | 
+AR5CI_1	R5ci_1@RFRUIT1	react	290a0ff4c4		status 6	message 12 | ev gameobject r5ci_1 10 | message 12 | ev gameobject r5ci_1 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit1=0 | message 12 | ev gameobject r5ci_1 11 | ev gameobject r5ci_1 2 | message 366 | img hh=0 | img uh=0
+AR5CI_2	R5ci_2@RFRUIT2	react	bf26ef89af		status 6	message 12 | ev gameobject r5ci_2 10 | message 12 | ev gameobject r5ci_2 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit2=0 | message 12 | ev gameobject r5ci_2 11 | ev gameobject r5ci_2 2 | message 366 | img hh=0 | img uh=0
+AR5GU_1	R5gu_1@RFRUIT1	react	bb193a6a53		status 6	message 13 | ev gameobject r5gu_1 10 | message 13 | ev gameobject r5gu_1 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit1=0 | message 13 | ev gameobject r5gu_1 11 | ev gameobject r5gu_1 2 | message 366 | img hh=0 | img uh=0
+AR5GU_1	R5gu_2@RFRUIT2	react	1b26f7ffb0		status 6	message 13 | ev gameobject r5gu_2 10 | message 13 | ev gameobject r5gu_2 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit2=0 | message 13 | ev gameobject r5gu_2 11 | ev gameobject r5gu_2 2 | message 366 | img hh=0 | img uh=0
+AR5GU_2	R5gu_3@RFRUIT3	react	1f6fa72e02		status 6	message 13 | ev gameobject r5gu_3 10 | message 13 | ev gameobject r5gu_3 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit3=0 | message 13 | ev gameobject r5gu_3 11 | ev gameobject r5gu_3 2 | message 366 | img hh=0 | img uh=0
+AR5GU_2	R5gu_4@RFRUIT4	react	00e7ea832b		status 6	message 13 | ev gameobject r5gu_4 10 | message 13 | ev gameobject r5gu_4 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit4=0 | message 13 | ev gameobject r5gu_4 11 | ev gameobject r5gu_4 2 | message 366 | img hh=0 | img uh=0
+AR6AN_1	R6an_1@RFRUIT1	react	59ee4c72d5		status 6	message 15 | ev gameobject r6an_1 10 | message 15 | ev gameobject r6an_1 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit1=0 | message 15 | ev gameobject r6an_1 11 | ev gameobject r6an_1 2 | message 366 | img hh=0 | img uh=0
+AR6AN_1	R6an_2@RFRUIT2	react	d3c97c9ebd		status 6	message 15 | ev gameobject r6an_2 10 | message 15 | ev gameobject r6an_2 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit2=0 | message 15 | ev gameobject r6an_2 11 | ev gameobject r6an_2 2 | message 366 | img hh=0 | img uh=0
+AR6AN_1	R6an_3@RFRUIT3	react	0cc6fef6e4		status 6	message 15 | ev gameobject r6an_3 10 | message 15 | ev gameobject r6an_3 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit3=0 | message 15 | ev gameobject r6an_3 11 | ev gameobject r6an_3 2 | message 366 | img hh=0 | img uh=0
+AR6AN_2	R6an_4@RFRUIT4	react	95867cafc5		status 6	message 15 | ev gameobject r6an_4 10 | message 15 | ev gameobject r6an_4 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit4=0 | message 15 | ev gameobject r6an_4 11 | ev gameobject r6an_4 2 | message 366 | img hh=0 | img uh=0
+AR6AN_2	R6an_5@RFRUIT5	react	613cf48a55		status 6	message 15 | ev gameobject r6an_5 10 | message 15 | ev gameobject r6an_5 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit5=0 | message 15 | ev gameobject r6an_5 11 | ev gameobject r6an_5 2 | message 366 | img hh=0 | img uh=0
+AR7AG	R7Ag_1@RFRUIT1	react	273d7b6e94		status 6	message 17 | ev gameobject r7ag_1 10 | message 17 | ev gameobject r7ag_1 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit1=0 | message 17 | ev gameobject r7ag_1 11 | ev gameobject r7ag_1 2 | message 366 | img hh=0 | img uh=0
+AR7OR_1	R7or_4@RFRUIT1	react	f8b206a483		status 6	message 8 | ev gameobject r7or_4 10 | message 8 | ev gameobject r7or_4 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit4=0 | message 8 | ev gameobject r7or_4 11 | ev gameobject r7or_4 2 | message 366 | img hh=0 | img uh=0 | 
+AR7OR_2	R7or_5@RFRUIT1	react	21c7045ce7		status 6	message 8 | ev gameobject r7or_5 10 | message 8 | ev gameobject r7or_5 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit5=0 | message 8 | ev gameobject r7or_5 11 | ev gameobject r7or_5 2 | message 366 | img hh=0 | img uh=0 | 
+AR8BA	R8ba_1@RFRUIT1	react	04ded2f336		status 6	message 7 | ev gameobject r8ba_1 10 | message 7 | ev gameobject r8ba_1 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit1=0 | message 7 | ev gameobject r8ba_1 11 | ev gameobject r8ba_1 2 | message 366 | img hh=0 | img uh=0 | 
+AR8BA	R8ba_2@RFRUIT2	react	655d11292a		status 6	message 7 | ev gameobject r8ba_2 10 | message 7 | ev gameobject r8ba_2 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit2=0 | message 7 | ev gameobject r8ba_2 11 | ev gameobject r8ba_2 2 | message 366 | img hh=0 | img uh=0 | 
+AR8BA	R8ba_3@RFRUIT3	react	dc7f939c47		status 6	message 7 | ev gameobject r8ba_3 10 | message 7 | ev gameobject r8ba_3 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit3=0 | message 7 | ev gameobject r8ba_3 11 | ev gameobject r8ba_3 2 | message 366 | img hh=0 | img uh=0 | 
+AR8BA	R8ba_4@RFRUIT4	react	e353bb2209		status 6	message 7 | ev gameobject r8ba_4 10 | message 7 | ev gameobject r8ba_4 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit4=0 | message 7 | ev gameobject r8ba_4 11 | ev gameobject r8ba_4 2 | message 366 | img hh=0 | img uh=0 | 
+AR8BA	R8ba_5@RFRUIT5	react	0aa173cf09		status 6	message 7 | ev gameobject r8ba_5 10 | message 7 | ev gameobject r8ba_5 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit5=0 | message 7 | ev gameobject r8ba_5 11 | ev gameobject r8ba_5 2 | message 366 | img hh=0 | img uh=0 | 
+AR8DA_1	R8da_1@RFRUIT1	react	3685a980a8		status 6	message 18 | ev gameobject r8da_1 10 | message 18 | ev gameobject r8da_1 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit1=0 | message 18 | ev gameobject r8da_1 11 | ev gameobject r8da_1 2 | message 366 | img hh=0 | img uh=0
+AR8DA_1	R8da_2@RFRUIT2	react	1da012a1e6		status 6	message 18 | ev gameobject r8da_2 10 | message 18 | ev gameobject r8da_2 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit2=0 | message 18 | ev gameobject r8da_2 11 | ev gameobject r8da_2 2 | message 366 | img hh=0 | img uh=0
+AR8DA_1	R8da_3@RFRUIT3	react	b71ebff5a5		status 6	message 18 | ev gameobject r8da_3 10 | message 18 | ev gameobject r8da_3 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit3=0 | message 18 | ev gameobject r8da_3 11 | ev gameobject r8da_3 2 | message 366 | img hh=0 | img uh=0
+AR8DA_2	R8da_4@RFRUIT4	react	5d558ba812		status 6	message 18 | ev gameobject r8da_4 10 | message 18 | ev gameobject r8da_4 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit4=0 | message 18 | ev gameobject r8da_4 11 | ev gameobject r8da_4 2 | message 366 | img hh=0 | img uh=0
+AR8DA_2	R8da_5@RFRUIT5	react	c151ef9b7a		status 6	message 18 | ev gameobject r8da_5 10 | message 18 | ev gameobject r8da_5 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit5=0 | message 18 | ev gameobject r8da_5 11 | ev gameobject r8da_5 2 | message 366 | img hh=0 | img uh=0
+AR9BA	R9ba_1@RFRUIT1	react	3a3b00db71		status 6	message 7 | ev gameobject r9ba_1 10 | message 7 | ev gameobject r9ba_1 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit1=0 | message 7 | ev gameobject r9ba_1 11 | ev gameobject r9ba_1 2 | message 366 | img hh=0 | img uh=0 | 
+AR9BA	R9ba_2@RFRUIT2	react	615f813fd5		status 6	message 7 | ev gameobject r9ba_2 10 | message 7 | ev gameobject r9ba_2 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit2=0 | message 7 | ev gameobject r9ba_2 11 | ev gameobject r9ba_2 2 | message 366 | img hh=0 | img uh=0 | 
+AR9BA	R9ba_3@RFRUIT3	react	20204aea9c		status 6	message 7 | ev gameobject r9ba_3 10 | message 7 | ev gameobject r9ba_3 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit3=0 | message 7 | ev gameobject r9ba_3 11 | ev gameobject r9ba_3 2 | message 366 | img hh=0 | img uh=0 | 
+AR9MA	R9ma_1@RFRUIT1	react	0c20532211		status 6	message 5 | ev gameobject r9ma_1 10 | message 5 | ev gameobject r9ma_1 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | message 5 | ev gameobject r9ma_1 11 | ev gameobject r9ma_1 2 | message 366 | img hh=0 | img uh=0 | img dh=0 | mess
+AS2EP	S2ep_1@rfruit1	react	cfce150017		status 6	message 25 | ev gameobject s2ep_1 10 | message 25 | ev gameobject s2ep_1 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit1=0 | message 25 | ev gameobject s2ep_1 11 | ev gameobject s2ep_1 2 | message 366 | img fruit2=1 | img 
+AS2EP	S2ep_2@rfruit2	react	5053042518		status 6	message 25 | ev gameobject s2ep_2 10 | message 25 | ev gameobject s2ep_2 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit2=0 | message 25 | ev gameobject s2ep_2 11 | ev gameobject s2ep_2 2 | message 366 | img fruit1=1 | img 
+AS2EP	S2ep_3@rfruit3	react	ab8e0a839c		status 6	message 25 | ev gameobject s2ep_3 10 | message 25 | ev gameobject s2ep_3 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit3=0 | message 25 | ev gameobject s2ep_3 11 | ev gameobject s2ep_3 2 | message 366 | img fruit1=1 | img 
+AS2FG1	S2fg1_1@rfruit1	react	0124cbc58e		status 6	message 24 | ev gameobject s2fg1_1 10 | message 24 | ev gameobject s2fg1_1 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit1=0 | message 24 | ev gameobject s2fg1_1 11 | ev gameobject s2fg1_1 2 | message 366 | img hh=0 | img 
+AS2FG1	S2fg1_2@rfruit2	react	9beab51a23		status 6	message 24 | ev gameobject s2fg1_2 10 | message 24 | ev gameobject s2fg1_2 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit2=0 | message 24 | ev gameobject s2fg1_2 11 | ev gameobject s2fg1_2 2 | message 366 | img hh=0 | img 
+AS2FG2	S2fg2_1@rfruit1	react	9652737564		status 6	message 24 | ev gameobject s2fg2_1 10 | message 24 | ev gameobject s2fg2_1 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit1=0 | message 24 | ev gameobject s2fg2_1 11 | ev gameobject s2fg2_1 2 | message 366 | img hh=0 | img 
+AS2FG2	S2fg2_2@rfruit2	react	2dc30de0f0		status 6	message 24 | ev gameobject s2fg2_2 10 | message 24 | ev gameobject s2fg2_2 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit2=0 | message 24 | ev gameobject s2fg2_2 11 | ev gameobject s2fg2_2 2 | message 366 | img hh=0 | img 
+AS6EG	S6eg_1@Rs6eg_1	react	293fe5dda7		status 6	message 280 | ev gameobject s6eg_1 10 | message 280 | ev gameobject s6eg_1 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit1=0 | message 280 | ev gameobject s6eg_1 11 | ev gameobject s6eg_1 2 | img fruit2=1 | img fruit3=1 | 
+AS6EG	S6eg_2@RS6eg_2	react	87f7689f8d		status 6	message 280 | ev gameobject s6eg_2 10 | message 280 | ev gameobject s6eg_2 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit2=0 | message 280 | ev gameobject s6eg_2 11 | ev gameobject s6eg_2 2 | img fruit1=1 | img fruit3=1 | 
+AS6EG	S6eg_3@RS6eg_3	react	8c2de8acb1		status 6	message 280 | ev gameobject s6eg_3 10 | message 280 | ev gameobject s6eg_3 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit3=0 | message 280 | ev gameobject s6eg_3 11 | ev gameobject s6eg_3 2 | img fruit1=1 | img fruit2=1 | 
+AS6EG	S6eg_4@RS6eg_4	react	6071fef1af		status 6	message 280 | ev gameobject s6eg_4 10 | message 280 | ev gameobject s6eg_4 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit4=0 | message 280 | ev gameobject s6eg_4 11 | ev gameobject s6eg_4 2 | img fruit1=1 | img fruit2=1 | 
+AS6EG	S6eg_5@RS6eg_5	react	bf51fce8c9		status 6	message 280 | ev gameobject s6eg_5 10 | message 280 | ev gameobject s6eg_5 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit5=0 | message 280 | ev gameobject s6eg_5 11 | ev gameobject s6eg_5 2 | img fruit1=1 | img fruit2=1 | 
+AS6FG	S6fg_1@rfruit1	react	d8efd16424		status 6	message 24 | ev gameobject s6fg_1 10 | message 24 | ev gameobject s6fg_1 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit1=0 | message 24 | ev gameobject s6fg_1 11 | ev gameobject s6fg_1 2 | message 366 | img hx=0 | img ux=0
+AS6FG	S6fg_2@rfruit2	react	d48930c86f		status 6	message 24 | ev gameobject s6fg_2 10 | message 24 | ev gameobject s6fg_2 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit2=0 | message 24 | ev gameobject s6fg_2 11 | ev gameobject s6fg_2 2 | message 366 | img hx=0 | img ux=0
+AS6FG	S6fg_3@rfruit3	react	c2bb70c668		status 6	message 24 | ev gameobject s6fg_3 10 | message 24 | ev gameobject s6fg_3 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit3=0 | message 24 | ev gameobject s6fg_3 11 | ev gameobject s6fg_3 2 | message 366 | img hx=0 | img ux=0
+AS7EG	S7eg_1@Rs7eg_1	react	ca089ee9c5		status 6	message 280 | ev gameobject s7eg_1 10 | message 280 | ev gameobject s7eg_1 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit1=0 | message 280 | ev gameobject s7eg_1 11 | ev gameobject s7eg_1 2 | img fruit2=1 | img fruit3=1 | 
+AS7EG	S7eg_2@Rs7eg_2	react	da9949691a		status 6	message 280 | ev gameobject s7eg_2 10 | message 280 | ev gameobject s7eg_2 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit2=0 | message 280 | ev gameobject s7eg_2 11 | ev gameobject s7eg_2 2 | img fruit1=1 | img fruit3=1 | 
+AS7EG	S7eg_3@RS7eg_3	react	a00334eaf1		status 6	message 280 | ev gameobject s7eg_3 10 | message 280 | ev gameobject s7eg_3 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit3=0 | message 280 | ev gameobject s7eg_3 11 | ev gameobject s7eg_3 2 | img fruit1=1 | img fruit2=1 | 
+AS7EG	S7eg_4@RS7eg_4	react	d9f5971d26		status 6	message 280 | ev gameobject s7eg_4 10 | message 280 | ev gameobject s7eg_4 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit4=0 | message 280 | ev gameobject s7eg_4 11 | ev gameobject s7eg_4 2 | img fruit1=1 | img fruit2=1 | 
+AS7EG	S7eg_5@RS7eg_5	react	ab4a2ad9d6		status 6	message 280 | ev gameobject s7eg_5 10 | message 280 | ev gameobject s7eg_5 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit5=0 | message 280 | ev gameobject s7eg_5 11 | ev gameobject s7eg_5 2 | img fruit1=1 | img fruit2=1 | 
+AS7EG	S7eg_6@RS7eg_6	react	eda7a4d2d6		status 6	message 280 | ev gameobject s7eg_6 10 | message 280 | ev gameobject s7eg_6 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit6=0 | message 280 | ev gameobject s7eg_6 11 | ev gameobject s7eg_6 2 | img fruit1=1 | img fruit2=1 | 
+AS7EG	S7eg_7@RS7eg_7	react	7c98fac9e1		status 6	message 280 | ev gameobject s7eg_7 10 | message 280 | ev gameobject s7eg_7 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit7=0 | message 280 | ev gameobject s7eg_7 11 | ev gameobject s7eg_7 2 | img fruit1=1 | img fruit2=1 | 
+AS7EG	S7eg_8@RS7eg_8	react	959cc5a7b0		status 6	message 280 | ev gameobject s7eg_8 10 | message 280 | ev gameobject s7eg_8 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit8=0 | message 280 | ev gameobject s7eg_8 11 | ev gameobject s7eg_8 2 | img fruit1=1 | img fruit2=1 | 
+AS8HE1	S8he1_1@RFRUIT1	react	445d390d06		status 6	message 281 | ev gameobject s8he1_1 10 | message 281 | ev gameobject s8he1_1 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | message 281 | ev gameobject s8he1_1 11 | ev gameobject s8he1_1 2 | message 366 | message 371
+AS8HE1	S8he1_2@RFRUIT2	react	01b189d902		status 6	message 281 | ev gameobject s8he1_2 10 | message 281 | ev gameobject s8he1_2 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | message 281 | ev gameobject s8he1_2 11 | ev gameobject s8he1_2 2 | message 366 | message 371
+AS8HE1	S8he1_3@RFRUIT3	react	8d375391cd		status 6	message 281 | ev gameobject s8he1_3 10 | message 281 | ev gameobject s8he1_3 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | message 281 | ev gameobject s8he1_3 11 | ev gameobject s8he1_3 2 | message 366 | message 371
+AS8HE1	S8he1_4@RFRUIT4	react	9fd5cfef3c		status 6	message 281 | ev gameobject s8he1_4 10 | message 281 | ev gameobject s8he1_4 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | message 281 | ev gameobject s8he1_4 11 | ev gameobject s8he1_4 2 | message 366 | message 371
+AS8HE1	S8he1_5@RFRUIT5	react	20b0777a2f		status 6	message 281 | ev gameobject s8he1_5 10 | message 281 | ev gameobject s8he1_5 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | message 281 | ev gameobject s8he1_5 11 | ev gameobject s8he1_5 2 | message 366 | message 371
+AS8HE1	S8he1_6@RFRUIT6	react	494e95af42		status 6	message 281 | ev gameobject s8he1_6 10 | message 281 | ev gameobject s8he1_6 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | message 281 | ev gameobject s8he1_6 11 | ev gameobject s8he1_6 2 | message 366 | message 371
+AS8HE2	S8he2_1@RFRUIT1	react	09f1498286		status 6	message 281 | ev gameobject s8he2_1 10 | message 281 | ev gameobject s8he2_1 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | message 281 | ev gameobject s8he2_1 11 | ev gameobject s8he2_1 2 | message 366 | message 371
+AS8HE2	S8he2_2@RFRUIT2	react	1dd3b2143e		status 6	message 281 | ev gameobject s8he2_2 10 | message 281 | ev gameobject s8he2_2 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | message 281 | ev gameobject s8he2_2 11 | ev gameobject s8he2_2 2 | message 366 | message 371
+AS8HE2	S8he2_3@RFRUIT3	react	b31a4ebe5f		status 6	message 281 | ev gameobject s8he2_3 10 | message 281 | ev gameobject s8he2_3 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | message 281 | ev gameobject s8he2_3 11 | ev gameobject s8he2_3 2 | message 366 | message 371
+AS8HE2	S8he2_4@RFRUIT4	react	6745a5c6c6		status 6	message 281 | ev gameobject s8he2_4 10 | message 281 | ev gameobject s8he2_4 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | message 281 | ev gameobject s8he2_4 11 | ev gameobject s8he2_4 2 | message 366 | message 371
+AS9AV_1	S9av_1@rfruit1	react	712ebb6c01		status 6	message 36 | ev gameobject s9av_1 10 | message 36 | ev gameobject s9av_1 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit1=0 | message 36 | ev gameobject s9av_1 11 | ev gameobject s9av_1 2 | message 366 | message 371
+AS9AV_2	S9av_2@rfruit2	react	5b2055c244		status 6	message 36 | ev gameobject s9av_2 10 | message 36 | ev gameobject s9av_2 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit2=0 | message 36 | ev gameobject s9av_2 11 | ev gameobject s9av_2 2 | message 366 | img fruit3=1 | img 
+AS9AV_2	S9av_3@rfruit3	react	0d37cb7945		status 6	message 36 | ev gameobject s9av_3 10 | message 36 | ev gameobject s9av_3 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit3=0 | message 36 | ev gameobject s9av_3 11 | ev gameobject s9av_3 2 | message 366 | img fruit2=1 | img 
+AS9AV_2	S9av_4@rfruit4	react	cf4ce0995d		status 6	message 36 | ev gameobject s9av_4 10 | message 36 | ev gameobject s9av_4 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit4=0 | message 36 | ev gameobject s9av_4 11 | ev gameobject s9av_4 2 | message 366 | img fruit2=1 | img 
+AS9AV_3	S9av_5@rfruit5	unreached	d41d8cd98f	open	covered	
+AS9AV_3	S9av_6@rfruit6	react	b467c7ac31		status 6	message 36 | ev gameobject s9av_6 10 | message 36 | ev gameobject s9av_6 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit6=0 | message 36 | ev gameobject s9av_6 11 | ev gameobject s9av_6 2 | message 366 | img fruit5=1 | mess
+AS9PE	S9pe_1@rfruit1	react	284b4166fd		status 6	message 35 | ev gameobject s9pe_1 10 | message 35 | ev gameobject s9pe_1 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit1=0 | message 35 | ev gameobject s9pe_1 11 | ev gameobject s9pe_1 2 | message 366 | img fruit2=1 | mess
+AS9PE	S9pe_2@rfruit2	react	39c20e31c5		status 6	message 35 | ev gameobject s9pe_2 10 | message 35 | ev gameobject s9pe_2 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img fruit2=0 | message 35 | ev gameobject s9pe_2 11 | ev gameobject s9pe_2 2 | message 366 | img fruit1=1 | mess
+BD	fireCO24@dropzone1	react	5f226c4ebc		status 1	ev anim 1 anims\obj_up\co2up.tan hideheld=1 | ev gameobject fireco24 10 | message 260 | ev gameobject fireco24 1 | message 365 | message 370 | held->fireCO24
+BD	fireH2O1@dropzone7	react	5ca3341a90		status 1	ev anim 1 anims\obj_up\h2oup.tan hideheld=1 | ev gameobject fireh2o1 10 | message 261 | ev gameobject fireh2o1 1 | message 365 | message 370 | held->fireH2O1
+BD	fuse30@dropzone4	react	aeea891a4a		status 1	ev anim 1 anims\obj_up\fuseup.tan hideheld=1 | ev gameobject fuse30 10 | message 278 | ev gameobject fuse30 1 | message 365 | message 370 | held->fuse30
+BD	fuse32@dropzone8	react	befba2eb6c		status 1	ev anim 1 anims\obj_up\fuseup.tan hideheld=1 | ev gameobject fuse32 10 | message 278 | ev gameobject fuse32 1 | message 365 | message 370 | held->fuse32
+BO	fireCO22@dropzone5	react	2f8d9155db		status 1	ev anim 1 anims\obj_up\co2up.tan hideheld=1 | ev gameobject fireco22 10 | message 260 | ev gameobject fireco22 1 | message 365 | message 370 | held->fireCO22
+BP	fireCO25@dropzone5	react	59e21aa369		status 1	ev anim 1 anims\obj_up\co2up.tan hideheld=1 | ev gameobject fireco25 10 | message 260 | ev gameobject fireco25 1 | message 365 | message 370 | held->fireCO25
+BR	fireH2O3@dropzone5	react	00ed6eae34		status 1	ev anim 1 anims\obj_up\h2oup.tan hideheld=1 | ev gameobject fireh2o3 10 | message 261 | ev gameobject fireh2o3 1 | message 365 | message 370 | held->fireH2O3
+BS	fireCO23@dropzone7	react	64524b58e2		status 1	ev anim 1 anims\obj_up\co2up.tan hideheld=1 | ev gameobject fireco23 10 | message 260 | ev gameobject fireco23 1 | message 365 | message 370 | held->fireCO23
+CE12	fireH2O2@dropzone1	react	8f817cc836		status 1	ev anim 1 anims\obj_up\h2oup.tan hideheld=1 | ev gameobject fireh2o2 10 | message 261 | ev gameobject fireh2o2 1 | message 365 | message 370 | held->fireH2O2
+CE30	champ1@dropzone1	react	7e84ded0e0		status 1	ev anim 1 anims\obj_up\champup.tan hideheld=1 | ev gameobject champ1 10 | message 277 | ev gameobject champ1 1 | message 365 | message 370 | held->champ1
+CE30	champ2@dropzone2	react	502f81feaf		status 1	ev anim 1 anims\obj_up\champup.tan hideheld=1 | ev gameobject champ2 10 | message 277 | ev gameobject champ2 1 | message 365 | message 370 | held->champ2
+CE30	champ3@dropzone3	react	96c0489a30		status 1	ev anim 1 anims\obj_up\champup.tan hideheld=1 | ev gameobject champ3 10 | message 277 | ev gameobject champ3 1 | message 365 | message 370 | held->champ3
+CE30	champ4@dropzone4	react	2143f3bf23		status 1	ev anim 1 anims\obj_up\champup.tan hideheld=1 | ev gameobject champ4 10 | message 277 | ev gameobject champ4 1 | message 365 | message 370 | held->champ4
+CE30	champ5@dropzone5	react	bd8b6588bf		status 1	ev anim 1 anims\obj_up\champup.tan hideheld=1 | ev gameobject champ5 10 | message 277 | ev gameobject champ5 1 | message 365 | message 370 | held->champ5
+CE30	champ6@dropzone6	react	0f1441828c		status 1	ev anim 1 anims\obj_up\champup.tan hideheld=1 | ev gameobject champ6 10 | message 277 | ev gameobject champ6 1 | message 365 | message 370 | held->champ6
+CE7	torch@dropzone1	react	87be5fddca		status 1	ev anim 1 anims\obj_up\torchup.tan hideheld=1 | ev gameobject torch 10 | message 233 | ev gameobject torch 1 | message 365 | message 370 | held->torch
+CE7A	beef16@dropzone2	react	ffaaf08545		status 1	ev anim 1 anims\obj_up\beefup.tan hideheld=1 | ev gameobject beef16 10 | message 276 | ev gameobject beef16 1 | message 276 | message 365 | message 370 | held->beef16
+CE7A	beef17@dropzone3	react	2c655c8487		status 1	ev anim 1 anims\obj_up\beefup.tan hideheld=1 | ev gameobject beef17 10 | message 276 | ev gameobject beef17 1 | message 276 | message 365 | message 370 | held->beef17
+CE7A	beef18@dropzone4	react	182a790aa8		status 1	ev anim 1 anims\obj_up\beefup.tan hideheld=1 | ev gameobject beef18 10 | message 276 | ev gameobject beef18 1 | message 276 | message 365 | message 370 | held->beef18
+CE7A	beef19@dropzone5	react	a803a37a56		status 1	ev anim 1 anims\obj_up\beefup.tan hideheld=1 | ev gameobject beef19 10 | message 276 | ev gameobject beef19 1 | message 276 | message 365 | message 370 | held->beef19
+CE7A	fuse28@dropzonef	react	41ef2ca045		status 1	ev anim 1 anims\obj_up\fuseup.tan hideheld=1 | ev gameobject fuse28 10 | message 278 | ev gameobject fuse28 1 | message 365 | message 370 | held->fuse28
+CE7A	fuse29@dropzonef1	react	cb7d2a065f		status 1	ev anim 1 anims\obj_up\fuseup.tan hideheld=1 | ev gameobject fuse29 10 | message 278 | ev gameobject fuse29 1 | message 365 | message 370 | held->fuse29
+CE9	devlet@dropzone3	react	9d2695fc0a		status 1	ev anim 1 anims\obj_up\devup.tan hideheld=1 | ev gameobject devlet 10 | message 306 | ev gameobject devlet 1 | message 365 | message 370 | held->devlet
+DB3	db3xx_3@Rdb3xx_3	react	3b5824a49c		status 6	ev gameobject db3xx_3 10 | ev gameobject db3xx_3 1 | ev gameobject db3xx_3 11 | ev gameobject db3xx_3 2
+DB4	canteen@dropzone15	react	f92ddb2a19		status 1	ev anim 1 anims\obj_up\cantup.tan hideheld=1 | ev gameobject canteen 10 | message 43 | ev gameobject canteen 1 | message 365 | message 370 | held->canteen
+EANGEL1	apple@dropzone1	react	134fb154a6		status 1	ev anim 1 anims\obj_up\appleup.tan hideheld=1 | ev gameobject apple 10 | ev gameobject apple 1 | OpenSound sounds\misc\mileston.wav | PlaySound | held->apple
+FBDFUSE	fuse38@fuse_15	off	d41d8cd98f		disabled	
+FBDFUSE	fuse39@fuse_16	off	d41d8cd98f		disabled	
+FBDFUSE	fuse40@fuse_17	off	d41d8cd98f		disabled	
+FBOFUSE	fuse41@fuse_01	off	d41d8cd98f		disabled	
+FBOFUSE	fuse42@fuse_03	off	d41d8cd98f		disabled	
+FBOFUSE	fuse43@fuse_04	off	d41d8cd98f		disabled	
+FBOFUSE	fuse44@fuse_05	off	d41d8cd98f		disabled	
+FBOFUSE	fuse45@fuse_06	off	d41d8cd98f		disabled	
+FBOFUSE	fuse46@fuse_07	off	d41d8cd98f		disabled	
+FBOFUSE	fuse47@fuse_08	off	d41d8cd98f		disabled	
+FBOFUSE	fuse48@fuse_09	off	d41d8cd98f		disabled	
+FBOFUSE	fuse49@fuse_10	off	d41d8cd98f		disabled	
+FBOFUSE	fuse50@fuse_11	off	d41d8cd98f		disabled	
+FBOFUSE	fuse51@fuse_13	off	d41d8cd98f		disabled	
+FBOFUSE	fuse52@fuse_14	off	d41d8cd98f		disabled	
+FBOFUSE	fuse53@fuse_15	off	d41d8cd98f		disabled	
+FBOFUSE	fuse54@fuse_16	off	d41d8cd98f		disabled	
+FBOFUSE	fuse55@fuse_17	off	d41d8cd98f		disabled	
+FBOFUSE	fuse56@fuse_18	off	d41d8cd98f		disabled	
+FBOFUSE	fuse57@fuse_19	off	d41d8cd98f		disabled	
+FBPFUSE	fuse58@fuse_05	off	d41d8cd98f		disabled	
+FBPFUSE	fuse59@fuse_06	off	d41d8cd98f		disabled	
+FBPFUSE	fuse60@fuse_15	off	d41d8cd98f		disabled	
+FBPFUSE	fuse61@fuse_16	off	d41d8cd98f		disabled	
+FBRFUSE	fuse10@fuse_13	off	d41d8cd98f		disabled	
+FBRFUSE	fuse11@fuse_14	off	d41d8cd98f		disabled	
+FBRFUSE	fuse12@fuse_15	off	d41d8cd98f		disabled	
+FBRFUSE	fuse13@fuse_16	off	d41d8cd98f		disabled	
+FBRFUSE	fuse14@fuse_17	off	d41d8cd98f		disabled	
+FBRFUSE	fuse1@fuse_01	off	d41d8cd98f		disabled	
+FBRFUSE	fuse2@fuse_02	off	d41d8cd98f		disabled	
+FBRFUSE	fuse3@fuse_03	off	d41d8cd98f		disabled	
+FBRFUSE	fuse4@fuse_04	off	d41d8cd98f		disabled	
+FBRFUSE	fuse5@fuse_05	off	d41d8cd98f		disabled	
+FBRFUSE	fuse6@fuse_06	off	d41d8cd98f		disabled	
+FBRFUSE	fuse7@fuse_07	off	d41d8cd98f		disabled	
+FBRFUSE	fuse8@fuse_11	off	d41d8cd98f		disabled	
+FBRFUSE	fuse9@fuse_12	off	d41d8cd98f		disabled	
+FBSFUSE	fuse16@fuse_03	off	d41d8cd98f		disabled	
+FBSFUSE	fuse17@fuse_04	off	d41d8cd98f		disabled	
+FBSFUSE	fuse18@fuse_05	off	d41d8cd98f		disabled	
+FBSFUSE	fuse19@fuse_06	off	d41d8cd98f		disabled	
+FBSFUSE	fuse20@fuse_07	off	d41d8cd98f		disabled	
+FBSFUSE	fuse21@fuse_11	off	d41d8cd98f		disabled	
+FBSFUSE	fuse22@fuse_12	off	d41d8cd98f		disabled	
+FBSFUSE	fuse23@fuse_13	off	d41d8cd98f		disabled	
+FBSFUSE	fuse24@fuse_14	off	d41d8cd98f		disabled	
+FBSFUSE	fuse25@fuse_15	off	d41d8cd98f		disabled	
+FBSFUSE	fuse26@fuse_16	off	d41d8cd98f		disabled	
+FBSFUSE	fuse27@fuse_17	off	d41d8cd98f		disabled	
+FCE10DED_O	crowbar@dropzone1	react	0dcaaaf64c		status 1	ev anim 1 anims\obj_up\crowup.tan hideheld=1 | ev gameobject crowbar 10 | message 252 | ev gameobject crowbar 1 | message 365 | message 370 | held->crowbar
+FCE7FIRE	mikememo@dropzone2	react	b004465b90		status 1	ev anim 1 anims\obj_up\mikeup.tan hideheld=1 | ev gameobject mikememo 10 | message 308 | ev gameobject mikememo 1 | message 365 | message 370 | held->mikememo
+FCE7FIRE	oxy_mask@dropzone1	react	444cbe235e		status 1	ev anim 1 anims\obj_up\airup.tan hideheld=1 | ev gameobject oxy_mask 10 | message 257 | ev gameobject oxy_mask 1 | message 365 | message 370 | held->oxy_mask
+FCE9CAB_O	CEblue@dropzone1	react	f71a693b6e		status 1	ev anim 1 anims\obj_up\ceblueup.tan hideheld=1 | ev gameobject ceblue 10 | message 267 | ev gameobject ceblue 1 | message 365 | message 370 | held->CEblue
+FCE9CAB_O	flop1@dropzone2	react	6ba0054425		status 1	ev anim 1 anims\obj_up\zivup.tan hideheld=1 | ev gameobject flop1 10 | message 244 | ev gameobject flop1 1 | message 365 | message 370 | held->flop1
+FCE9CAB_O	goggles@dropgog	react	3aa7944d14		status 1	ev anim 1 anims\obj_up\gogup.tan hideheld=1 | ev gameobject goggles 10 | message 253 | ev gameobject goggles 1 | PlaceGameObject srcObject=goggles extraImage=power5 dstObject=goggles imageKind=wearing ho | message 365 | message 370 | held->
+FPH12MEDBO	adren1@dadren1	off	d41d8cd98f		disabled	
+FPH12MEDBO	adren2@dadren2	off	d41d8cd98f		disabled	
+FPH12MEDBO	adren3@dadren3	off	d41d8cd98f		disabled	
+FPH12MEDBO	adren4@dadren4	off	d41d8cd98f		disabled	
+FPH12MEDBO	adren5@dadren5	off	d41d8cd98f		disabled	
+FPH12MEDBO	chlor1@dchlor1	off	d41d8cd98f		disabled	
+FPH12MEDBO	chlor2@dchlor2	off	d41d8cd98f		disabled	
+FPH12MEDBO	chlor3@dchlor3	off	d41d8cd98f		disabled	
+FPH12MEDBO	chlor4@dchlor4	off	d41d8cd98f		disabled	
+FPH12MEDBO	chlor5@dchlor5	off	d41d8cd98f		disabled	
+FPH12MEDBO	inhal1@dinhal1	off	d41d8cd98f		disabled	
+FPH12MEDBO	inhal2@dinhal2	off	d41d8cd98f		disabled	
+FPH12MEDBO	inhal3@dinhal3	off	d41d8cd98f		disabled	
+FPH12MEDBO	inhal4@dinhal4	off	d41d8cd98f		disabled	
+FPH12MEDBO	sleep1@dsleep1	off	d41d8cd98f		disabled	
+FPH12MEDBO	sleep2@dsleep2	off	d41d8cd98f		disabled	
+FPH12MEDBO	sleep3@dsleep3	off	d41d8cd98f		disabled	
+FPH12MEDBO	sleep4@dsleep4	off	d41d8cd98f		disabled	
+FPH12MEDBO	vit1@dvit1	off	d41d8cd98f		disabled	
+FPH12MEDBO	vit2@dvit2	off	d41d8cd98f		disabled	
+FPH12MEDBO	vit3@dvit3	off	d41d8cd98f		disabled	
+FPH12MEDBO	vit4@dvit4	off	d41d8cd98f		disabled	
+FPH13SYNTH	babylab@DROPZONE1	react	a8fb0d7d09		status 1	ev anim 1 anims\obj_up\rotup.tan hideheld=1 | ev gameobject babylab 10 | message 218 | ev gameobject babylab 1 | message 365 | message 370 | held->babylab
+FPH17DAT	dat1@dropzone1	react	ca4231a6b3		status 1	ev anim 1 anims\obj_up\datup.tan hideheld=1 | ev gameobject dat1 10 | message 240 | ev gameobject dat1 1 | message 365 | message 370 | held->dat1
+FPH6MIR_B	poem1@dropzone1	react	e89e5347e3		status 1	ev anim 1 anims\obj_up\poem1up.tan hideheld=1 | ev gameobject poem1 10 | message 272 | ev gameobject poem1 1 | ReturnGameObject object=baby1 | ReturnGameObject object=baby2 | ReturnGameObject object=baby3 | ReturnGameObject object=baby4 | R
+FPH8CAB_O	File3@dropzone1	react	5adea00bc1		status 1	ev anim 1 anims\obj_up\fileup.tan hideheld=1 | ev gameobject file3 10 | message 264 | ev gameobject file3 1 | message 365 | message 370 | held->File3
+FPH8CAB_O	medipass@dropzone4	react	6ce9baeaa0		status 1	ev anim 1 anims\obj_up\mediup.tan hideheld=1 | ev gameobject medipass 10 | message 250 | ev gameobject medipass 1 | message 365 | message 370 | held->medipass
+FPH8CAB_O	video6@dropzone3	react	88b384394d		status 1	ev anim 1 anims\obj_up\vidup.tan hideheld=1 | ev gameobject video6 10 | message 239 | ev gameobject video6 1 | message 365 | message 370 | held->video6
+FR10LOG	grub_10@grub_10	off	d41d8cd98f		disabled	
+FR10LOG	grub_1@grub_1	off	d41d8cd98f		disabled	
+FR10LOG	grub_2@grub_2	off	d41d8cd98f		disabled	
+FR10LOG	grub_3@grub_3	off	d41d8cd98f		disabled	
+FR10LOG	grub_4@grub_4	off	d41d8cd98f		disabled	
+FR10LOG	grub_5@grub_5	off	d41d8cd98f		disabled	
+FR10LOG	grub_6@grub_6	off	d41d8cd98f		disabled	
+FR10LOG	grub_7@grub_7	off	d41d8cd98f		disabled	
+FR10LOG	grub_8@grub_8	off	d41d8cd98f		disabled	
+FR10LOG	grub_9@grub_9	off	d41d8cd98f		disabled	
+FS9TERM	term_10@term_10	off	d41d8cd98f		disabled	
+FS9TERM	term_1@term_1	off	d41d8cd98f		disabled	
+FS9TERM	term_2@term_2	off	d41d8cd98f		disabled	
+FS9TERM	term_3@term_3	off	d41d8cd98f		disabled	
+FS9TERM	term_4@term_4	off	d41d8cd98f		disabled	
+FS9TERM	term_5@term_5	off	d41d8cd98f		disabled	
+FS9TERM	term_6@term_6	off	d41d8cd98f		disabled	
+FS9TERM	term_7@term_7	off	d41d8cd98f		disabled	
+FS9TERM	term_8@term_8	off	d41d8cd98f		disabled	
+FS9TERM	term_9@term_9	off	d41d8cd98f		disabled	
+NBRBIOS4	File1@dropzone1	react	86ad12705c		status 1	ev anim 1 anims\obj_up\fileup.tan hideheld=1 | ev gameobject file1 10 | message 262 | ev gameobject file1 1 | message 365 | message 370 | held->File1
+NBRBIOS4	rfmap@dropzone2	react	fce5acff4d		status 1	ev anim 1 anims\obj_up\rfmapup.tan hideheld=1 | ev gameobject rfmap 10 | message 265 | ev gameobject rfmap 1 | message 365 | message 370 | held->rfmap
+NCE3DEAD	wifelet@dropzone1	react	a180e17e48		status 1	ev anim 1 anims\obj_up\wifeup.tan hideheld=1 | ev gameobject wifelet 10 | message 271 | ev gameobject wifelet 1 | message 365 | message 370 | held->wifelet
+NCE4RECEP	pamphlet@dropzone1	react	2032c60885		status 1	ev anim 1 anims\obj_up\pamphup.tan hideheld=1 | ev gameobject pamphlet 10 | message 269 | ev gameobject pamphlet 1 | message 365 | message 370 | held->pamphlet
+NDB4DEAD	forekey@dropzone2	react	98feadbdf1		status 1	ev anim 1 anims\obj_up\forekup.tan hideheld=1 | ev gameobject forekey 10 | message 245 | ev gameobject forekey 1 | message 365 | message 370 | held->forekey
+NDB4DEAD	russmemo@dropzone1	react	4c109d384a		status 1	ev anim 1 anims\obj_up\russup.tan hideheld=1 | ev gameobject russmemo 10 | message 307 | ev gameobject russmemo 1 | OpenSound sounds\misc\mileston.wav | PlaySound | message 365 | message 370 | held->russmemo
+NDB5DEAD	friendlet@dropzone2	react	408c0f1ac7		status 1	ev anim 1 anims\obj_up\friendup.tan hideheld=1 | ev gameobject friendlet 10 | message 270 | ev gameobject friendlet 1 | message 365 | message 370 | held->friendlet
+NDB5DEAD	poncho@dropzone1	react	8975d92cd5		status 1	ev anim 1 anims\obj_up\ponchup.tan hideheld=1 | ev gameobject poncho 10 | message 255 | ev gameobject poncho 1 | message 365 | message 370 | held->poncho
+NPH1DRINK	mescal1@dropzone1	react	9490789107		status 1	ev anim 1 anims\obj_up\mescalup.tan hideheld=1 | ev gameobject mescal1 10 | message 221 | ev gameobject mescal1 1 | message 365 | message 370 | held->mescal1
+NPH1SHELVE	video1@dropzone2	react	7dc8bea7e6		status 1	ev anim 1 anims\obj_up\vidup.tan hideheld=1 | ev gameobject video1 10 | message 234 | ev gameobject video1 1 | message 365 | message 370 | held->video1
+NPH1SHELVE	video3@dropzone1	react	bae226ce52		status 1	ev anim 1 anims\obj_up\vidup.tan hideheld=1 | ev gameobject video3 10 | message 236 | ev gameobject video3 1 | message 365 | message 370 | held->video3
+O1	kukri@dropzone1	react	a8c0f3f99a		status 1	ev anim 1 anims\obj_up\kukup.tan hideheld=1 | ev gameobject kukri 10 | message 249 | ev gameobject kukri 1 | OpenSound sounds\misc\mileston.wav | PlaySound | message 365 | message 370 | held->kukri
+O1	o1fish_1@o1fish_1	off	d41d8cd98f		disabled	
+O1	o1fish_2@o1fish_2	off	d41d8cd98f		disabled	
+O1	o1fish_3@o1fish_3	off	d41d8cd98f		disabled	
+O1	o1fish_4@o1fish_4	off	d41d8cd98f		disabled	
+O1	o1fish_5@o1fish_5	off	d41d8cd98f		disabled	
+O1	o1fish_6@o1fish_6	off	d41d8cd98f		disabled	
+O1	o1p_1@O1p_1	off	d41d8cd98f		disabled	
+O1	o1p_2@O1p_2	off	d41d8cd98f		disabled	
+O1	o1p_3@O1p_3	off	d41d8cd98f		disabled	
+O1	o1p_4@O1p_4	off	d41d8cd98f		disabled	
+O1	o1p_5@O1p_5	off	d41d8cd98f		disabled	
+O2	O2cc_1@RO2cc_1	off	d41d8cd98f		disabled	
+O2	O2cc_2@RO2cc_2	off	d41d8cd98f		disabled	
+O2	O2cc_3@RO2cc_3	off	d41d8cd98f		disabled	
+O2	O2cc_4@RO2cc_4	off	d41d8cd98f		disabled	
+O2	O2cc_5@RO2cc_5	off	d41d8cd98f		disabled	
+O2	o2p_1@O2p_1	off	d41d8cd98f		disabled	
+O2	o2p_2@O2p_2	off	d41d8cd98f		disabled	
+O2	o2p_3@O2p_3	off	d41d8cd98f		disabled	
+PH1	File2@dropzone11	react	abb9b7aa43		status 1	ev anim 1 anims\obj_up\fileup.tan hideheld=1 | ev gameobject file2 10 | message 263 | ev gameobject file2 1 | message 365 | message 370 | held->File2
+PH1	video5@dropzone16	react	287783bf3e		status 1	ev anim 1 anims\obj_up\vidup.tan hideheld=1 | ev gameobject video5 10 | message 238 | ev gameobject video5 1 | message 365 | message 370 | held->video5
+PH12	tracker@dropzone1	react	ffeb42ba25		status 1	ev anim 1 anims\obj_up\trackup.tan hideheld=1 | ev gameobject tracker 10 | message 258 | OpenSound sounds\objects\trckswp1.wav | ev gameobject tracker 1 | message 365 | message 370 | PlaySound | held->tracker
+PH13	dat2@dropzone3	react	1eea76bb86		status 1	ev anim 1 anims\obj_up\datup.tan hideheld=1 | ev gameobject dat2 10 | message 241 | ev gameobject dat2 1 | message 365 | message 370 | held->dat2
+PH13	dat3@DROPZONEQ	react	ae1bdcd3ff		status 1	ev anim 1 anims\obj_up\datup.tan hideheld=1 | ev gameobject dat3 10 | message 242 | ev gameobject dat3 1 | message 365 | message 370 | held->dat3
+PH13	dat4@dropzone5	react	9f1cf8caa7		status 1	ev anim 1 anims\obj_up\datup.tan hideheld=1 | ev gameobject dat4 10 | message 243 | ev gameobject dat4 1 | message 365 | message 370 | held->dat4
+PH13	oxy_cyl@dropzone2	react	a2ad86d216		status 1	ev anim 1 anims\obj_up\cylup.tan hideheld=1 | ev gameobject oxy_cyl 10 | message 232 | message 232 | ev gameobject oxy_cyl 1 | message 365 | message 370 | held->oxy_cyl
+PH13	poem2@dropzone4	react	264d7d3274		status 1	ev anim 1 anims\obj_up\poem2up.tan hideheld=1 | ev gameobject poem2 10 | message 273 | ev gameobject poem2 1 | OpenSound sounds\misc\mileston.wav | message 365 | message 370 | held->poem2
+PH3	beef10@DROPZONE10	react	3c7dbad582		status 1	ev anim 1 anims\obj_up\beefup.tan hideheld=1 | ev gameobject beef10 10 | message 276 | ev gameobject beef10 1 | message 276 | message 365 | message 370 | held->beef10
+PH3	beef11@DROPZONE11	react	b393af93ed		status 1	ev anim 1 anims\obj_up\beefup.tan hideheld=1 | ev gameobject beef11 10 | message 276 | ev gameobject beef11 1 | message 276 | message 365 | message 370 | held->beef11
+PH3	beef12@DROPZONE12	react	070ce22a16		status 1	ev anim 1 anims\obj_up\beefup.tan hideheld=1 | ev gameobject beef12 10 | message 276 | ev gameobject beef12 1 | message 276 | message 365 | message 370 | held->beef12
+PH3	beef13@DROPZONE13	react	dfd989832a		status 1	ev anim 1 anims\obj_up\beefup.tan hideheld=1 | ev gameobject beef13 10 | message 276 | ev gameobject beef13 1 | message 276 | message 365 | message 370 | held->beef13
+PH3	beef14@DROPZONE14	react	caeb7cd874		status 1	ev anim 1 anims\obj_up\beefup.tan hideheld=1 | ev gameobject beef14 10 | message 276 | ev gameobject beef14 1 | message 276 | message 365 | message 370 | held->beef14
+PH3	beef15@DROPZONE15	react	fad523845b		status 1	ev anim 1 anims\obj_up\beefup.tan hideheld=1 | ev gameobject beef15 10 | message 276 | ev gameobject beef15 1 | message 276 | message 365 | message 370 | held->beef15
+PH3	beef1@DROPZONE1	react	8200dd8a10		status 1	ev anim 1 anims\obj_up\beefup.tan hideheld=1 | ev gameobject beef1 10 | message 276 | ev gameobject beef1 1 | message 276 | message 365 | message 370 | held->beef1
+PH3	beef2@DROPZONE2	react	5bcc6ee45c		status 1	ev anim 1 anims\obj_up\beefup.tan hideheld=1 | ev gameobject beef2 10 | message 276 | ev gameobject beef2 1 | message 276 | message 365 | message 370 | held->beef2
+PH3	beef3@DROPZONE3	react	d7d96d8b46		status 1	ev anim 1 anims\obj_up\beefup.tan hideheld=1 | ev gameobject beef3 10 | message 276 | ev gameobject beef3 1 | message 276 | message 365 | message 370 | held->beef3
+PH3	beef4@DROPZONE4	react	55b3bf8017		status 1	ev anim 1 anims\obj_up\beefup.tan hideheld=1 | ev gameobject beef4 10 | message 276 | ev gameobject beef4 1 | message 276 | message 365 | message 370 | held->beef4
+PH3	beef5@DROPZONE5	react	55bb526b12		status 1	ev anim 1 anims\obj_up\beefup.tan hideheld=1 | ev gameobject beef5 10 | message 276 | ev gameobject beef5 1 | message 276 | message 365 | message 370 | held->beef5
+PH3	beef6@DROPZONE6	react	52b35f0f6d		status 1	ev anim 1 anims\obj_up\beefup.tan hideheld=1 | ev gameobject beef6 10 | message 276 | ev gameobject beef6 1 | message 276 | message 365 | message 370 | held->beef6
+PH3	beef7@DROPZONE7	react	ec627a5190		status 1	ev anim 1 anims\obj_up\beefup.tan hideheld=1 | ev gameobject beef7 10 | message 276 | ev gameobject beef7 1 | message 276 | message 365 | message 370 | held->beef7
+PH3	beef8@DROPZONE8	react	a4de101deb		status 1	ev anim 1 anims\obj_up\beefup.tan hideheld=1 | ev gameobject beef8 10 | message 276 | ev gameobject beef8 1 | message 276 | message 365 | message 370 | held->beef8
+PH3	beef9@DROPZONE9	react	043c55f23c		status 1	ev anim 1 anims\obj_up\beefup.tan hideheld=1 | ev gameobject beef9 10 | message 276 | ev gameobject beef9 1 | message 276 | message 365 | message 370 | held->beef9
+PH5	alarm@dropzone12	react	26f2cce617		status 1	ev anim 1 anims\obj_up\alarmup.tan hideheld=1 | ev gameobject alarm 10 | message 274 | ev gameobject alarm 1 | message 365 | message 370 | held->alarm
+PH5	sleep5@dropsleep	react	2653ccf9fb		status 1	ev anim 1 anims\obj_up\sleepup.tan hideheld=1 | ev gameobject sleep5 10 | message 223 | ev gameobject sleep5 1 | message 365 | message 370 | held->sleep5
+PH5	statue@dropstat	react	87ae3edaf0		status 1	ev anim 1 anims\obj_up\statueup.tan hideheld=1 | ev gameobject statue 10 | message 309 | ev gameobject statue 1 | message 365 | message 370 | held->statue
+PH5	video4@dropzonev	react	0b7363addb		status 1	ev anim 1 anims\obj_up\vidup.tan hideheld=1 | ev gameobject video4 10 | message 237 | ev gameobject video4 1 | message 365 | message 370 | held->video4
+PH6	inhal5@dropzone2	react	54693f6e96		status 1	ev anim 1 anims\obj_up\inhalup.tan hideheld=1 | ev gameobject inhal5 10 | message 222 | ev gameobject inhal5 1 | message 365 | message 370 | held->inhal5
+PH6	vit5@dropzone3	react	cc4bb99b2c		status 1	ev anim 1 anims\obj_up\vitup.tan hideheld=1 | ev gameobject vit5 10 | message 226 | ev gameobject vit5 1 | message 365 | message 370 | held->vit5
+PH8	video2@dropzonex	react	67ea3016d1		status 1	ev anim 1 anims\obj_up\vidup.tan hideheld=1 | ev gameobject video2 10 | message 235 | ev gameobject video2 1 | message 365 | message 370 | held->video2
+R1	R1pa_1@RR1pa_1	off	d41d8cd98f		disabled	
+R10	r10p_1@R10p_1	off	d41d8cd98f		disabled	
+R10	r10p_2@R10p_2	off	d41d8cd98f		disabled	
+R10	r10p_3@R10p_3	off	d41d8cd98f		disabled	
+R2	R2or_1@Rr2or_1	off	d41d8cd98f		disabled	
+R2	R2or_2@Rr2or_2	off	d41d8cd98f		disabled	
+R2	R2or_3@Rr2or_3	off	d41d8cd98f		disabled	
+R2	R2or_4@Rr2or_4	react	d06966914c		status 6	message 8 | ev gameobject r2or_4 10 | message 8 | ev gameobject r2or_4 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img r2or_4=0 | message 8 | ev gameobject r2or_4 11 | ev gameobject r2or_4 2 | message 371
+R2	R2or_5@Rr2or_5	react	3a726c6f94		status 6	message 8 | ev gameobject r2or_5 10 | message 8 | ev gameobject r2or_5 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img r2or_5=0 | message 8 | ev gameobject r2or_5 11 | ev gameobject r2or_5 2 | message 371
+R2	R2or_6@Rr2or_6	react	4d9bb916b2		status 6	message 8 | ev gameobject r2or_6 10 | message 8 | ev gameobject r2or_6 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img r2or_6=0 | message 8 | ev gameobject r2or_6 11 | ev gameobject r2or_6 2 | message 371
+R2	R2pa_1@Rr2pa_1	off	d41d8cd98f		disabled	
+R2	R2pa_2@Rr2pa_2	off	d41d8cd98f		disabled	
+R2	R2pa_3@Rr2pa_3	off	d41d8cd98f		disabled	
+R2	R2pa_4@Rr2pa_4	off	d41d8cd98f		disabled	
+R2	r2fish_1@r2fish_1	off	d41d8cd98f		disabled	
+R2	r2fish_2@r2fish_2	off	d41d8cd98f		disabled	
+R2	r2fish_3@r2fish_3	off	d41d8cd98f		disabled	
+R2	wand@dropzone10	react	8eece709b0		status 1	ev anim 1 anims\obj_up\wandup.tan hideheld=1 | ev gameobject wand 10 | message 248 | ev gameobject wand 1 | OpenSound sounds\misc\mileston.wav | PlaySound | message 370 | held->wand
+R3	r3p_1@R3p_1	react	5f1a4adb42		status 6	message 324 | ev gameobject r3p_1 10 | message 324 | ev gameobject r3p_1 1 | message 324 | ev gameobject r3p_1 11 | ev gameobject r3p_1 2 | message 371
+R3	r3p_2@R3p_2	react	521941343d		status 6	message 324 | ev gameobject r3p_2 10 | message 324 | ev gameobject r3p_2 1 | message 324 | ev gameobject r3p_2 11 | ev gameobject r3p_2 2 | message 371
+R4	r4p_1@R4p_1	unreached	d41d8cd98f	open	enabled, not in view	
+R4	r4p_2@R4p_2	react	a32c830c22		status 6	message 324 | ev gameobject r4p_2 10 | message 324 | ev gameobject r4p_2 1 | message 324 | ev gameobject r4p_2 11 | ev gameobject r4p_2 2 | message 371
+R5	R5av_1@Rr5av_1	off	d41d8cd98f		disabled	
+R5	R5av_2@Rr5av_2	off	d41d8cd98f		disabled	
+R5	R5av_3@Rr5av_3	off	d41d8cd98f		disabled	
+R5	R5bz_1@Rr5bz_1	react	5c3ee287d5		status 6	message 14 | ev gameobject r5bz_1 10 | message 14 | ev gameobject r5bz_1 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img r5bz_1=0 | message 14 | ev gameobject r5bz_1 11 | ev gameobject r5bz_1 2 | message 371
+R5	R5bz_2@Rr5bz_2	react	e45ca0ddc4		status 6	message 14 | ev gameobject r5bz_2 10 | message 14 | ev gameobject r5bz_2 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img r5bz_2=0 | message 14 | ev gameobject r5bz_2 11 | ev gameobject r5bz_2 2 | message 371
+R5	R5bz_3@Rr5bz_3	react	0d34bd8137		status 6	message 14 | ev gameobject r5bz_3 10 | message 14 | ev gameobject r5bz_3 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img r5bz_3=0 | message 14 | ev gameobject r5bz_3 11 | ev gameobject r5bz_3 2 | message 371
+R5	R5bz_4@Rr5bz_4	react	d08d9e87db		status 6	message 14 | ev gameobject r5bz_4 10 | message 14 | ev gameobject r5bz_4 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img r5bz_4=0 | message 14 | ev gameobject r5bz_4 11 | ev gameobject r5bz_4 2 | message 371
+R5	R5bz_5@Rr5bz_5	react	dec1e6875a		status 6	message 14 | ev gameobject r5bz_5 10 | message 14 | ev gameobject r5bz_5 1 | OpenSound sounds\objects\pickuse.wav | PlaySound | img r5bz_5=0 | message 14 | ev gameobject r5bz_5 11 | ev gameobject r5bz_5 2 | message 371
+R5	compass@dropzone7	react	ce833957bc		status 1	ev anim 1 anims\obj_up\compup.tan hideheld=1 | ev gameobject compass 10 | message 256 | ChangeGameObjectHoldingImagesGroup object=compass group=6 | ev gameobject compass 1 | message 365 | message 370 | held->compass
+R6	R6ba_1@Rr6ba_1	react	f91435a285		status 6	message 7 | ev gameobject r6ba_1 10 | message 7 | ev gameobject r6ba_1 1 | OpenSound sounds\objects\pickuse.wav | img r6ba_1=0 | message 7 | ev gameobject r6ba_1 11 | ev gameobject r6ba_1 2 | message 371 | PlaySound
+R6	R6ba_2@Rr6ba_2	react	1fe0bb5f25		status 6	message 7 | ev gameobject r6ba_2 10 | message 7 | ev gameobject r6ba_2 1 | OpenSound sounds\objects\pickuse.wav | img r6ba_2=0 | message 7 | ev gameobject r6ba_2 11 | ev gameobject r6ba_2 2 | message 371 | PlaySound
+R6	R6ba_3@Rr6ba_3	react	c762a2136d		status 6	message 7 | ev gameobject r6ba_3 10 | message 7 | ev gameobject r6ba_3 1 | OpenSound sounds\objects\pickuse.wav | img r6ba_3=0 | message 7 | ev gameobject r6ba_3 11 | ev gameobject r6ba_3 2 | message 371 | PlaySound
+R6	r6p_1@R6p_1	react	6bd6edf585		status 6	message 324 | ev gameobject r6p_1 10 | message 324 | ev gameobject r6p_1 1 | message 324 | ev gameobject r6p_1 11 | ev gameobject r6p_1 2 | message 371
+R6	r6p_2@R6p_2	react	b98ede5a5a		status 6	message 329 | ev gameobject r6p_2 10 | message 329 | ev gameobject r6p_2 1 | message 329 | ev gameobject r6p_2 11 | ev gameobject r6p_2 2 | message 371
+R6	r6p_3@R6p_3	react	934c900bb7		status 6	message 329 | ev gameobject r6p_3 10 | message 329 | ev gameobject r6p_3 1 | message 329 | ev gameobject r6p_3 11 | ev gameobject r6p_3 2 | message 371
+R7	R7Ag_2@Rr7ag_2	react	0be8cab8d7		status 6	message 17 | ev gameobject r7ag_2 10 | message 17 | ev gameobject r7ag_2 1 | OpenSound sounds\objects\pickuse.wav | img r7ag_2=0 | message 17 | ev gameobject r7ag_2 11 | ev gameobject r7ag_2 2 | message 371 | PlaySound
+R7	R7av_1@Rr7av_1	off	d41d8cd98f		disabled	
+R7	R7av_2@Rr7av_2	off	d41d8cd98f		disabled	
+R7	R7av_3@Rr7av_3	react	f22f36e810		status 6	message 3 | ev gameobject r7av_3 10 | message 3 | ev gameobject r7av_3 1 | OpenSound sounds\objects\pickuse.wav | img r7av_3=0 | message 3 | ev gameobject r7av_3 11 | ev gameobject r7av_3 2 | message 371 | PlaySound
+R7	R7av_4@Rr7av_4	react	1e7e7d3301		status 6	message 3 | ev gameobject r7av_4 10 | message 3 | ev gameobject r7av_4 1 | OpenSound sounds\objects\pickuse.wav | img r7av_4=0 | message 3 | ev gameobject r7av_4 11 | ev gameobject r7av_4 2 | message 371 | PlaySound
+R7	R7av_5@Rr7av_5	react	8ec57c7a33		status 6	message 3 | ev gameobject r7av_5 10 | message 3 | ev gameobject r7av_5 1 | OpenSound sounds\objects\pickuse.wav | img r7av_5=0 | message 3 | ev gameobject r7av_5 11 | ev gameobject r7av_5 2 | message 371 | PlaySound
+R7	R7or_1@Rr7or_1	off	d41d8cd98f		disabled	
+R7	R7or_2@Rr7or_2	off	d41d8cd98f		disabled	
+R7	R7or_3@Rr7or_3	off	d41d8cd98f		disabled	
+R7	r7fish_1@r7fish_1	off	d41d8cd98f		disabled	
+R7	r7fish_2@r7fish_2	off	d41d8cd98f		disabled	
+R7	r7fish_3@r7fish_3	off	d41d8cd98f		disabled	
+R7	r7fish_4@r7fish_4	off	d41d8cd98f		disabled	
+R7	r7p_1@R7p_1	react	7fa2112684		status 6	message 324 | ev gameobject r7p_1 10 | message 324 | ev gameobject r7p_1 1 | message 324 | ev gameobject r7p_1 11 | ev gameobject r7p_1 2 | message 371
+R8	R8co_1@Rr8co_1	react	1062c77acd		status 6	message 19 | ev gameobject r8co_1 10 | message 19 | ev gameobject r8co_1 1 | OpenSound sounds\objects\pickuse.wav | img r8co_1=0 | message 19 | ev gameobject r8co_1 11 | ev gameobject r8co_1 2 | message 371 | PlaySound
+R8	R8co_2@Rr8co_2	react	57ab9e21e1		status 6	message 19 | ev gameobject r8co_2 10 | message 19 | ev gameobject r8co_2 1 | OpenSound sounds\objects\pickuse.wav | img r8co_2=0 | message 19 | ev gameobject r8co_2 11 | ev gameobject r8co_2 2 | message 371 | PlaySound
+R8	R8co_3@Rr8co_3	react	19bcc1c2cb		status 6	message 19 | ev gameobject r8co_3 10 | message 19 | ev gameobject r8co_3 1 | OpenSound sounds\objects\pickuse.wav | img r8co_3=0 | message 19 | ev gameobject r8co_3 11 | ev gameobject r8co_3 2 | message 371 | PlaySound
+R8	R8co_4@Rr8co_4	react	29651ffb48		status 6	message 19 | ev gameobject r8co_4 10 | message 19 | ev gameobject r8co_4 1 | OpenSound sounds\objects\pickuse.wav | img r8co_4=0 | message 19 | ev gameobject r8co_4 11 | ev gameobject r8co_4 2 | message 371 | PlaySound
+R8	R8p_1@R8p_1	off	d41d8cd98f		disabled	
+R9	R9bf_1@Rr9bf_1	off	d41d8cd98f		disabled	
+R9	R9bf_2@Rr9bf_2	off	d41d8cd98f		disabled	
+R9	R9bf_3@Rr9bf_3	off	d41d8cd98f		disabled	
+R9	R9bf_4@Rr9bf_4	off	d41d8cd98f		disabled	
+R9	R9bf_5@Rr9bf_5	off	d41d8cd98f		disabled	
+R9	R9bf_6@Rr9bf_6	off	d41d8cd98f		disabled	
+R9	R9pa_1@Rr9pa_1	off	d41d8cd98f		disabled	
+R9	R9pa_2@Rr9pa_2	off	d41d8cd98f		disabled	
+RHUT	fishrod@dropzone3	react	951e29b164		status 1	ev anim 1 anims\obj_up\fishnup.tan hideheld=1 | ev gameobject fishrod 10 | message 227 | ev gameobject fishrod 1 | message 365 | message 370 | held->fishrod
+RHUT	sb_blow@dropzone2	react	8c4be63c13		status 1	ev anim 1 anims\obj_up\blowup.tan hideheld=1 | ev gameobject sb_blow 10 | message 228 | SetScrollOptions unk04=0 unk08=1 | ev gameobject sb_blow 1 | message 365 | message 370 | held->sb_blow
+RHUT	sb_pick@dropzone1	react	b54b991f98		status 1	ev anim 1 anims\obj_up\pickerup.tan hideheld=1 | ev gameobject sb_pick 10 | message 305 | SetScrollOptions unk04=0 unk08=1 | ev gameobject sb_pick 1 | message 365 | message 370 | held->sb_pick
+S1	S1p_1@S1p_1	react	97c2df8582		status 6	message 327 | ev gameobject s1p_1 10 | message 327 | ev gameobject s1p_1 1 | message 327 | ev gameobject s1p_1 11 | ev gameobject s1p_1 2 | message 371
+S1	S1p_2@S1p_2	react	5a7f6c3517		status 6	message 324 | ev gameobject s1p_2 10 | message 324 | ev gameobject s1p_2 1 | message 324 | ev gameobject s1p_2 11 | ev gameobject s1p_2 2 | message 371
+S2	S2p_1@S2p_1	react	c25074d3da		status 6	message 327 | ev gameobject s2p_1 10 | message 327 | ev gameobject s2p_1 1 | message 327 | ev gameobject s2p_1 11 | ev gameobject s2p_1 2 | message 371
+S4BAOBAB	latex@droplatex	react	6d0747f345		status 1	ev anim 1 anims\obj_up\emptyup.tan hideheld=1 | ev gameobject latex 10 | message 220 | ev gameobject latex 1 | message 365 | message 370 | held->latex
+S4BAOBAB	russkey@dropkey	react	9f49fcdef2		status 1	ev anim 1 anims\obj_up\russkup.tan hideheld=1 | ev gameobject russkey 10 | message 246 | ev gameobject russkey 1 | OpenSound sounds\misc\mileston.wav | message 365 | message 370 | PlaySound | held->russkey
+S4BAOBAB	savmap@dropmap	react	9214f489cb		status 1	ev anim 1 anims\obj_up\savmapup.tan hideheld=1 | ev gameobject savmap 10 | message 266 | ev gameobject savmap 1 | message 365 | message 370 | held->savmap
+S4BAOBAB	survibag@dropbag	react	99fa846a9f		status 1	ev anim 1 anims\obj_up\survup.tan hideheld=1 | ev gameobject survibag 10 | message 254 | ev gameobject survibag 1 | message 365 | message 370 | held->survibag
+S5	honey@dropzoneH	off	d41d8cd98f		disabled	
+S6	S6pp_1@RS6pp_1	react	5795c89ab9		status 6	message 23 | ev gameobject s6pp_1 10 | message 23 | ev gameobject s6pp_1 1 | OpenSound sounds\objects\pickuse.wav | img s6pp_1=0 | message 23 | ev gameobject s6pp_1 11 | ev gameobject s6pp_1 2 | message 371 | PlaySound
+S6	S6pp_2@RS6pp_2	react	6b30193c93		status 6	message 23 | ev gameobject s6pp_2 10 | message 23 | ev gameobject s6pp_2 1 | OpenSound sounds\objects\pickuse.wav | img s6pp_2=0 | message 23 | ev gameobject s6pp_2 11 | ev gameobject s6pp_2 2 | message 371 | PlaySound
+S6	S6pp_3@RS6pp_3	react	c533f7ef92		status 6	message 23 | ev gameobject s6pp_3 10 | message 23 | ev gameobject s6pp_3 1 | OpenSound sounds\objects\pickuse.wav | img s6pp_3=0 | message 23 | ev gameobject s6pp_3 11 | ev gameobject s6pp_3 2 | message 371 | PlaySound
+S6	S6pp_4@RS6pp_4	react	2de2e448e8		status 6	message 23 | ev gameobject s6pp_4 10 | message 23 | ev gameobject s6pp_4 1 | OpenSound sounds\objects\pickuse.wav | img s6pp_4=0 | message 23 | ev gameobject s6pp_4 11 | ev gameobject s6pp_4 2 | message 371 | PlaySound
+S8	S8Sg_1@RS8sg_1	off	d41d8cd98f		disabled	
+S8	S8Sg_2@RS8sg_2	off	d41d8cd98f		disabled	
+S8	S8Sg_3@RS8sg_3	off	d41d8cd98f		disabled	
+S8	S8Sg_4@RS8sg_4	off	d41d8cd98f		disabled	
+S8	S8Sg_5@RS8sg_5	off	d41d8cd98f		disabled	
+S8	S8p_1@S8p_1	react	5b7c7a1b38		status 6	message 324 | ev gameobject s8p_1 10 | message 324 | ev gameobject s8p_1 1 | message 324 | ev gameobject s8p_1 11 | ev gameobject s8p_1 2 | message 371
+S9	S9p_1@S9p_1	unreached	d41d8cd98f	open	enabled, not in view	
+S9	S9p_2@S9p_2	react	97297e97ca		status 6	message 327 | ev gameobject s9p_2 10 | message 327 | ev gameobject s9p_2 1 | message 327 | ev gameobject s9p_2 11 | ev gameobject s9p_2 2 | message 371

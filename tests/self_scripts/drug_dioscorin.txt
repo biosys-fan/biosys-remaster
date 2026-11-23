@@ -1,0 +1,6 @@
+# Dioscorin: Consume(0x14) at once, idle two hours in 90 s steps, dump.
+time 28918
+consume 0x14
+dump
+run 7200 90
+dump

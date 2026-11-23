@@ -1,0 +1,7 @@
+# Dioscorin poisoning, timer past 2: cause 14.
+time 28918
+self m_dwDioscorin 100
+self m_dDioscorinHealthLoss 1
+self m_dHealth 3
+run 9000 90
+dump

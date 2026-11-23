@@ -1,0 +1,6 @@
+# Salt tablet: Consume(0x5a) at once, idle two hours in 90 s steps, dump.
+time 28918
+consume 0x5a
+dump
+run 7200 90
+dump

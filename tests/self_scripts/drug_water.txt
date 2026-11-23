@@ -1,0 +1,6 @@
+# Water drink: Consume(0xbe) at once, idle two hours in 90 s steps, dump.
+time 28918
+consume 0xbe
+dump
+run 7200 90
+dump

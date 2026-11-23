@@ -1,0 +1,6 @@
+# Spider bite: Consume(0x136) at once, idle two hours in 90 s steps, dump.
+time 28918
+consume 0x136
+dump
+run 7200 90
+dump

@@ -1,0 +1,8 @@
+# idle command (OnIdle outside the sleep loop returns 1 and changes nothing) and a fall-asleep request after a synth attack.
+time 28918
+cel R4 flags=32
+idle 3
+self m_bFallAsleepOnIdle 1
+self m_dEnergy 40
+idle 2
+dump

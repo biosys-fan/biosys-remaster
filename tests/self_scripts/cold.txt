@@ -1,0 +1,5 @@
+# Cold cel: air temperature -20 C at R4 (rain flag cleared), idle four hours; body cools, cold damage below 27.
+time 28918
+cel R4 airTemp=-20 flags=32
+run 14400 90
+dump

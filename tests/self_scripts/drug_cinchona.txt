@@ -1,0 +1,6 @@
+# Cinchona bark: Consume(0x96) at once, idle two hours in 90 s steps, dump.
+time 28918
+consume 0x96
+dump
+run 7200 90
+dump

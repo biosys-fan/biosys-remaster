@@ -1,0 +1,6 @@
+# Inhaler (fume cure): Consume(0x46) at once, idle two hours in 90 s steps, dump.
+time 28918
+consume 0x46
+dump
+run 7200 90
+dump

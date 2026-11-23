@@ -1,0 +1,5 @@
+# Hot cel: air temperature 45 C at R4 (rain flag cleared), idle four hours; body heats above 73, heat damage, water loss.
+time 28918
+cel R4 airTemp=45 flags=32
+run 14400 90
+dump

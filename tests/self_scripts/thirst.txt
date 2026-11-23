@@ -1,0 +1,7 @@
+# No water (food stuffed): idle until death by thirst (hydration 0 from the start, nutrition and protein full).
+time 28918
+self m_dHydration 0
+self m_dNutrition 100
+self m_dProtein 100
+run 2592000 90
+dump

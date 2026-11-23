@@ -1,0 +1,5 @@
+# The die command: CSelf::Die(7) sets the cause and the dead flag; later commands still work.
+time 28918
+die 7
+update
+dump

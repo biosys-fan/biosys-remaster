@@ -1,0 +1,5 @@
+# Polluted cel (pollution 80 at R4): fumes build up (symptom 8, breathing 0x400), damage after 1 h; idle 3 hours.
+time 28918
+cel R4 pollution=80
+run 10800 90
+dump

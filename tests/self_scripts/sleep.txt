@@ -1,0 +1,8 @@
+# Sleep(0, 0, 1) at R4 (return page saved, no dream) and the wake-up through OnIdle's sleep loop. R4's cel flag 2 ("rain") would end
+# the sleep after one step (wake reason 7), so it is cleared first. The saved game has the clock frozen (ticks -1): Advance moves no
+# game time, the loop still runs the player (energy/health gain, ailments, metabolism).
+time 28918
+cel R4 flags=32
+self m_dEnergy 20
+sleep 0 0 1
+dump

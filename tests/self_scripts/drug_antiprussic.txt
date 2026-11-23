@@ -1,0 +1,6 @@
+# Cyanide antidote: Consume(0x8c) at once, idle two hours in 90 s steps, dump.
+time 28918
+consume 0x8c
+dump
+run 7200 90
+dump

@@ -1,0 +1,6 @@
+# Coffee drink code: Consume(0xd2) at once, idle two hours in 90 s steps, dump.
+time 28918
+consume 0xd2
+dump
+run 7200 90
+dump

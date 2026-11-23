@@ -1,0 +1,4 @@
+# verdicts of the picture-stability suite (tests/test_visual.py): V <tab> scenario <tab> rule <tab> ok: REASON | open
+V	faithful.tab-goggles.R5	roundtrip	ok: the goggles' battery gauge (view x 440..461, y 292..361) drains with game time: the picture after Tab differs from the one before only there (and in the status words); seen by script command shot
+V	faithful.tab-goggles.R5	unsettled	ok: the same battery gauge steps down 3 frames after the release; not a palette or colour effect
+V	player.caps-compass.R5	unsettled	open: Caps Lock (the environment screen) takes the wide picture down to 4:3 (the 119 side columns vanish) and after the release it stays 4:3 for 6 frames (200 ms) before the width comes back: the hysteresis of WideController, tests/test_heldwide.py part 3 pins it. The player sees the sides cut off whenever that screen is up; whether the sides should stay (as for Tab, where the panorama is dimmed beside the status screen) is a design question

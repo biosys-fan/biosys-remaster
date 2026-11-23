@@ -1,0 +1,6 @@
+# Sleep in the hut (page RHUT, site RHUT, indoor flag 0x800000 so rain does not wake): multiplier 1.5 on gain and length.
+time 28918
+goto RHUT RHUT
+self m_dEnergy 20
+sleep 0 0 1
+dump

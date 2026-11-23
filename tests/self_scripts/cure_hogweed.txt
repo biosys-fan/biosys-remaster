@@ -1,0 +1,8 @@
+# Hogweed burn (300) then cure 0x122.
+time 28918
+consume 300
+run 900 90
+dump
+consume 0x122
+run 180 90
+dump

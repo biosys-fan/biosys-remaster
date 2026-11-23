@@ -1,0 +1,7 @@
+# Sleep(1, 1, 1) with an available dream (bit 0 of the dream mask): Dream draws one rand and the headless movie fails, WakeUp follows.
+time 28918
+cel R4 flags=32
+self m_dwDreamsAvailable 1
+self m_dEnergy 30
+sleep 1 1 1
+dump

@@ -1,0 +1,1262 @@
+# page	hotspot	class	digest	verdict	note	signature (shortened)      -- see tests/test_sweep.py
+AR1LO	rclick	quiet	d41d8cd98f			
+AR1MA	rclick	react	b4a2cd28ed			message 366
+AR2BA	rclick	quiet	d41d8cd98f			
+AR3AV_1	rclick	quiet	d41d8cd98f			
+AR3AV_2	rclick	react	b4a2cd28ed			message 366
+AR3BR	rclick	quiet	d41d8cd98f			
+AR3EG	rclick	quiet	d41d8cd98f			
+AR3YA	rclick	react	b4a2cd28ed			message 366
+AR4BR	rclick	quiet	d41d8cd98f			
+AR4LI	rclick	quiet	d41d8cd98f			
+AR4NV	rclick	quiet	d41d8cd98f			
+AR4YA	rclick	react	b4a2cd28ed			message 366
+AR5AV	rclick	react	b4a2cd28ed			message 366
+AR5CI_1	rclick	react	b4a2cd28ed			message 366
+AR5CI_2	rclick	quiet	d41d8cd98f			
+AR5GU_1	rclick	quiet	d41d8cd98f			
+AR5GU_2	rclick	quiet	d41d8cd98f			
+AR6AN_1	rclick	quiet	d41d8cd98f			
+AR6AN_2	rclick	quiet	d41d8cd98f			
+AR6HG	rclick	quiet	d41d8cd98f			
+AR6LI	rclick	quiet	d41d8cd98f			
+AR7AG	rclick	react	b4a2cd28ed			message 366
+AR7OR_1	rclick	react	b4a2cd28ed			message 366
+AR7OR_2	rclick	react	b4a2cd28ed			message 366
+AR8BA	rclick	quiet	d41d8cd98f			
+AR8DA_1	rclick	quiet	d41d8cd98f			
+AR8DA_2	rclick	quiet	d41d8cd98f			
+AR9BA	rclick	react	b4a2cd28ed			message 366
+AR9LO	rclick	quiet	d41d8cd98f			
+AR9MA	rclick	react	b4a2cd28ed			message 366
+AS1AG	rclick	quiet	d41d8cd98f			
+AS2EP	rclick	quiet	d41d8cd98f			
+AS2FG1	rclick	react	b4a2cd28ed			message 366
+AS2FG2	rclick	quiet	d41d8cd98f			
+AS3AL	rclick	quiet	d41d8cd98f			
+AS3OK	rclick	quiet	d41d8cd98f			
+AS5OK	rclick	quiet	d41d8cd98f			
+AS6EG	rclick	quiet	d41d8cd98f			
+AS6FG	rclick	quiet	d41d8cd98f			
+AS7BL1	rclick	quiet	d41d8cd98f			
+AS7BL2	rclick	quiet	d41d8cd98f			
+AS7BL3	rclick	quiet	d41d8cd98f			
+AS7EG	rclick	quiet	d41d8cd98f			
+AS7SQ	rclick	quiet	d41d8cd98f			
+AS8HE1	rclick	react	b4a2cd28ed			message 366
+AS8HE2	rclick	react	b4a2cd28ed			message 366
+AS9AV_1	rclick	react	b4a2cd28ed			message 366
+AS9AV_2	rclick	react	b4a2cd28ed			message 366
+AS9AV_3	rclick	react	b4a2cd28ed			message 366
+AS9BL1	rclick	quiet	d41d8cd98f			
+AS9BL2	rclick	quiet	d41d8cd98f			
+AS9PE	rclick	react	b4a2cd28ed			message 366
+BD	rclick	quiet	d41d8cd98f			
+BDLIFT_I	rclick	quiet	d41d8cd98f			
+BO	rclick	react	ef772fa087			message 362 | message 65535
+BOLIFT_I	rclick	quiet	d41d8cd98f			
+BP	rclick	quiet	d41d8cd98f			
+BPLIFT_I	rclick	quiet	d41d8cd98f			
+BPOD	rclick	quiet	d41d8cd98f			
+BR	rclick	quiet	d41d8cd98f			
+BRLIFT_I	rclick	quiet	d41d8cd98f			
+BROCK	rclick	quiet	d41d8cd98f			
+BS	rclick	quiet	d41d8cd98f			
+BSLIFT_I	rclick	quiet	d41d8cd98f			
+CE10	rclick	quiet	d41d8cd98f			
+CE11	rclick	quiet	d41d8cd98f			
+CE12	rclick	quiet	d41d8cd98f			
+CE15	rclick	quiet	d41d8cd98f			
+CE3	rclick	react	6b9b82a1bd			message 364 | message 65535
+CE30	rclick	quiet	d41d8cd98f			
+CE4	rclick	quiet	d41d8cd98f			
+CE5	rclick	quiet	d41d8cd98f			
+CE6	rclick	quiet	d41d8cd98f			
+CE7	rclick	quiet	d41d8cd98f			
+CE7A	rclick	quiet	d41d8cd98f			
+CE9	rclick	quiet	d41d8cd98f			
+CEblue	rclick	react	a651c253b8			message 364
+CEblue	use+rclick	react	82602a985a			ev gameobject ceblue 4 | OpenSound sounds\objects\paprfld4.wav | ev exitpage r4 | ev pagedrawn xceblue | BeginPageFilter a=118 b=86 c=87 | ev enterpage xceblue | JumpToPage xceblue | message 65535 | ev exitpage xceblue | img dead=0 | img df
+DB1	rclick	quiet	d41d8cd98f			
+DB3	rclick	quiet	d41d8cd98f			
+DB4	rclick	quiet	d41d8cd98f			
+DB5	rclick	quiet	d41d8cd98f			
+DB6	rclick	quiet	d41d8cd98f			
+DB6CAVE	rclick	quiet	d41d8cd98f			
+DB7	rclick	quiet	d41d8cd98f			
+DB9	rclick	quiet	d41d8cd98f			
+EANGEL1	rclick	quiet	d41d8cd98f			
+EANGEL2	rclick	quiet	d41d8cd98f			
+EDEATH	rclick	quiet	d41d8cd98f			
+EGAMEEND_0	rclick	quiet	d41d8cd98f			
+EGAMEEND_1	rclick	quiet	d41d8cd98f			
+EGAMEEND_2	rclick	quiet	d41d8cd98f			
+EGAMEEND_3	rclick	quiet	d41d8cd98f			
+EGAMEEND_4	rclick	quiet	d41d8cd98f			
+EGAMEEND_5	rclick	quiet	d41d8cd98f			
+EINTRO	rclick	quiet	d41d8cd98f			
+EPEYOTE1	rclick	quiet	d41d8cd98f			
+FBD5LUNG	rclick	quiet	d41d8cd98f			
+FBDCHARGE	rclick	quiet	d41d8cd98f			
+FBDFUSE	rclick	quiet	d41d8cd98f			
+FBDFUSE_X	rclick	quiet	d41d8cd98f			
+FBDTANKS_1	rclick	quiet	d41d8cd98f			
+FBDTANKS_2	rclick	quiet	d41d8cd98f			
+FBO1LUNG	rclick	quiet	d41d8cd98f			
+FBO1TIDE	rclick	quiet	d41d8cd98f			
+FBO1WAVE	rclick	quiet	d41d8cd98f			
+FBO3ALGAE	rclick	quiet	d41d8cd98f			
+FBO4OXYGEN	rclick	quiet	d41d8cd98f			
+FBOCHARGE	rclick	quiet	d41d8cd98f			
+FBOFUSE	rclick	quiet	d41d8cd98f			
+FBOTANKS_1	rclick	quiet	d41d8cd98f			
+FBOTANKS_2	rclick	quiet	d41d8cd98f			
+FBPCHARGE	rclick	quiet	d41d8cd98f			
+FBPFUSE	rclick	quiet	d41d8cd98f			
+FBPTANKS_2	rclick	quiet	d41d8cd98f			
+FBPTANKS_H	rclick	react	a9ae17bb17			message 368 | message 65535 | message 65535
+FBR2LUNG	rclick	quiet	d41d8cd98f			
+FBRCHARGE	rclick	quiet	d41d8cd98f			
+FBRFUSE	rclick	quiet	d41d8cd98f			
+FBRTANKS_1	rclick	quiet	d41d8cd98f			
+FBRTANKS_2	rclick	quiet	d41d8cd98f			
+FBRTANKS_S	rclick	quiet	d41d8cd98f			
+FBS2LUNG	rclick	quiet	d41d8cd98f			
+FBSCHARGE	rclick	quiet	d41d8cd98f			
+FBSFUSE	rclick	quiet	d41d8cd98f			
+FBSTANKS_1	rclick	quiet	d41d8cd98f			
+FBSTANKS_2	rclick	quiet	d41d8cd98f			
+FCE10DED_C	rclick	quiet	d41d8cd98f			
+FCE10DED_O	rclick	quiet	d41d8cd98f			
+FCE4POI	rclick	quiet	d41d8cd98f			
+FCE7BOX	rclick	quiet	d41d8cd98f			
+FCE7FIRE	rclick	quiet	d41d8cd98f			
+FCE9CAB_C	rclick	quiet	d41d8cd98f			
+FCE9CAB_O	rclick	quiet	d41d8cd98f			
+FCE9FOR	rclick	quiet	d41d8cd98f			
+FCE9VIDPHO	rclick	quiet	d41d8cd98f			
+FDB1HTCH_C	rclick	quiet	d41d8cd98f			
+FDB1HTCH_O	rclick	react	a651c253b8			message 364
+FDB3FAN	rclick	quiet	d41d8cd98f			
+FDB3PROB	rclick	quiet	d41d8cd98f			
+FDB3PROB_O	rclick	quiet	d41d8cd98f			
+FDB6FAN	rclick	quiet	d41d8cd98f			
+FDB6PROB	rclick	quiet	d41d8cd98f			
+FDB6PROB_O	rclick	quiet	d41d8cd98f			
+FDB9GATE_C	rclick	quiet	d41d8cd98f			
+FDB9GATE_O	rclick	react	a651c253b8			message 364
+FDBHEATER	rclick	quiet	d41d8cd98f			
+FDBMIXER1	rclick	quiet	d41d8cd98f			
+FDBRAIN3	rclick	quiet	d41d8cd98f			
+FDLIFT_1_C	rclick	quiet	d41d8cd98f			
+FDLIFT_1_O	rclick	react	a651c253b8			message 364
+FDLIFT_2_C	rclick	quiet	d41d8cd98f			
+FDLIFT_2_O	rclick	quiet	d41d8cd98f			
+FDPOD_C	rclick	quiet	d41d8cd98f			
+FDPOD_O	rclick	react	a651c253b8			message 364
+FO1HTCH_C	rclick	quiet	d41d8cd98f			
+FO1HTCH_O	rclick	react	a651c253b8			message 364
+FO1RAIN	rclick	quiet	d41d8cd98f			
+FO2PROBE	rclick	quiet	d41d8cd98f			
+FO2PROBE_O	rclick	quiet	d41d8cd98f			
+FOHEATER	rclick	quiet	d41d8cd98f			
+FOLIFT_1_C	rclick	quiet	d41d8cd98f			
+FOLIFT_1_O	rclick	react	a651c253b8			message 364
+FOLIFT_2_C	rclick	quiet	d41d8cd98f			
+FOLIFT_2_O	rclick	react	a651c253b8			message 364
+FOLIFT_3_C	rclick	quiet	d41d8cd98f			
+FOLIFT_3_O	rclick	react	a651c253b8			message 364
+FOMIXER1	rclick	quiet	d41d8cd98f			
+FOPOD_C	rclick	quiet	d41d8cd98f			
+FOPOD_O	rclick	react	01e39426d0			message 364 | message 65535 | message 65535
+FPH12BLD_N	rclick	react	bf81720173			message 362
+FPH12BLD_O	rclick	quiet	d41d8cd98f			
+FPH12MEDBO	rclick	quiet	d41d8cd98f			
+FPH12MICRO	rclick	quiet	d41d8cd98f			
+FPH12SP_N	rclick	react	bf81720173			message 362
+FPH12SP_O	rclick	quiet	d41d8cd98f			
+FPH13SYNTH	rclick	react	f8afb1daff			message 365 | message 65535 | message 65535
+FPH16THERM	rclick	quiet	d41d8cd98f			
+FPH17DAT	rclick	quiet	d41d8cd98f			
+FPH1MASK	rclick	quiet	d41d8cd98f			
+FPH1VIDEO	rclick	quiet	d41d8cd98f			
+FPH3COFFEE	rclick	quiet	d41d8cd98f			
+FPH6MIR	rclick	quiet	d41d8cd98f			
+FPH6MIR_B	rclick	quiet	d41d8cd98f			
+FPH7ARTEFA	rclick	quiet	d41d8cd98f			
+FPH8CAB_C	rclick	quiet	d41d8cd98f			
+FPH8CAB_O	rclick	quiet	d41d8cd98f			
+FPH8VIDPHO	rclick	quiet	d41d8cd98f			
+FPLIFT_1_C	rclick	quiet	d41d8cd98f			
+FPLIFT_1_O	rclick	react	a651c253b8			message 364
+FPLIFT_2_C	rclick	quiet	d41d8cd98f			
+FPLIFT_2_O	rclick	quiet	d41d8cd98f			
+FPLIFT_3_C	rclick	quiet	d41d8cd98f			
+FPLIFT_3_O	rclick	quiet	d41d8cd98f			
+FPPOD_C	rclick	quiet	d41d8cd98f			
+FPPOD_O	rclick	react	01e39426d0			message 364 | message 65535 | message 65535
+FR10FAN	rclick	quiet	d41d8cd98f			
+FR10HTCH_C	rclick	quiet	d41d8cd98f			
+FR10HTCH_O	rclick	react	a651c253b8			message 364
+FR10LOG	rclick	quiet	d41d8cd98f			
+FR1MIST	rclick	quiet	d41d8cd98f			
+FR1PROBE	rclick	quiet	d41d8cd98f			
+FR1PROBE_O	rclick	quiet	d41d8cd98f			
+FR1RAIN	rclick	quiet	d41d8cd98f			
+FR2MIXER	rclick	quiet	d41d8cd98f			
+FR2PROBE	rclick	quiet	d41d8cd98f			
+FR2PROBE_O	rclick	quiet	d41d8cd98f			
+FR3FAN	rclick	quiet	d41d8cd98f			
+FR3PROBE	rclick	quiet	d41d8cd98f			
+FR3PROBE_O	rclick	quiet	d41d8cd98f			
+FR4PROBE	rclick	quiet	d41d8cd98f			
+FR4PROBE_O	rclick	quiet	d41d8cd98f			
+FR5MIST	rclick	quiet	d41d8cd98f			
+FR5MIXER	rclick	quiet	d41d8cd98f			
+FR5PROBE	rclick	quiet	d41d8cd98f			
+FR5PROBE_O	rclick	quiet	d41d8cd98f			
+FR6PROBE	rclick	quiet	d41d8cd98f			
+FR6PROBE_O	rclick	quiet	d41d8cd98f			
+FR6RAIN	rclick	quiet	d41d8cd98f			
+FR7PROBE	rclick	quiet	d41d8cd98f			
+FR7PROBE_O	rclick	quiet	d41d8cd98f			
+FR8FAN	rclick	quiet	d41d8cd98f			
+FR8PROBE	rclick	quiet	d41d8cd98f			
+FR8PROBE_O	rclick	quiet	d41d8cd98f			
+FR9MIST	rclick	quiet	d41d8cd98f			
+FR9MIXER	rclick	quiet	d41d8cd98f			
+FR9PROBE	rclick	quiet	d41d8cd98f			
+FR9PROBE_O	rclick	quiet	d41d8cd98f			
+FR9RAIN	rclick	quiet	d41d8cd98f			
+FRFHEATER	rclick	quiet	d41d8cd98f			
+FRLIFT_1_C	rclick	quiet	d41d8cd98f			
+FRLIFT_1_O	rclick	react	a651c253b8			message 364
+FRLIFT_2_C	rclick	quiet	d41d8cd98f			
+FRLIFT_2_O	rclick	react	a651c253b8			message 364
+FRPOD_C	rclick	react	01e39426d0			message 364 | message 65535 | message 65535
+FRPOD_O	rclick	react	01e39426d0			message 364 | message 65535 | message 65535
+FS1FAN	rclick	quiet	d41d8cd98f			
+FS1PROBE	rclick	quiet	d41d8cd98f			
+FS1PROBE_O	rclick	quiet	d41d8cd98f			
+FS2FAN	rclick	quiet	d41d8cd98f			
+FS2PROBE	rclick	quiet	d41d8cd98f			
+FS2PROBE_O	rclick	quiet	d41d8cd98f			
+FS2RAIN	rclick	quiet	d41d8cd98f			
+FS3MIXER	rclick	quiet	d41d8cd98f			
+FS3PROBE	rclick	quiet	d41d8cd98f			
+FS3PROBE_O	rclick	quiet	d41d8cd98f			
+FS4FAN	rclick	quiet	d41d8cd98f			
+FS4PROBE	rclick	quiet	d41d8cd98f			
+FS4PROBE_O	rclick	quiet	d41d8cd98f			
+FS5FAN	rclick	quiet	d41d8cd98f			
+FS5PROBE	rclick	quiet	d41d8cd98f			
+FS5PROBE_O	rclick	quiet	d41d8cd98f			
+FS5RAIN	rclick	quiet	d41d8cd98f			
+FS6HTCH_C	rclick	quiet	d41d8cd98f			
+FS6HTCH_O	rclick	react	a651c253b8			message 364
+FS6PROBE	rclick	quiet	d41d8cd98f			
+FS6PROBE_O	rclick	quiet	d41d8cd98f			
+FS7FAN	rclick	quiet	d41d8cd98f			
+FS7MIXER	rclick	quiet	d41d8cd98f			
+FS7PROBE	rclick	quiet	d41d8cd98f			
+FS7PROBE_O	rclick	quiet	d41d8cd98f			
+FS8FAN	rclick	quiet	d41d8cd98f			
+FS8PROBE	rclick	quiet	d41d8cd98f			
+FS8PROBE_O	rclick	quiet	d41d8cd98f			
+FS8RAIN	rclick	quiet	d41d8cd98f			
+FS9MIXER	rclick	quiet	d41d8cd98f			
+FS9PROBE	rclick	quiet	d41d8cd98f			
+FS9PROBE_O	rclick	quiet	d41d8cd98f			
+FS9TERM	rclick	quiet	d41d8cd98f			
+FSHEATER	rclick	quiet	d41d8cd98f			
+FSLIFT_1_C	rclick	quiet	d41d8cd98f			
+FSLIFT_1_O	rclick	react	a651c253b8			message 364
+FSLIFT_2_C	rclick	quiet	d41d8cd98f			
+FSLIFT_2_O	rclick	react	a651c253b8			message 364
+FSPOD_C	rclick	quiet	d41d8cd98f			
+FSPOD_O	rclick	react	01e39426d0			message 364 | message 65535 | message 65535
+FUWPROBE	rclick	quiet	d41d8cd98f			
+File1	rclick	react	a651c253b8			message 364
+File1	use+rclick	react	35c6cc3fae			ev gameobject file1 4 | OpenSound sounds\objects\paprfld4.wav | ev exitpage r4 | ev pagedrawn xfile1 | BeginPageFilter a=118 b=86 c=87 | ev enterpage xfile1 | JumpToPage xfile1 | message 65535 | ev exitpage xfile1 | img dead=0 | img dflood=
+File2	rclick	react	a651c253b8			message 364
+File2	use+rclick	react	e14f704d33			ev gameobject file2 4 | OpenSound sounds\objects\paprfld4.wav | ev exitpage r4 | ev pagedrawn xfile2 | BeginPageFilter a=118 b=86 c=87 | ev enterpage xfile2 | JumpToPage xfile2 | message 65535 | ev exitpage xfile2 | img dead=0 | img dflood=
+File3	rclick	react	a651c253b8			message 364
+File3	use+rclick	react	db0b7eecac			ev gameobject file3 4 | OpenSound sounds\objects\paprfld4.wav | ev exitpage r4 | ev pagedrawn xfile3 | BeginPageFilter a=118 b=86 c=87 | ev enterpage xfile3 | JumpToPage xfile3 | message 65535 | ev exitpage xfile3 | img dead=0 | img dflood=
+LB	rclick	quiet	d41d8cd98f			
+LC	rclick	quiet	d41d8cd98f			
+LD	rclick	quiet	d41d8cd98f			
+LO	rclick	quiet	d41d8cd98f			
+LP1	rclick	quiet	d41d8cd98f			
+LP2	rclick	quiet	d41d8cd98f			
+LP3	rclick	quiet	d41d8cd98f			
+LR	rclick	quiet	d41d8cd98f			
+LS	rclick	quiet	d41d8cd98f			
+LT	rclick	quiet	d41d8cd98f			
+LT2	rclick	quiet	d41d8cd98f			
+LW	rclick	quiet	d41d8cd98f			
+MENUCRED1	rclick	quiet	d41d8cd98f			
+MENUCRED10	rclick	quiet	d41d8cd98f			
+MENUCRED11	rclick	quiet	d41d8cd98f			
+MENUCRED2	rclick	quiet	d41d8cd98f			
+MENUCRED3	rclick	quiet	d41d8cd98f			
+MENUCRED4	rclick	quiet	d41d8cd98f			
+MENUCRED5	rclick	quiet	d41d8cd98f			
+MENUCRED6	rclick	quiet	d41d8cd98f			
+MENUCRED7	rclick	quiet	d41d8cd98f			
+MENUCRED8	rclick	quiet	d41d8cd98f			
+MENUCRED9	rclick	quiet	d41d8cd98f			
+MENUHELP1	rclick	quiet	d41d8cd98f			
+MENUHELP1A	rclick	quiet	d41d8cd98f			
+MENULOAD	rclick	react	6b9b82a1bd			message 364 | message 65535
+MENUSAVE	rclick	quiet	d41d8cd98f			
+MENUTOP	rclick	quiet	d41d8cd98f			
+NBDBIOS4	rclick	quiet	d41d8cd98f			
+NBOBIOS4	rclick	quiet	d41d8cd98f			
+NBRBIOS4	rclick	quiet	d41d8cd98f			
+NBSBIOS4	rclick	quiet	d41d8cd98f			
+NCE3DEAD	rclick	quiet	d41d8cd98f			
+NCE4RECEP	rclick	quiet	d41d8cd98f			
+NCE9BOARD	rclick	quiet	d41d8cd98f			
+NDB4DEAD	rclick	quiet	d41d8cd98f			
+NDB5DEAD	rclick	react	f8afb1daff			message 365 | message 65535 | message 65535
+NHAMMOCK	rclick	quiet	d41d8cd98f			
+NPH13DEAD	rclick	quiet	d41d8cd98f			
+NPH17BERTH	rclick	quiet	d41d8cd98f			
+NPH17BIOS4	rclick	quiet	d41d8cd98f			
+NPH1DRINK	rclick	quiet	d41d8cd98f			
+NPH1SHELVE	rclick	quiet	d41d8cd98f			
+NPH5BED	rclick	quiet	d41d8cd98f			
+NPH5PIC1	rclick	quiet	d41d8cd98f			
+NPH5PIC2	rclick	quiet	d41d8cd98f			
+NPH5PIC3	rclick	quiet	d41d8cd98f			
+NPH8BOARD	rclick	quiet	d41d8cd98f			
+NPH8PIC1	rclick	quiet	d41d8cd98f			
+NPH8PIC2	rclick	quiet	d41d8cd98f			
+NPH8PIC3	rclick	quiet	d41d8cd98f			
+O1	rclick	quiet	d41d8cd98f			
+O2	rclick	quiet	d41d8cd98f			
+O2cc_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+O2cc_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+O2cc_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+O2cc_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+O2cc_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+O2cc_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+O2cc_4	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+O2cc_4	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+O2cc_5	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+O2cc_5	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+PH1	rclick	quiet	d41d8cd98f			
+PH10	rclick	quiet	d41d8cd98f			
+PH11	rclick	react	6b9b82a1bd			message 364 | message 65535
+PH12	rclick	quiet	d41d8cd98f			
+PH13	rclick	quiet	d41d8cd98f			
+PH14	rclick	react	6b9b82a1bd			message 364 | message 65535
+PH15	rclick	quiet	d41d8cd98f			
+PH16	rclick	quiet	d41d8cd98f			
+PH17	rclick	react	ef772fa087			message 362 | message 65535
+PH2	rclick	react	ef772fa087			message 362 | message 65535
+PH3	rclick	quiet	d41d8cd98f			
+PH5	rclick	quiet	d41d8cd98f			
+PH6	rclick	quiet	d41d8cd98f			
+PH7	rclick	quiet	d41d8cd98f			
+PH8	rclick	quiet	d41d8cd98f			
+PH9	rclick	react	6b9b82a1bd			message 364 | message 65535
+R1	rclick	quiet	d41d8cd98f			
+R10	rclick	quiet	d41d8cd98f			
+R11	rclick	react	cc239a40bf			message 356 | message 65535 | message 65535
+R1ma_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R1ma_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R1pa_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R1pa_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R2	rclick	quiet	d41d8cd98f			
+R2ba_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R2ba_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R2ba_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R2ba_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R2ba_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R2ba_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R2or_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R2or_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R2or_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R2or_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R2or_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R2or_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R2or_4	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R2or_4	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R2or_5	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R2or_5	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R2or_6	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R2or_6	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R2pa_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R2pa_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R2pa_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R2pa_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R2pa_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R2pa_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R2pa_4	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R2pa_4	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R3	rclick	react	3008632052			message 40 | message 65535
+R3AV_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R3AV_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R3AV_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R3AV_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R3AV_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R3AV_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R3AV_4	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R3AV_4	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R3eg_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R3eg_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R3eg_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R3eg_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R3eg_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R3eg_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R3eg_4	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R3eg_4	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R3eg_5	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R3eg_5	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R3eg_6	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R3eg_6	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R3ya_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R3ya_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R4	rclick	react	6b9b82a1bd			message 364 | message 65535
+R4nv_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R4nv_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R4nv_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R4nv_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R4nv_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R4nv_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R4ya_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R4ya_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R5	rclick	quiet	d41d8cd98f			
+R5av_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R5av_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R5av_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R5av_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R5av_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R5av_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R5av_4	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R5av_4	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R5av_5	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R5av_5	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R5av_6	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R5av_6	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R5bz_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R5bz_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R5bz_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R5bz_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R5bz_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R5bz_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R5bz_4	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R5bz_4	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R5bz_5	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R5bz_5	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R5ci_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R5ci_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R5ci_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R5ci_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R5gu_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R5gu_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R5gu_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R5gu_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R5gu_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R5gu_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R5gu_4	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R5gu_4	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R6	rclick	react	5a2ea35b42			message 363 | message 65535
+R6an_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R6an_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R6an_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R6an_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R6an_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R6an_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R6an_4	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R6an_4	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R6an_5	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R6an_5	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R6ba_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R6ba_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R6ba_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R6ba_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R6ba_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R6ba_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R7	rclick	react	5a2ea35b42			message 363 | message 65535
+R7Ag_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R7Ag_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R7Ag_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R7Ag_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R7av_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R7av_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R7av_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R7av_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R7av_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R7av_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R7av_4	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R7av_4	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R7av_5	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R7av_5	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R7or_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R7or_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R7or_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R7or_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R7or_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R7or_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R7or_4	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R7or_4	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R7or_5	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R7or_5	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R8	rclick	quiet	d41d8cd98f			
+R8ba_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R8ba_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R8ba_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R8ba_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R8ba_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R8ba_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R8ba_4	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R8ba_4	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R8ba_5	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R8ba_5	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R8co_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R8co_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R8co_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R8co_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R8co_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R8co_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R8co_4	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R8co_4	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R8da_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R8da_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R8da_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R8da_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R8da_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R8da_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R8da_4	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R8da_4	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R8da_5	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R8da_5	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R8p_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R8p_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R9	rclick	quiet	d41d8cd98f			
+R9ba_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R9ba_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R9ba_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R9ba_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R9ba_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R9ba_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R9bf_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R9bf_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R9bf_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R9bf_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R9bf_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R9bf_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R9bf_4	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R9bf_4	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R9bf_5	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R9bf_5	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R9bf_6	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R9bf_6	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R9ma_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R9ma_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R9pa_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R9pa_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+R9pa_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+R9pa_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+RHUT	rclick	quiet	d41d8cd98f			
+S1	rclick	react	b49a2ec20b			message 362 | message 65535 | message 65535
+S1ag_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S1ag_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S1ag_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S1ag_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S1ag_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S1ag_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S1p_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S1p_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S1p_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S1p_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S2	rclick	quiet	d41d8cd98f			
+S2ep_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S2ep_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S2ep_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S2ep_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S2ep_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S2ep_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S2fg1_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S2fg1_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S2fg1_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S2fg1_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S2fg2_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S2fg2_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S2fg2_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S2fg2_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S2p_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S2p_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S3	rclick	quiet	d41d8cd98f			
+S3al_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S3al_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S3al_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S3al_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S3al_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S3al_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S3ok_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S3ok_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S3ok_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S3ok_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S4	rclick	quiet	d41d8cd98f			
+S4BAOBAB	rclick	quiet	d41d8cd98f			
+S5	rclick	quiet	d41d8cd98f			
+S5ok_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S5ok_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S5ok_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S5ok_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S5ok_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S5ok_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S5wm_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S5wm_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S5wm_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S5wm_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S5wm_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S5wm_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S5wm_4	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S5wm_4	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S6	rclick	quiet	d41d8cd98f			
+S6eg_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S6eg_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S6eg_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S6eg_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S6eg_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S6eg_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S6eg_4	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S6eg_4	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S6eg_5	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S6eg_5	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S6fg_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S6fg_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S6fg_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S6fg_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S6fg_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S6fg_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S6pp_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S6pp_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S6pp_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S6pp_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S6pp_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S6pp_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S6pp_4	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S6pp_4	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S7	rclick	react	ef772fa087			message 362 | message 65535
+S7eg_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S7eg_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S7eg_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S7eg_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S7eg_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S7eg_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S7eg_4	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S7eg_4	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S7eg_5	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S7eg_5	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S7eg_6	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S7eg_6	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S7eg_7	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S7eg_7	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S7eg_8	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S7eg_8	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S7sq_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S7sq_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S7sq_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S7sq_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S7sq_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S7sq_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S7sq_4	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S7sq_4	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S8	rclick	react	6b9b82a1bd			message 364 | message 65535
+S8Sg_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S8Sg_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S8Sg_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S8Sg_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S8Sg_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S8Sg_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S8Sg_4	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S8Sg_4	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S8Sg_5	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S8Sg_5	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S8he1_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S8he1_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S8he1_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S8he1_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S8he1_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S8he1_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S8he1_4	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S8he1_4	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S8he1_5	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S8he1_5	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S8he1_6	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S8he1_6	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S8he2_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S8he2_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S8he2_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S8he2_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S8he2_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S8he2_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S8he2_4	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S8he2_4	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S8p_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S8p_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S9	rclick	quiet	d41d8cd98f			
+S9av_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S9av_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S9av_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S9av_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S9av_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S9av_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S9av_4	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S9av_4	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S9av_5	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S9av_5	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S9av_6	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S9av_6	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S9p_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S9p_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S9p_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S9p_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S9pe_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S9pe_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+S9pe_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+S9pe_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+STATUS	rclick	quiet	d41d8cd98f			
+T1	rclick	quiet	d41d8cd98f			
+T10	rclick	quiet	d41d8cd98f			
+T11	rclick	quiet	d41d8cd98f			
+T12	rclick	quiet	d41d8cd98f			
+T2	rclick	quiet	d41d8cd98f			
+T3	rclick	quiet	d41d8cd98f			
+T4	rclick	quiet	d41d8cd98f			
+T5	rclick	quiet	d41d8cd98f			
+T6	rclick	quiet	d41d8cd98f			
+T7	rclick	quiet	d41d8cd98f			
+T8	rclick	quiet	d41d8cd98f			
+T9	rclick	quiet	d41d8cd98f			
+TOPBAR	rclick	quiet	d41d8cd98f			
+UCE9FOR_1	rclick	quiet	d41d8cd98f			
+UCE9FOR_10	rclick	quiet	d41d8cd98f			
+UCE9FOR_11	rclick	quiet	d41d8cd98f			
+UCE9FOR_12	rclick	quiet	d41d8cd98f			
+UCE9FOR_13	rclick	quiet	d41d8cd98f			
+UCE9FOR_14	rclick	quiet	d41d8cd98f			
+UCE9FOR_2	rclick	quiet	d41d8cd98f			
+UCE9FOR_3	rclick	quiet	d41d8cd98f			
+UCE9FOR_4	rclick	quiet	d41d8cd98f			
+UCE9FOR_5	rclick	quiet	d41d8cd98f			
+UCE9FOR_6	rclick	quiet	d41d8cd98f			
+UCE9FOR_7	rclick	quiet	d41d8cd98f			
+UCE9FOR_8	rclick	quiet	d41d8cd98f			
+UCE9FOR_9	rclick	quiet	d41d8cd98f			
+UPH12MIC_1	rclick	quiet	d41d8cd98f			
+UPH12MIC_2	rclick	quiet	d41d8cd98f			
+UPH12MIC_3	rclick	quiet	d41d8cd98f			
+UPH12MIC_4	rclick	quiet	d41d8cd98f			
+UPH12MIC_5	rclick	quiet	d41d8cd98f			
+UPH12MIC_6	rclick	quiet	d41d8cd98f			
+UPOIB1	rclick	quiet	d41d8cd98f			
+UPOIB2	rclick	quiet	d41d8cd98f			
+UPOIB3	rclick	quiet	d41d8cd98f			
+UPOIB4	rclick	quiet	d41d8cd98f			
+UPOIFOLS1	rclick	quiet	d41d8cd98f			
+UPOIFOLS2	rclick	quiet	d41d8cd98f			
+UPOIHIST1	rclick	quiet	d41d8cd98f			
+UPOIHIST2	rclick	quiet	d41d8cd98f			
+UPOIINTRO1	rclick	quiet	d41d8cd98f			
+UPOIINTRO2	rclick	quiet	d41d8cd98f			
+UPOIINTRO3	rclick	quiet	d41d8cd98f			
+UPOIINTRO4	rclick	quiet	d41d8cd98f			
+UPOIPROF1	rclick	quiet	d41d8cd98f			
+UPOIPROF2	rclick	quiet	d41d8cd98f			
+UPOIPROF3	rclick	quiet	d41d8cd98f			
+UPOIPROF4	rclick	quiet	d41d8cd98f			
+UPOISPACE1	rclick	quiet	d41d8cd98f			
+UPOISPACE2	rclick	quiet	d41d8cd98f			
+UPOISPACE3	rclick	quiet	d41d8cd98f			
+UPOISPACE4	rclick	quiet	d41d8cd98f			
+UPOITITLE	rclick	quiet	d41d8cd98f			
+UR1RAIN_1	rclick	quiet	d41d8cd98f			
+UR1RAIN_2	rclick	moved	d41d8cd98f		-> FR1RAIN	
+W1	rclick	quiet	d41d8cd98f			
+W2	rclick	quiet	d41d8cd98f			
+W3	rclick	quiet	d41d8cd98f			
+XCEBLUE	rclick	quiet	d41d8cd98f			
+XCLOCK	rclick	quiet	d41d8cd98f			
+XDEVLET	rclick	quiet	d41d8cd98f			
+XFILE1	rclick	quiet	d41d8cd98f			
+XFILE2	rclick	quiet	d41d8cd98f			
+XFILE3	rclick	quiet	d41d8cd98f			
+XFRIENDLET	rclick	quiet	d41d8cd98f			
+XMIKEMEMO	rclick	quiet	d41d8cd98f			
+XPAMPH	rclick	quiet	d41d8cd98f			
+XPOEM1	rclick	quiet	d41d8cd98f			
+XPOEM2	rclick	quiet	d41d8cd98f			
+XPOEM3	rclick	quiet	d41d8cd98f			
+XRFMAP	rclick	quiet	d41d8cd98f			
+XRUSSMEMO	rclick	quiet	d41d8cd98f			
+XSAVMAP	rclick	quiet	d41d8cd98f			
+XWIFELET	rclick	quiet	d41d8cd98f			
+ZLANDOFNOD	rclick	quiet	d41d8cd98f			
+adren1	rclick	react	a651c253b8			message 364
+adren1	use+rclick	react	b674505b36			ev anim 3 anims\obj_use\adrenuse.tan hideheld=1 | ev gameobject adren1 4 | RemoveGameObject object=adren1 | OpenSound sounds\russell\stimus\adrenal.wav | FadeToColour rgb=16777215 unk04=1 speed=1 unk1c=0 percent=20 | OpenSound sounds\russel
+adren2	rclick	react	a651c253b8			message 364
+adren2	use+rclick	react	9548bb5cb8			ev anim 3 anims\obj_use\adrenuse.tan hideheld=1 | ev gameobject adren2 4 | RemoveGameObject object=adren2 | OpenSound sounds\russell\stimus\adrenal.wav | FadeToColour rgb=16777215 unk04=1 speed=1 unk1c=0 percent=20 | OpenSound sounds\russel
+adren3	rclick	react	a651c253b8			message 364
+adren3	use+rclick	react	6ede3b0a64			ev anim 3 anims\obj_use\adrenuse.tan hideheld=1 | ev gameobject adren3 4 | RemoveGameObject object=adren3 | OpenSound sounds\russell\stimus\adrenal.wav | FadeToColour rgb=16777215 unk04=1 speed=1 unk1c=0 percent=20 | OpenSound sounds\russel
+adren4	rclick	react	a651c253b8			message 364
+adren4	use+rclick	react	ea45b31e45			ev anim 3 anims\obj_use\adrenuse.tan hideheld=1 | ev gameobject adren4 4 | RemoveGameObject object=adren4 | OpenSound sounds\russell\stimus\adrenal.wav | FadeToColour rgb=16777215 unk04=1 speed=1 unk1c=0 percent=20 | OpenSound sounds\russel
+adren5	rclick	react	a651c253b8			message 364
+adren5	use+rclick	react	592d1ae9c7			ev anim 3 anims\obj_use\adrenuse.tan hideheld=1 | ev gameobject adren5 4 | RemoveGameObject object=adren5 | OpenSound sounds\russell\stimus\adrenal.wav | FadeToColour rgb=16777215 unk04=1 speed=1 unk1c=0 percent=20 | OpenSound sounds\russel
+alarm	rclick	react	41bc045982			message 364 | message 370
+alarm	use+rclick	react	b29605a8a7			ev gameobject alarm 4 | ev exitpage r4 | ev pagedrawn xclock | DisplayImage off | BeginPageFilter a=118 b=86 c=87 | ev enterpage xclock | JumpToPage xclock | message 65535 | ev exitpage xclock | img dead=0 | img dflood=0 | img healthy=0 | i
+apple	rclick	react	41bc045982			message 364 | message 370
+apple	use+rclick	react	22a8a54ae4			ev gameobject apple 4 | message 370 | message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+apple2	rclick	react	41bc045982			message 364 | message 370
+apple2	use+rclick	react	e144890663			ev gameobject apple2 4 | message 370 | message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+baby1	rclick	react	a651c253b8			message 364
+baby1	use+rclick	react	04b31294fc			ev anim 3 anims\obj_use\synthkil.tan hideheld=1 | ev gameobject baby1 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | message 65535
+baby2	rclick	react	a651c253b8			message 364
+baby2	use+rclick	react	51ddee41b9			ev anim 3 anims\obj_use\synthkil.tan hideheld=1 | ev gameobject baby2 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | message 65535
+baby3	rclick	react	a651c253b8			message 364
+baby3	use+rclick	react	060fbf0d15			ev anim 3 anims\obj_use\synthkil.tan hideheld=1 | ev gameobject baby3 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | message 65535
+baby4	rclick	react	a651c253b8			message 364
+baby4	use+rclick	react	9b2b4d97ab			ev anim 3 anims\obj_use\synthkil.tan hideheld=1 | ev gameobject baby4 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | message 65535
+baby5	rclick	react	a651c253b8			message 364
+baby5	use+rclick	react	bb6cebe083			ev anim 3 anims\obj_use\synthkil.tan hideheld=1 | ev gameobject baby5 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | message 65535
+baby6	rclick	react	a651c253b8			message 364
+baby6	use+rclick	react	9763e381f5			ev anim 3 anims\obj_use\synthkil.tan hideheld=1 | ev gameobject baby6 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | message 65535
+baby7	rclick	react	a651c253b8			message 364
+baby7	use+rclick	react	d8b3924d9b			ev anim 3 anims\obj_use\synthkil.tan hideheld=1 | ev gameobject baby7 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | message 65535
+babylab	rclick	react	41bc045982			message 364 | message 370
+babylab	use+rclick	react	784492f82d			ev gameobject babylab 4 | OpenSound sounds\russell\eating.wav | RemoveGameObject object=babylab | message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | held->-
+beef1	rclick	react	a651c253b8			message 364
+beef1	use+rclick	react	5ea6e0f94b			ev anim 3 anims\obj_use\beefuse.tan hideheld=1 | ev gameobject beef1 4 | OpenSound sounds\russell\eating.wav | RemoveGameObject object=beef1 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535 | m
+beef10	rclick	react	a651c253b8			message 364
+beef10	use+rclick	react	fcb7fd3753			ev anim 3 anims\obj_use\beefuse.tan hideheld=1 | ev gameobject beef10 4 | OpenSound sounds\russell\eating.wav | RemoveGameObject object=beef10 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535 |
+beef11	rclick	react	a651c253b8			message 364
+beef11	use+rclick	react	c58d5b091d			ev anim 3 anims\obj_use\beefuse.tan hideheld=1 | ev gameobject beef11 4 | OpenSound sounds\russell\eating.wav | RemoveGameObject object=beef11 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535 |
+beef12	rclick	react	a651c253b8			message 364
+beef12	use+rclick	react	a94bc4a9b8			ev anim 3 anims\obj_use\beefuse.tan hideheld=1 | ev gameobject beef12 4 | OpenSound sounds\russell\eating.wav | RemoveGameObject object=beef12 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535 |
+beef13	rclick	react	a651c253b8			message 364
+beef13	use+rclick	react	3e4966143a			ev anim 3 anims\obj_use\beefuse.tan hideheld=1 | ev gameobject beef13 4 | OpenSound sounds\russell\eating.wav | RemoveGameObject object=beef13 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535 |
+beef14	rclick	react	a651c253b8			message 364
+beef14	use+rclick	react	400b644375			ev anim 3 anims\obj_use\beefuse.tan hideheld=1 | ev gameobject beef14 4 | OpenSound sounds\russell\eating.wav | RemoveGameObject object=beef14 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535 |
+beef15	rclick	react	a651c253b8			message 364
+beef15	use+rclick	react	78121bd8ca			ev anim 3 anims\obj_use\beefuse.tan hideheld=1 | ev gameobject beef15 4 | OpenSound sounds\russell\eating.wav | RemoveGameObject object=beef15 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535 |
+beef16	rclick	react	a651c253b8			message 364
+beef16	use+rclick	react	4942baedaa			ev anim 3 anims\obj_use\beefuse.tan hideheld=1 | ev gameobject beef16 4 | OpenSound sounds\russell\eating.wav | RemoveGameObject object=beef16 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535 |
+beef17	rclick	react	a651c253b8			message 364
+beef17	use+rclick	react	dfddbbe7d6			ev anim 3 anims\obj_use\beefuse.tan hideheld=1 | ev gameobject beef17 4 | OpenSound sounds\russell\eating.wav | RemoveGameObject object=beef17 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535 |
+beef18	rclick	react	a651c253b8			message 364
+beef18	use+rclick	react	bd109c2a0f			ev anim 3 anims\obj_use\beefuse.tan hideheld=1 | ev gameobject beef18 4 | OpenSound sounds\russell\eating.wav | RemoveGameObject object=beef18 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535 |
+beef19	rclick	react	a651c253b8			message 364
+beef19	use+rclick	react	6c161f024c			ev anim 3 anims\obj_use\beefuse.tan hideheld=1 | ev gameobject beef19 4 | OpenSound sounds\russell\eating.wav | RemoveGameObject object=beef19 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535 |
+beef2	rclick	react	a651c253b8			message 364
+beef2	use+rclick	react	54fbad9efa			ev anim 3 anims\obj_use\beefuse.tan hideheld=1 | ev gameobject beef2 4 | OpenSound sounds\russell\eating.wav | RemoveGameObject object=beef2 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535 | m
+beef3	rclick	react	a651c253b8			message 364
+beef3	use+rclick	react	a28226ca8a			ev anim 3 anims\obj_use\beefuse.tan hideheld=1 | ev gameobject beef3 4 | OpenSound sounds\russell\eating.wav | RemoveGameObject object=beef3 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535 | m
+beef4	rclick	react	a651c253b8			message 364
+beef4	use+rclick	react	982cb33c83			ev anim 3 anims\obj_use\beefuse.tan hideheld=1 | ev gameobject beef4 4 | OpenSound sounds\russell\eating.wav | RemoveGameObject object=beef4 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535 | m
+beef5	rclick	react	a651c253b8			message 364
+beef5	use+rclick	react	9fe55f4749			ev anim 3 anims\obj_use\beefuse.tan hideheld=1 | ev gameobject beef5 4 | OpenSound sounds\russell\eating.wav | RemoveGameObject object=beef5 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535 | m
+beef6	rclick	react	a651c253b8			message 364
+beef6	use+rclick	react	a34d219858			ev anim 3 anims\obj_use\beefuse.tan hideheld=1 | ev gameobject beef6 4 | OpenSound sounds\russell\eating.wav | RemoveGameObject object=beef6 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535 | m
+beef7	rclick	react	a651c253b8			message 364
+beef7	use+rclick	react	b23ced5d91			ev anim 3 anims\obj_use\beefuse.tan hideheld=1 | ev gameobject beef7 4 | OpenSound sounds\russell\eating.wav | RemoveGameObject object=beef7 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535 | m
+beef8	rclick	react	a651c253b8			message 364
+beef8	use+rclick	react	014beec080			ev anim 3 anims\obj_use\beefuse.tan hideheld=1 | ev gameobject beef8 4 | OpenSound sounds\russell\eating.wav | RemoveGameObject object=beef8 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535 | m
+beef9	rclick	react	a651c253b8			message 364
+beef9	use+rclick	react	0d1b2f749b			ev anim 3 anims\obj_use\beefuse.tan hideheld=1 | ev gameobject beef9 4 | OpenSound sounds\russell\eating.wav | RemoveGameObject object=beef9 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535 | m
+canteen	rclick	react	a651c253b8			message 364
+canteen	use+rclick	react	5d5097f9c9			ev anim 3 anims\obj_use\cantuse.tan hideheld=1 | ev gameobject canteen 4 | OpenSound sounds\russell\stimus\caffeine.wav | message 43 | OpenSound sounds\russell\stimus\heart1.wav | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 durat
+champ1	rclick	react	a651c253b8			message 364
+champ1	use+rclick	react	9ffb58436c			ev anim 3 anims\obj_use\champuse.tan hideheld=1 | ev gameobject champ1 4 | OpenSound sounds\russell\drunk\cdrunk1.wav | RemoveGameObject object=champ1 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlayS
+champ2	rclick	react	a651c253b8			message 364
+champ2	use+rclick	react	4f8ffa9b53			ev anim 3 anims\obj_use\champuse.tan hideheld=1 | ev gameobject champ2 4 | OpenSound sounds\russell\drunk\cdrunk1.wav | RemoveGameObject object=champ2 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlayS
+champ3	rclick	react	a651c253b8			message 364
+champ3	use+rclick	react	3cd582f3ad			ev anim 3 anims\obj_use\champuse.tan hideheld=1 | ev gameobject champ3 4 | OpenSound sounds\russell\drunk\cdrunk1.wav | RemoveGameObject object=champ3 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlayS
+champ4	rclick	react	a651c253b8			message 364
+champ4	use+rclick	react	bbe4d0a900			ev anim 3 anims\obj_use\champuse.tan hideheld=1 | ev gameobject champ4 4 | OpenSound sounds\russell\drunk\cdrunk1.wav | RemoveGameObject object=champ4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlayS
+champ5	rclick	react	a651c253b8			message 364
+champ5	use+rclick	react	a1872c179b			ev anim 3 anims\obj_use\champuse.tan hideheld=1 | ev gameobject champ5 4 | OpenSound sounds\russell\drunk\cdrunk1.wav | RemoveGameObject object=champ5 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlayS
+champ6	rclick	react	a651c253b8			message 364
+champ6	use+rclick	react	1d65fef422			ev anim 3 anims\obj_use\champuse.tan hideheld=1 | ev gameobject champ6 4 | OpenSound sounds\russell\drunk\cdrunk1.wav | RemoveGameObject object=champ6 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlayS
+chlor1	rclick	react	41bc045982			message 364 | message 370
+chlor1	use+rclick	react	343e0d8c6b			ev anim 3 anims\obj_use\chloruse.tan hideheld=1 | ev gameobject chlor1 4 | message 225 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | message 65535 | message 65535
+chlor2	rclick	react	41bc045982			message 364 | message 370
+chlor2	use+rclick	react	87e11f8e02			ev anim 3 anims\obj_use\chloruse.tan hideheld=1 | ev gameobject chlor2 4 | message 225 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | message 65535 | message 65535
+chlor3	rclick	react	41bc045982			message 364 | message 370
+chlor3	use+rclick	react	1bbd5b5fe0			ev anim 3 anims\obj_use\chloruse.tan hideheld=1 | ev gameobject chlor3 4 | message 225 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | message 65535 | message 65535
+chlor4	rclick	react	41bc045982			message 364 | message 370
+chlor4	use+rclick	react	63d07b687c			ev anim 3 anims\obj_use\chloruse.tan hideheld=1 | ev gameobject chlor4 4 | message 225 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | message 65535 | message 65535
+chlor5	rclick	react	41bc045982			message 364 | message 370
+chlor5	use+rclick	react	74d22b071d			ev anim 3 anims\obj_use\chloruse.tan hideheld=1 | ev gameobject chlor5 4 | message 225 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | message 65535 | message 65535
+compass	rclick	react	41bc045982			message 364 | message 370
+compass	use+rclick	react	f45e867311			ev gameobject compass 4 | message 370 | message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+crowbar	rclick	react	a651c253b8			message 364
+crowbar	use+rclick	react	136e9ad0a6			ev gameobject crowbar 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+dat1	rclick	react	41bc045982			message 364 | message 370
+dat1	use+rclick	react	a00f8d4564			ev gameobject dat1 4 | message 370 | message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+dat2	rclick	react	41bc045982			message 364 | message 370
+dat2	use+rclick	react	8c9a8d05ec			ev gameobject dat2 4 | message 370 | message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+dat3	rclick	react	41bc045982			message 364 | message 370
+dat3	use+rclick	react	7df40d1a2c			ev gameobject dat3 4 | message 370 | message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+dat4	rclick	react	41bc045982			message 364 | message 370
+dat4	use+rclick	react	d0ea667756			ev gameobject dat4 4 | message 370 | message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+db1xx_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+db1xx_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+db1xx_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+db1xx_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+db1xx_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+db1xx_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+db1xx_4	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+db1xx_4	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+db1xx_5	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+db1xx_5	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+db3xx_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+db3xx_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+db3xx_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+db3xx_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+db3xx_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+db3xx_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+dbaby1	rclick	react	a651c253b8			message 364
+dbaby1	use+rclick	react	c794e0074c			ev anim 3 anims\obj_use\synthkil.tan hideheld=1 | ev gameobject dbaby1 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | message 65535
+dbaby2	rclick	react	a651c253b8			message 364
+dbaby2	use+rclick	react	8a66b077f1			ev anim 3 anims\obj_use\synthkil.tan hideheld=1 | ev gameobject dbaby2 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | message 65535
+dbaby3	rclick	react	a651c253b8			message 364
+dbaby3	use+rclick	react	8d468c9dd8			ev anim 3 anims\obj_use\synthkil.tan hideheld=1 | ev gameobject dbaby3 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | message 65535
+dbaby4	rclick	react	a651c253b8			message 364
+dbaby4	use+rclick	react	475e9fa79f			ev anim 3 anims\obj_use\synthkil.tan hideheld=1 | ev gameobject dbaby4 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | message 65535
+dbaby5	rclick	react	a651c253b8			message 364
+dbaby5	use+rclick	react	255842431e			ev anim 3 anims\obj_use\synthkil.tan hideheld=1 | ev gameobject dbaby5 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | message 65535
+dbaby6	rclick	react	a651c253b8			message 364
+dbaby6	use+rclick	react	510f9369bf			ev anim 3 anims\obj_use\synthkil.tan hideheld=1 | ev gameobject dbaby6 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | message 65535
+devlet	rclick	react	a651c253b8			message 364
+devlet	use+rclick	react	46a2ca9b8a			ev gameobject devlet 4 | OpenSound sounds\objects\paprfld4.wav | ev exitpage r4 | ev pagedrawn xdevlet | BeginPageFilter a=118 b=86 c=87 | ev enterpage xdevlet | JumpToPage xdevlet | message 65535 | ev exitpage xdevlet | img dead=0 | img df
+fireCO22	rclick	react	41bc045982			message 364 | message 370
+fireCO22	use+rclick	react	5246e863a9			ev anim 3 anims\obj_use\co2use.tan hideheld=1 | ev gameobject fireco22 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | message 65535
+fireCO23	rclick	react	41bc045982			message 364 | message 370
+fireCO23	use+rclick	react	43d96316e8			ev anim 3 anims\obj_use\co2use.tan hideheld=1 | ev gameobject fireco23 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | message 65535
+fireCO24	rclick	react	41bc045982			message 364 | message 370
+fireCO24	use+rclick	react	4740f85c1b			ev anim 3 anims\obj_use\co2use.tan hideheld=1 | ev gameobject fireco24 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | message 65535
+fireCO25	rclick	react	41bc045982			message 364 | message 370
+fireCO25	use+rclick	react	f5dc22aa7e			ev anim 3 anims\obj_use\co2use.tan hideheld=1 | ev gameobject fireco25 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | message 65535
+fireH2O1	rclick	react	41bc045982			message 364 | message 370
+fireH2O1	use+rclick	react	c2ded4fad6			ev anim 3 anims\obj_use\h2ouse.tan hideheld=1 | ev gameobject fireh2o1 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | message 65535
+fireH2O2	rclick	react	41bc045982			message 364 | message 370
+fireH2O2	use+rclick	react	b460467992			ev anim 3 anims\obj_use\h2ouse.tan hideheld=1 | ev gameobject fireh2o2 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | message 65535
+fireH2O3	rclick	react	41bc045982			message 364 | message 370
+fireH2O3	use+rclick	react	350354af42			ev anim 3 anims\obj_use\h2ouse.tan hideheld=1 | ev gameobject fireh2o3 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | message 65535
+fishrod	rclick	react	a651c253b8			message 364
+fishrod	use+rclick	react	259da71765			ev anim 3 anims\obj_use\fishnmis.tan hideheld=1 | ev gameobject fishrod 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | OpenSound sounds\russell\thirst\thirst2.wav
+flop1	rclick	react	a651c253b8			message 364
+flop1	use+rclick	react	37d5f5f1c1			ev gameobject flop1 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+forekey	rclick	react	a651c253b8			message 364
+forekey	use+rclick	react	4298d5a009			ev gameobject forekey 4 | message 370 | message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+friendlet	rclick	react	a651c253b8			message 364
+friendlet	use+rclick	react	85650f1706			ev gameobject friendlet 4 | OpenSound sounds\objects\paprfld4.wav | ev exitpage r4 | ev pagedrawn xfriendlet | BeginPageFilter a=118 b=86 c=87 | ev enterpage xfriendlet | JumpToPage xfriendlet | message 65535 | ev exitpage xfriendlet | img 
+fuse1	rclick	react	a651c253b8			message 364
+fuse1	use+rclick	react	7c6c18ac36			ev gameobject fuse1 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse10	rclick	react	a651c253b8			message 364
+fuse10	use+rclick	react	e95374df59			ev gameobject fuse10 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse11	rclick	react	a651c253b8			message 364
+fuse11	use+rclick	react	e07ce64f0d			ev gameobject fuse11 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse12	rclick	react	a651c253b8			message 364
+fuse12	use+rclick	react	723b829828			ev gameobject fuse12 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse13	rclick	react	a651c253b8			message 364
+fuse13	use+rclick	react	8e7d258370			ev gameobject fuse13 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse14	rclick	react	a651c253b8			message 364
+fuse14	use+rclick	react	bec560be06			ev gameobject fuse14 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse16	rclick	react	a651c253b8			message 364
+fuse16	use+rclick	react	b36e3597d5			ev gameobject fuse16 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse17	rclick	react	a651c253b8			message 364
+fuse17	use+rclick	react	1247f00967			ev gameobject fuse17 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse18	rclick	react	a651c253b8			message 364
+fuse18	use+rclick	react	057e5cb2da			ev gameobject fuse18 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse19	rclick	react	a651c253b8			message 364
+fuse19	use+rclick	react	f17c53f0d3			ev gameobject fuse19 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse2	rclick	react	a651c253b8			message 364
+fuse2	use+rclick	react	5257926984			ev gameobject fuse2 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse20	rclick	react	a651c253b8			message 364
+fuse20	use+rclick	react	7a250284af			ev gameobject fuse20 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse21	rclick	react	a651c253b8			message 364
+fuse21	use+rclick	react	6c84b5e40f			ev gameobject fuse21 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse22	rclick	react	a651c253b8			message 364
+fuse22	use+rclick	react	7e44111add			ev gameobject fuse22 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse23	rclick	react	a651c253b8			message 364
+fuse23	use+rclick	react	46d42035de			ev gameobject fuse23 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse24	rclick	react	a651c253b8			message 364
+fuse24	use+rclick	react	6aa033bc8d			ev gameobject fuse24 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse25	rclick	react	a651c253b8			message 364
+fuse25	use+rclick	react	6d9ba7c7b7			ev gameobject fuse25 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse26	rclick	react	a651c253b8			message 364
+fuse26	use+rclick	react	c54c677065			ev gameobject fuse26 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse27	rclick	react	a651c253b8			message 364
+fuse27	use+rclick	react	1cb8131711			ev gameobject fuse27 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse28	rclick	react	a651c253b8			message 364
+fuse28	use+rclick	react	409d4e687a			ev gameobject fuse28 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse29	rclick	react	a651c253b8			message 364
+fuse29	use+rclick	react	c43d3c8b32			ev gameobject fuse29 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse3	rclick	react	a651c253b8			message 364
+fuse3	use+rclick	react	e5fa1f6a93			ev gameobject fuse3 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse30	rclick	react	a651c253b8			message 364
+fuse30	use+rclick	react	ee0df1b64e			ev gameobject fuse30 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse32	rclick	react	a651c253b8			message 364
+fuse32	use+rclick	react	6d4eff1bd2			ev gameobject fuse32 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse38	rclick	react	a651c253b8			message 364
+fuse38	use+rclick	react	03c22f2fde			ev gameobject fuse38 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse39	rclick	react	a651c253b8			message 364
+fuse39	use+rclick	react	df9502208a			ev gameobject fuse39 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse4	rclick	react	a651c253b8			message 364
+fuse4	use+rclick	react	774f183e11			ev gameobject fuse4 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse40	rclick	react	a651c253b8			message 364
+fuse40	use+rclick	react	378cc8216f			ev gameobject fuse40 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse41	rclick	react	a651c253b8			message 364
+fuse41	use+rclick	react	9dbfc41930			ev gameobject fuse41 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse42	rclick	react	a651c253b8			message 364
+fuse42	use+rclick	react	01b2820ab0			ev gameobject fuse42 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse43	rclick	react	a651c253b8			message 364
+fuse43	use+rclick	react	fedc7110b1			ev gameobject fuse43 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse44	rclick	react	a651c253b8			message 364
+fuse44	use+rclick	react	662ccc1de0			ev gameobject fuse44 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse45	rclick	react	a651c253b8			message 364
+fuse45	use+rclick	react	e823b4d894			ev gameobject fuse45 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse46	rclick	react	a651c253b8			message 364
+fuse46	use+rclick	react	86449ce808			ev gameobject fuse46 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse47	rclick	react	a651c253b8			message 364
+fuse47	use+rclick	react	8b336f4e5e			ev gameobject fuse47 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse48	rclick	react	a651c253b8			message 364
+fuse48	use+rclick	react	5e10824115			ev gameobject fuse48 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse49	rclick	react	a651c253b8			message 364
+fuse49	use+rclick	react	2beb9a633d			ev gameobject fuse49 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse5	rclick	react	a651c253b8			message 364
+fuse5	use+rclick	react	3dc42a2e4c			ev gameobject fuse5 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse50	rclick	react	a651c253b8			message 364
+fuse50	use+rclick	react	89ac6536d7			ev gameobject fuse50 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse51	rclick	react	a651c253b8			message 364
+fuse51	use+rclick	react	a9e73974db			ev gameobject fuse51 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse52	rclick	react	a651c253b8			message 364
+fuse52	use+rclick	react	10b4dadbe1			ev gameobject fuse52 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse53	rclick	react	a651c253b8			message 364
+fuse53	use+rclick	react	a9f0b7ea5c			ev gameobject fuse53 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse54	rclick	react	a651c253b8			message 364
+fuse54	use+rclick	react	a9be3ce611			ev gameobject fuse54 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse55	rclick	react	a651c253b8			message 364
+fuse55	use+rclick	react	ac9e9cea02			ev gameobject fuse55 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse56	rclick	react	a651c253b8			message 364
+fuse56	use+rclick	react	88034a073a			ev gameobject fuse56 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse57	rclick	react	a651c253b8			message 364
+fuse57	use+rclick	react	2de3b11ae6			ev gameobject fuse57 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse58	rclick	react	a651c253b8			message 364
+fuse58	use+rclick	react	519b5b05bb			ev gameobject fuse58 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse59	rclick	react	a651c253b8			message 364
+fuse59	use+rclick	react	640b6e44c8			ev gameobject fuse59 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse6	rclick	react	a651c253b8			message 364
+fuse6	use+rclick	react	5423dcc40c			ev gameobject fuse6 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse60	rclick	react	a651c253b8			message 364
+fuse60	use+rclick	react	14ff61aefc			ev gameobject fuse60 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+fuse61	rclick	react	a651c253b8			message 364
+fuse61	use+rclick	react	7606b8ad8a			ev gameobject fuse61 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse7	rclick	react	a651c253b8			message 364
+fuse7	use+rclick	react	1b1dae7f5c			ev gameobject fuse7 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse8	rclick	react	a651c253b8			message 364
+fuse8	use+rclick	react	45a0c9872a			ev gameobject fuse8 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+fuse9	rclick	react	a651c253b8			message 364
+fuse9	use+rclick	react	77b4454234			ev gameobject fuse9 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+goggles	rclick	react	a651c253b8			message 364
+goggles	use+rclick	react	99dfd58919			message 253 | ev gameobject goggles 14 | ev gameobject goggles 8 | PlaceGameObject srcObject=goggles extraImage= dstObject=goggles imageKind=wearing holdInde | OpenSound sounds\objects\gogon.wav | PlaceGameObject srcObject=goggles extraImag
+grub_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+grub_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+grub_10	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+grub_10	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+grub_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+grub_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+grub_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+grub_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+grub_4	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+grub_4	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+grub_5	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+grub_5	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+grub_6	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+grub_6	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+grub_7	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+grub_7	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+grub_8	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+grub_8	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+grub_9	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+grub_9	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+honey	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+honey	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+inhal1	rclick	react	41bc045982			message 364 | message 370
+inhal1	use+rclick	react	545f860ecd			ev anim 3 anims\obj_use\inhaluse.tan hideheld=1 | ev gameobject inhal1 4 | message 222 | message 364 | SetPalette palette=pal#b77fcfb2 steps=12 duration=5 | message 65535 | PlaySound | OpenSound sounds\russell\thirst\thirst5.wav | PlaySound
+inhal2	rclick	react	41bc045982			message 364 | message 370
+inhal2	use+rclick	react	8ca1ef3cdc			ev anim 3 anims\obj_use\inhaluse.tan hideheld=1 | ev gameobject inhal2 4 | message 222 | message 364 | SetPalette palette=pal#b77fcfb2 steps=12 duration=5 | message 65535 | PlaySound | OpenSound sounds\russell\thirst\thirst5.wav | PlaySound
+inhal3	rclick	react	41bc045982			message 364 | message 370
+inhal3	use+rclick	react	9ae2194748			ev anim 3 anims\obj_use\inhaluse.tan hideheld=1 | ev gameobject inhal3 4 | message 222 | message 364 | SetPalette palette=pal#b77fcfb2 steps=12 duration=5 | message 65535 | PlaySound | OpenSound sounds\russell\thirst\thirst5.wav | PlaySound
+inhal4	rclick	react	41bc045982			message 364 | message 370
+inhal4	use+rclick	react	43aedcd75c			ev anim 3 anims\obj_use\inhaluse.tan hideheld=1 | ev gameobject inhal4 4 | message 222 | message 364 | SetPalette palette=pal#b77fcfb2 steps=12 duration=5 | message 65535 | PlaySound | OpenSound sounds\russell\thirst\thirst5.wav | PlaySound
+inhal5	rclick	react	41bc045982			message 364 | message 370
+inhal5	use+rclick	react	822b045672			ev anim 3 anims\obj_use\inhaluse.tan hideheld=1 | ev gameobject inhal5 4 | message 222 | message 364 | SetPalette palette=pal#b77fcfb2 steps=12 duration=5 | message 65535 | PlaySound | OpenSound sounds\russell\thirst\thirst5.wav | PlaySound
+kukri	rclick	react	41bc045982			message 364 | message 370
+kukri	use+rclick	react	620354a1aa			ev anim 3 anims\obj_use\kukuse.tan hideheld=1 | ev gameobject kukri 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | message 65535
+latex	rclick	react	a651c253b8			message 364
+latex	use+rclick	react	367f5df0db			ev gameobject latex 5 | message 370 | message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+medipass	rclick	react	a651c253b8			message 364
+medipass	use+rclick	react	bd4465954a			ev gameobject medipass 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+mescal1	rclick	react	a651c253b8			message 364
+mescal1	use+rclick	react	b0ec829da8			ev anim 3 anims\obj_use\mescause.tan hideheld=1 | ev gameobject mescal1 4 | OpenSound sounds\russell\drunk\mdrunk1.wav | message 221 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | message 65535 | message
+mikememo	rclick	react	a651c253b8			message 364
+mikememo	use+rclick	react	c86f675466			ev gameobject mikememo 4 | OpenSound sounds\objects\paprfld4.wav | ev exitpage r4 | ev pagedrawn xmikememo | BeginPageFilter a=118 b=86 c=87 | ev enterpage xmikememo | JumpToPage xmikememo | message 65535 | ev exitpage xmikememo | img dead=
+o1fish_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+o1fish_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+o1fish_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+o1fish_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+o1fish_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+o1fish_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+o1fish_4	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+o1fish_4	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+o1fish_5	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+o1fish_5	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+o1fish_6	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+o1fish_6	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+o1p_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+o1p_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+o1p_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+o1p_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+o1p_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+o1p_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+o1p_4	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+o1p_4	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+o1p_5	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+o1p_5	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+o2p_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+o2p_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+o2p_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+o2p_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+o2p_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+o2p_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+oxy_cyl	rclick	react	41bc045982			message 364 | message 370
+oxy_cyl	use+rclick	react	23f7d9b4ef			ev anim 3 anims\obj_use\cyluse.tan hideheld=1 | ev gameobject oxy_cyl 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+oxy_mask	rclick	react	a651c253b8			message 364
+oxy_mask	use+rclick	react	2c54a85690			ev anim 3 anims\obj_use\airuse.tan hideheld=1 | message 257 | ev gameobject oxy_mask 14 | ev gameobject oxy_mask 8 | OpenSound sounds\objects\mask.wav | message 372 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlayS
+pamphlet	rclick	react	41bc045982			message 364 | message 370
+pamphlet	use+rclick	react	e1ad95ba49			ev gameobject pamphlet 4 | OpenSound sounds\objects\paprfld4.wav | ev exitpage r4 | ev pagedrawn xpamph | BeginPageFilter a=118 b=86 c=87 | ev enterpage xpamph | JumpToPage xpamph | message 65535 | ev exitpage xpamph | img dead=0 | img dflo
+poem1	rclick	react	a651c253b8			message 364
+poem1	use+rclick	react	d8b848532c			ev gameobject poem1 4 | OpenSound sounds\objects\paprfld4.wav | ev exitpage r4 | ev pagedrawn xpoem1 | BeginPageFilter a=118 b=86 c=87 | ev enterpage xpoem1 | JumpToPage xpoem1 | message 65535 | ev exitpage xpoem1 | img dead=0 | img dflood=
+poem2	rclick	react	a651c253b8			message 364
+poem2	use+rclick	react	65d9311f4e			ev gameobject poem2 4 | OpenSound sounds\objects\paprfld4.wav | ev exitpage r4 | ev pagedrawn xpoem2 | BeginPageFilter a=118 b=86 c=87 | ev enterpage xpoem2 | JumpToPage xpoem2 | message 65535 | ev exitpage xpoem2 | img dead=0 | img dflood=
+poncho	rclick	react	a651c253b8			message 364
+poncho	use+rclick	react	f43b5d9e34			message 255 | ev gameobject poncho 14 | ev gameobject poncho 8 | OpenSound sounds\objects\zipup.wav | PlaySound | message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | held->- | worn->poncho
+r10p_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+r10p_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+r10p_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+r10p_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+r10p_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+r10p_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+r2fish_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+r2fish_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+r2fish_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+r2fish_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+r2fish_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+r2fish_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+r3p_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+r3p_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+r3p_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+r3p_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+r4p_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+r4p_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+r4p_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+r4p_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+r6p_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+r6p_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+r6p_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+r6p_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+r6p_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+r6p_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+r7fish_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+r7fish_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+r7fish_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+r7fish_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+r7fish_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+r7fish_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+r7fish_4	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+r7fish_4	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+r7p_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+r7p_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+rfmap	rclick	react	41bc045982			message 364 | message 370
+rfmap	use+rclick	react	a6fc5485e0			ev gameobject rfmap 4 | OpenSound sounds\objects\paprfld4.wav | ev exitpage r4 | ev pagedrawn xrfmap | BeginPageFilter a=118 b=86 c=87 | ev enterpage xrfmap | JumpToPage xrfmap | message 65535 | ev exitpage xrfmap | img dead=0 | img dflood=
+russkey	rclick	react	a651c253b8			message 364
+russkey	use+rclick	react	3bfba800ec			ev gameobject russkey 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+russmemo	rclick	react	a651c253b8			message 364
+russmemo	use+rclick	react	8f1075dc0b			ev gameobject russmemo 4 | OpenSound sounds\objects\paprfld4.wav | ev exitpage r4 | ev pagedrawn xrussmemo | BeginPageFilter a=118 b=86 c=87 | ev enterpage xrussmemo | JumpToPage xrussmemo | message 65535 | ev exitpage xrussmemo | img dead=
+savmap	rclick	react	41bc045982			message 364 | message 370
+savmap	use+rclick	react	3bcbcab731			ev gameobject savmap 4 | OpenSound sounds\objects\paprfld4.wav | ev exitpage r4 | ev pagedrawn xsavmap | BeginPageFilter a=118 b=86 c=87 | ev enterpage xsavmap | JumpToPage xsavmap | message 65535 | ev exitpage xsavmap | img dead=0 | img df
+sb_blow	rclick	react	a651c253b8			message 364
+sb_blow	use+rclick	react	e53379c635			ev anim 3 anims\obj_use\blowuse.tan hideheld=1 | ev gameobject sb_blow 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+sb_pick	rclick	react	41bc045982			message 364 | message 370
+sb_pick	use+rclick	react	c8bc6d2264			ev anim 3 anims\obj_use\pickuse.tan hideheld=1 | ev gameobject sb_pick 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | message 65535 | message 65535
+sleep1	rclick	react	41bc045982			message 364 | message 370
+sleep1	use+rclick	react	99ab9565c6			ev anim 3 anims\obj_use\sleepuse.tan hideheld=1 | ev gameobject sleep1 4 | FadeToColour rgb=0 unk04=2 speed=100 unk1c=0 percent=54 | ev exitpage r4 | ev pagedrawn zlandofnod | EndPageFilter | message 338 | ev enterpage zlandofnod | JumpToPa
+sleep2	rclick	react	41bc045982			message 364 | message 370
+sleep2	use+rclick	react	f38fc801b0			ev anim 3 anims\obj_use\sleepuse.tan hideheld=1 | ev gameobject sleep2 4 | FadeToColour rgb=0 unk04=2 speed=100 unk1c=0 percent=54 | ev exitpage r4 | ev pagedrawn zlandofnod | EndPageFilter | message 338 | ev enterpage zlandofnod | JumpToPa
+sleep3	rclick	react	41bc045982			message 364 | message 370
+sleep3	use+rclick	react	017c99674d			ev anim 3 anims\obj_use\sleepuse.tan hideheld=1 | ev gameobject sleep3 4 | FadeToColour rgb=0 unk04=2 speed=100 unk1c=0 percent=54 | ev exitpage r4 | ev pagedrawn zlandofnod | EndPageFilter | message 338 | ev enterpage zlandofnod | JumpToPa
+sleep4	rclick	react	41bc045982			message 364 | message 370
+sleep4	use+rclick	react	3e0547c0a0			ev anim 3 anims\obj_use\sleepuse.tan hideheld=1 | ev gameobject sleep4 4 | FadeToColour rgb=0 unk04=2 speed=100 unk1c=0 percent=54 | ev exitpage r4 | ev pagedrawn zlandofnod | EndPageFilter | message 338 | ev enterpage zlandofnod | JumpToPa
+sleep5	rclick	react	41bc045982			message 364 | message 370
+sleep5	use+rclick	react	548fa2909d			ev anim 3 anims\obj_use\sleepuse.tan hideheld=1 | ev gameobject sleep5 4 | FadeToColour rgb=0 unk04=2 speed=100 unk1c=0 percent=54 | ev exitpage r4 | ev pagedrawn zlandofnod | EndPageFilter | message 338 | ev enterpage zlandofnod | JumpToPa
+statue	rclick	react	41bc045982			message 364 | message 370
+statue	use+rclick	react	2451fe5ed2			ev gameobject statue 4 | message 370 | message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+survibag	rclick	react	a651c253b8			message 364
+survibag	use+rclick	react	9103365d2b			JigglePage records=ptr#00000000 count=1 unk14=0 first=0 last=-1 | ev anim 3 anims\obj_use\unroll2.tan hideheld=1 | ev gameobject survibag 4 | FadeToColour rgb=0 unk04=2 speed=100 unk1c=0 percent=54 | ev exitpage r4 | ev pagedrawn zlandofnod
+term_1	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+term_1	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+term_10	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+term_10	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+term_2	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+term_2	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+term_3	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+term_3	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+term_4	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+term_4	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+term_5	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+term_5	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+term_6	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+term_6	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+term_7	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+term_7	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+term_8	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+term_8	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+term_9	rclick	off	6b9b82a1bd		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535
+term_9	use+rclick	off	87b98c942e		the object cannot be put in the hand (hold rc=18: fruit)	message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+torch	rclick	react	a651c253b8			message 364
+torch	use+rclick	react	8cdca5bcee			ev gameobject torch 4 | message 180 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | message 65535
+tracker	rclick	react	a651c253b8			message 364
+tracker	use+rclick	react	3d8a812383			ev gameobject tracker 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | message 65535
+video1	rclick	react	a651c253b8			message 364
+video1	use+rclick	react	bd79ab66f4			ev gameobject video1 4 | message 370 | message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+video2	rclick	react	a651c253b8			message 364
+video2	use+rclick	react	65a061d668			ev gameobject video2 4 | message 370 | message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+video3	rclick	react	a651c253b8			message 364
+video3	use+rclick	react	7818956ca8			ev gameobject video3 4 | message 370 | message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+video4	rclick	react	a651c253b8			message 364
+video4	use+rclick	react	bfd1d60f52			ev gameobject video4 4 | message 370 | message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+video5	rclick	react	a651c253b8			message 364
+video5	use+rclick	react	3a08c735b5			ev gameobject video5 4 | message 370 | message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+video6	rclick	react	a651c253b8			message 364
+video6	use+rclick	react	78e436e673			ev gameobject video6 4 | message 370 | message 364 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+vit1	rclick	react	a651c253b8			message 364
+vit1	use+rclick	react	c936c556a4			ev anim 3 anims\obj_use\vituse.tan hideheld=1 | ev gameobject vit1 4 | OpenSound sounds\russell\sighs\sigh2.wav | message 226 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | message 65535 | message 65535
+vit2	rclick	react	a651c253b8			message 364
+vit2	use+rclick	react	bd77bdc84c			ev anim 3 anims\obj_use\vituse.tan hideheld=1 | ev gameobject vit2 4 | OpenSound sounds\russell\sighs\sigh2.wav | message 226 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | message 65535 | message 65535
+vit3	rclick	react	a651c253b8			message 364
+vit3	use+rclick	react	b9f9446eb6			ev anim 3 anims\obj_use\vituse.tan hideheld=1 | ev gameobject vit3 4 | OpenSound sounds\russell\sighs\sigh2.wav | message 226 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | message 65535 | message 65535
+vit4	rclick	react	a651c253b8			message 364
+vit4	use+rclick	react	b2762e96f8			ev anim 3 anims\obj_use\vituse.tan hideheld=1 | ev gameobject vit4 4 | OpenSound sounds\russell\sighs\sigh2.wav | message 226 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | message 65535 | message 65535
+vit5	rclick	react	a651c253b8			message 364
+vit5	use+rclick	react	db8dd58cff			ev anim 3 anims\obj_use\vituse.tan hideheld=1 | ev gameobject vit5 4 | OpenSound sounds\russell\sighs\sigh2.wav | message 226 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | message 65535 | message 65535
+wand	rclick	react	a651c253b8			message 364
+wand	use+rclick	react	1ee4c87902			ev anim 3 anims\obj_use\wanduse.tan hideheld=1 | ev gameobject wand 4 | message 370 | message 364 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+wifelet	rclick	react	a651c253b8			message 364
+wifelet	use+rclick	react	466620f935			ev gameobject wifelet 4 | OpenSound sounds\objects\paprfld4.wav | ev exitpage r4 | ev pagedrawn xwifelet | BeginPageFilter a=118 b=86 c=87 | ev enterpage xwifelet | JumpToPage xwifelet | message 65535 | ev exitpage xwifelet | img dead=0 | i

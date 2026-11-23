@@ -1,0 +1,6 @@
+# Cyanide: Consume(10) at once, idle two hours in 90 s steps, dump.
+time 28918
+consume 10
+dump
+run 7200 90
+dump

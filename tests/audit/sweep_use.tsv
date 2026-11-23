@@ -1,0 +1,1228 @@
+# page	hotspot	class	digest	verdict	note	signature (shortened)      -- see tests/test_sweep.py
+CEblue	drop	react	d8092bd003			ev anim 6 anims\obj_up\ceblueup.tan hideheld=0 | ev gameobject ceblue 13 | ev gameobject ceblue 6 dropzone10 | message 370 | held->-
+CEblue	stash	react	0c357be5a5			ev anim 2 anims\obj_up\ceblueup.tan hideheld=0 | message 267 | ev gameobject ceblue 11 | ev gameobject ceblue 2 | message 371 | held->-
+CEblue	use	moved	7e2c4d44dd		-> XCEBLUE	ev gameobject ceblue 4 | OpenSound sounds\objects\paprfld4.wav | ev exitpage r4 | ev pagedrawn xceblue | BeginPageFilter a=118 b=86 c=87 | ev enterpage xceblue | JumpToPage xceblue | message 65535 | message 65535 | message 65535
+File1	drop	react	85eb86c6b1			ev anim 6 anims\obj_up\fileup.tan hideheld=0 | ev gameobject file1 13 | ev gameobject file1 6 dropzone10 | message 370 | message 65535 | held->-
+File1	stash	react	b88aa6598b			ev anim 2 anims\obj_up\fileup.tan hideheld=0 | message 262 | ev gameobject file1 11 | ev gameobject file1 2 | message 371 | held->-
+File1	use	moved	659a69c84f		-> XFILE1	ev gameobject file1 4 | OpenSound sounds\objects\paprfld4.wav | ev exitpage r4 | ev pagedrawn xfile1 | BeginPageFilter a=118 b=86 c=87 | ev enterpage xfile1 | JumpToPage xfile1 | message 65535
+File2	drop	react	1885ae9252			ev anim 6 anims\obj_up\fileup.tan hideheld=0 | ev gameobject file2 13 | ev gameobject file2 6 dropzone10 | message 370 | message 65535 | held->-
+File2	stash	react	176c31860a			ev anim 2 anims\obj_up\fileup.tan hideheld=0 | message 263 | ev gameobject file2 11 | ev gameobject file2 2 | message 371 | held->-
+File2	use	moved	3dd23e919a		-> XFILE2	ev gameobject file2 4 | OpenSound sounds\objects\paprfld4.wav | ev exitpage r4 | ev pagedrawn xfile2 | BeginPageFilter a=118 b=86 c=87 | ev enterpage xfile2 | JumpToPage xfile2 | message 65535
+File3	drop	react	71887eb2ea			ev anim 6 anims\obj_up\fileup.tan hideheld=0 | ev gameobject file3 13 | ev gameobject file3 6 dropzone10 | message 370 | message 65535 | held->-
+File3	stash	react	d602cc8c3b			ev anim 2 anims\obj_up\fileup.tan hideheld=0 | message 264 | ev gameobject file3 11 | ev gameobject file3 2 | message 371 | held->-
+File3	use	moved	b432deb2d0		-> XFILE3	ev gameobject file3 4 | OpenSound sounds\objects\paprfld4.wav | ev exitpage r4 | ev pagedrawn xfile3 | BeginPageFilter a=118 b=86 c=87 | ev enterpage xfile3 | JumpToPage xfile3 | message 65535
+O2cc_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+O2cc_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+O2cc_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+O2cc_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+O2cc_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+O2cc_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+O2cc_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+O2cc_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+O2cc_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+O2cc_4	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+O2cc_4	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+O2cc_4	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+O2cc_5	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+O2cc_5	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+O2cc_5	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R1ma_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R1ma_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R1ma_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R1pa_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R1pa_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R1pa_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R2ba_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R2ba_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R2ba_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R2ba_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R2ba_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R2ba_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R2ba_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R2ba_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R2ba_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R2or_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R2or_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R2or_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R2or_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R2or_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R2or_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R2or_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R2or_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R2or_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R2or_4	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R2or_4	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R2or_4	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R2or_5	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R2or_5	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R2or_5	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R2or_6	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R2or_6	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R2or_6	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R2pa_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R2pa_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R2pa_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R2pa_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R2pa_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R2pa_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R2pa_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R2pa_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R2pa_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R2pa_4	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R2pa_4	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R2pa_4	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R3AV_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R3AV_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R3AV_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R3AV_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R3AV_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R3AV_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R3AV_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R3AV_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R3AV_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R3AV_4	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R3AV_4	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R3AV_4	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R3eg_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R3eg_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R3eg_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R3eg_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R3eg_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R3eg_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R3eg_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R3eg_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R3eg_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R3eg_4	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R3eg_4	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R3eg_4	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R3eg_5	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R3eg_5	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R3eg_5	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R3eg_6	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R3eg_6	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R3eg_6	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R3ya_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R3ya_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R3ya_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R4nv_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R4nv_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R4nv_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R4nv_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R4nv_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R4nv_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R4nv_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R4nv_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R4nv_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R4ya_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R4ya_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R4ya_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5av_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5av_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5av_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5av_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5av_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5av_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5av_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5av_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5av_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5av_4	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5av_4	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5av_4	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5av_5	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5av_5	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5av_5	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5av_6	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5av_6	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5av_6	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5bz_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5bz_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5bz_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5bz_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5bz_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5bz_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5bz_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5bz_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5bz_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5bz_4	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5bz_4	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5bz_4	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5bz_5	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5bz_5	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5bz_5	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5ci_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5ci_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5ci_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5ci_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5ci_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5ci_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5gu_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5gu_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5gu_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5gu_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5gu_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5gu_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5gu_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5gu_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5gu_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5gu_4	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5gu_4	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R5gu_4	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R6an_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R6an_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R6an_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R6an_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R6an_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R6an_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R6an_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R6an_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R6an_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R6an_4	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R6an_4	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R6an_4	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R6an_5	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R6an_5	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R6an_5	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R6ba_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R6ba_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R6ba_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R6ba_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R6ba_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R6ba_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R6ba_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R6ba_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R6ba_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R7Ag_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R7Ag_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R7Ag_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R7Ag_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R7Ag_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R7Ag_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R7av_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R7av_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R7av_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R7av_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R7av_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R7av_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R7av_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R7av_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R7av_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R7av_4	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R7av_4	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R7av_4	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R7av_5	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R7av_5	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R7av_5	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R7or_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R7or_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R7or_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R7or_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R7or_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R7or_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R7or_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R7or_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R7or_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R7or_4	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R7or_4	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R7or_4	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R7or_5	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R7or_5	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R7or_5	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8ba_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8ba_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8ba_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8ba_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8ba_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8ba_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8ba_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8ba_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8ba_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8ba_4	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8ba_4	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8ba_4	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8ba_5	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8ba_5	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8ba_5	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8co_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8co_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8co_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8co_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8co_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8co_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8co_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8co_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8co_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8co_4	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8co_4	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8co_4	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8da_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8da_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8da_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8da_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8da_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8da_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8da_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8da_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8da_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8da_4	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8da_4	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8da_4	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8da_5	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8da_5	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8da_5	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8p_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8p_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R8p_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R9ba_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R9ba_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R9ba_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R9ba_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R9ba_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R9ba_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R9ba_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R9ba_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R9ba_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R9bf_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R9bf_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R9bf_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R9bf_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R9bf_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R9bf_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R9bf_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R9bf_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R9bf_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R9bf_4	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R9bf_4	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R9bf_4	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R9bf_5	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R9bf_5	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R9bf_5	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R9bf_6	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R9bf_6	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R9bf_6	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R9ma_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R9ma_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R9ma_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R9pa_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R9pa_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R9pa_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R9pa_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R9pa_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+R9pa_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S1ag_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S1ag_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S1ag_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S1ag_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S1ag_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S1ag_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S1ag_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S1ag_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S1ag_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S1p_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S1p_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S1p_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S1p_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S1p_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S1p_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S2ep_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S2ep_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S2ep_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S2ep_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S2ep_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S2ep_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S2ep_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S2ep_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S2ep_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S2fg1_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S2fg1_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S2fg1_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S2fg1_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S2fg1_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S2fg1_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S2fg2_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S2fg2_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S2fg2_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S2fg2_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S2fg2_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S2fg2_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S2p_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S2p_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S2p_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S3al_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S3al_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S3al_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S3al_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S3al_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S3al_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S3al_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S3al_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S3al_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S3ok_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S3ok_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S3ok_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S3ok_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S3ok_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S3ok_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S5ok_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S5ok_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S5ok_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S5ok_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S5ok_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S5ok_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S5ok_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S5ok_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S5ok_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S5wm_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S5wm_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S5wm_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S5wm_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S5wm_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S5wm_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S5wm_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S5wm_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S5wm_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S5wm_4	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S5wm_4	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S5wm_4	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S6eg_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S6eg_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S6eg_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S6eg_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S6eg_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S6eg_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S6eg_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S6eg_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S6eg_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S6eg_4	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S6eg_4	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S6eg_4	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S6eg_5	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S6eg_5	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S6eg_5	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S6fg_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S6fg_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S6fg_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S6fg_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S6fg_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S6fg_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S6fg_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S6fg_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S6fg_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S6pp_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S6pp_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S6pp_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S6pp_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S6pp_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S6pp_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S6pp_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S6pp_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S6pp_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S6pp_4	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S6pp_4	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S6pp_4	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S7eg_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S7eg_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S7eg_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S7eg_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S7eg_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S7eg_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S7eg_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S7eg_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S7eg_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S7eg_4	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S7eg_4	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S7eg_4	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S7eg_5	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S7eg_5	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S7eg_5	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S7eg_6	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S7eg_6	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S7eg_6	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S7eg_7	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S7eg_7	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S7eg_7	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S7eg_8	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S7eg_8	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S7eg_8	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S7sq_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S7sq_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S7sq_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S7sq_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S7sq_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S7sq_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S7sq_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S7sq_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S7sq_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S7sq_4	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S7sq_4	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S7sq_4	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8Sg_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8Sg_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8Sg_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8Sg_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8Sg_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8Sg_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8Sg_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8Sg_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8Sg_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8Sg_4	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8Sg_4	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8Sg_4	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8Sg_5	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8Sg_5	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8Sg_5	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8he1_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8he1_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8he1_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8he1_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8he1_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8he1_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8he1_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8he1_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8he1_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8he1_4	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8he1_4	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8he1_4	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8he1_5	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8he1_5	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8he1_5	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8he1_6	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8he1_6	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8he1_6	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8he2_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8he2_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8he2_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8he2_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8he2_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8he2_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8he2_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8he2_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8he2_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8he2_4	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8he2_4	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8he2_4	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8p_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8p_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S8p_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S9av_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S9av_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S9av_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S9av_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S9av_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S9av_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S9av_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S9av_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S9av_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S9av_4	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S9av_4	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S9av_4	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S9av_5	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S9av_5	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S9av_5	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S9av_6	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S9av_6	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S9av_6	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S9p_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S9p_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S9p_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S9p_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S9p_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S9p_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S9pe_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S9pe_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S9pe_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S9pe_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S9pe_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+S9pe_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+adren1	drop	react	14ae587fe2			ev anim 6 anims\obj_up\adrenup.tan hideheld=0 | ev gameobject adren1 13 | ev gameobject adren1 6 dropzone10 | message 370 | held->-
+adren1	stash	react	6a32a35bab			ev anim 2 anims\obj_up\adrenup.tan hideheld=0 | message 224 | ev gameobject adren1 11 | ev gameobject adren1 2 | message 371 | held->-
+adren1	use	react	a2c8332234			ev anim 3 anims\obj_use\adrenuse.tan hideheld=1 | ev gameobject adren1 4 | RemoveGameObject object=adren1 | OpenSound sounds\russell\stimus\adrenal.wav | FadeToColour rgb=16777215 unk04=1 speed=1 unk1c=0 percent=20 | OpenSound sounds\russel
+adren2	drop	react	2bf4a2d063			ev anim 6 anims\obj_up\adrenup.tan hideheld=0 | ev gameobject adren2 13 | ev gameobject adren2 6 dropzone10 | message 370 | held->-
+adren2	stash	react	6cefdf9270			ev anim 2 anims\obj_up\adrenup.tan hideheld=0 | message 224 | ev gameobject adren2 11 | ev gameobject adren2 2 | message 371 | held->-
+adren2	use	react	18a395a6c1			ev anim 3 anims\obj_use\adrenuse.tan hideheld=1 | ev gameobject adren2 4 | RemoveGameObject object=adren2 | OpenSound sounds\russell\stimus\adrenal.wav | FadeToColour rgb=16777215 unk04=1 speed=1 unk1c=0 percent=20 | OpenSound sounds\russel
+adren3	drop	react	7fc32b6bfc			ev anim 6 anims\obj_up\adrenup.tan hideheld=0 | ev gameobject adren3 13 | ev gameobject adren3 6 dropzone10 | message 370 | held->-
+adren3	stash	react	e41dd0b378			ev anim 2 anims\obj_up\adrenup.tan hideheld=0 | message 224 | ev gameobject adren3 11 | ev gameobject adren3 2 | message 371 | held->-
+adren3	use	react	b72079a287			ev anim 3 anims\obj_use\adrenuse.tan hideheld=1 | ev gameobject adren3 4 | RemoveGameObject object=adren3 | OpenSound sounds\russell\stimus\adrenal.wav | FadeToColour rgb=16777215 unk04=1 speed=1 unk1c=0 percent=20 | OpenSound sounds\russel
+adren4	drop	react	dfbc449254			ev anim 6 anims\obj_up\adrenup.tan hideheld=0 | ev gameobject adren4 13 | ev gameobject adren4 6 dropzone10 | message 370 | held->-
+adren4	stash	react	9341e586f5			ev anim 2 anims\obj_up\adrenup.tan hideheld=0 | message 224 | ev gameobject adren4 11 | ev gameobject adren4 2 | message 371 | held->-
+adren4	use	react	358c18b4e9			ev anim 3 anims\obj_use\adrenuse.tan hideheld=1 | ev gameobject adren4 4 | RemoveGameObject object=adren4 | OpenSound sounds\russell\stimus\adrenal.wav | FadeToColour rgb=16777215 unk04=1 speed=1 unk1c=0 percent=20 | OpenSound sounds\russel
+adren5	drop	react	7319bb44d3			ev anim 6 anims\obj_up\adrenup.tan hideheld=0 | ev gameobject adren5 13 | ev gameobject adren5 6 dropzone10 | message 370 | held->-
+adren5	stash	react	5b075f834f			ev anim 2 anims\obj_up\adrenup.tan hideheld=0 | message 224 | ev gameobject adren5 11 | ev gameobject adren5 2 | message 371 | held->-
+adren5	use	react	510b9a1646			ev anim 3 anims\obj_use\adrenuse.tan hideheld=1 | ev gameobject adren5 4 | RemoveGameObject object=adren5 | OpenSound sounds\russell\stimus\adrenal.wav | FadeToColour rgb=16777215 unk04=1 speed=1 unk1c=0 percent=20 | OpenSound sounds\russel
+alarm	drop	react	c59c3d5e67			ev anim 6 anims\obj_up\alarmup.tan hideheld=0 | ev gameobject alarm 13 | ev gameobject alarm 6 dropzone10 | message 370 | held->-
+alarm	stash	react	cc0312705e			ev anim 2 anims\obj_up\alarmup.tan hideheld=0 | message 274 | ev gameobject alarm 11 | ev gameobject alarm 2 | message 371 | held->-
+alarm	use	moved	4259668d0e		-> XCLOCK	ev gameobject alarm 4 | ev exitpage r4 | ev pagedrawn xclock | DisplayImage off | BeginPageFilter a=118 b=86 c=87 | ev enterpage xclock | JumpToPage xclock | message 65535
+apple	drop	react	6e48ed6095			ev anim 6 anims\obj_up\appleup.tan hideheld=0 | ev gameobject apple 13 | ev gameobject apple 6 dropzone10 | message 370 | held->-
+apple	stash	react	492e6b063a			ev anim 2 anims\obj_up\appleup.tan hideheld=0 | message 247 | ev gameobject apple 11 | ev gameobject apple 2 | message 371 | held->-
+apple	use	react	45fdf290fb			ev gameobject apple 4 | message 370
+apple2	drop	react	5154e2e9df			ev anim 6 anims\obj_up\appleup.tan hideheld=0 | ev gameobject apple2 13 | ev gameobject apple2 6 dropzone10 | message 370 | held->-
+apple2	stash	react	73d0204293			ev anim 2 anims\obj_up\appleup.tan hideheld=0 | message 247 | ev gameobject apple2 11 | ev gameobject apple2 2 | message 371 | held->-
+apple2	use	react	a2e402e9a1			ev gameobject apple2 4 | message 370
+baby1	drop	react	da86313594			ev anim 0 anims\obj_use\synthrun.tan hideheld=1 | UseAnim ?  | RemoveGameObject object=baby1 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | held->-
+baby1	stash	react	da86313594			ev anim 0 anims\obj_use\synthrun.tan hideheld=1 | UseAnim ?  | RemoveGameObject object=baby1 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | held->-
+baby1	use	react	0ac858482e			ev anim 3 anims\obj_use\synthkil.tan hideheld=1 | ev gameobject baby1 4 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+baby2	drop	react	41c14d3922			ev anim 0 anims\obj_use\synthrun.tan hideheld=1 | UseAnim ?  | RemoveGameObject object=baby2 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | held->-
+baby2	stash	react	41c14d3922			ev anim 0 anims\obj_use\synthrun.tan hideheld=1 | UseAnim ?  | RemoveGameObject object=baby2 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | held->-
+baby2	use	react	d71f50823b			ev anim 3 anims\obj_use\synthkil.tan hideheld=1 | ev gameobject baby2 4 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+baby3	drop	react	e3231acbd3			ev anim 0 anims\obj_use\synthrun.tan hideheld=1 | UseAnim ?  | RemoveGameObject object=baby3 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | held->-
+baby3	stash	react	e3231acbd3			ev anim 0 anims\obj_use\synthrun.tan hideheld=1 | UseAnim ?  | RemoveGameObject object=baby3 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | held->-
+baby3	use	react	7ff897834c			ev anim 3 anims\obj_use\synthkil.tan hideheld=1 | ev gameobject baby3 4 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+baby4	drop	react	40bc2f23ed			ev anim 0 anims\obj_use\synthrun.tan hideheld=1 | UseAnim ?  | RemoveGameObject object=baby4 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | held->-
+baby4	stash	react	40bc2f23ed			ev anim 0 anims\obj_use\synthrun.tan hideheld=1 | UseAnim ?  | RemoveGameObject object=baby4 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | held->-
+baby4	use	react	24965559f7			ev anim 3 anims\obj_use\synthkil.tan hideheld=1 | ev gameobject baby4 4 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+baby5	drop	react	f2bc837317			ev anim 0 anims\obj_use\synthrun.tan hideheld=1 | UseAnim ?  | RemoveGameObject object=baby5 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | held->-
+baby5	stash	react	f2bc837317			ev anim 0 anims\obj_use\synthrun.tan hideheld=1 | UseAnim ?  | RemoveGameObject object=baby5 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | held->-
+baby5	use	react	1d38037ab0			ev anim 3 anims\obj_use\synthkil.tan hideheld=1 | ev gameobject baby5 4 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+baby6	drop	react	105e63b3e1			ev anim 0 anims\obj_use\synthrun.tan hideheld=1 | UseAnim ?  | RemoveGameObject object=baby6 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | held->-
+baby6	stash	react	105e63b3e1			ev anim 0 anims\obj_use\synthrun.tan hideheld=1 | UseAnim ?  | RemoveGameObject object=baby6 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | held->-
+baby6	use	react	eb48d9e462			ev anim 3 anims\obj_use\synthkil.tan hideheld=1 | ev gameobject baby6 4 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+baby7	drop	react	635e492be7			ev anim 0 anims\obj_use\synthrun.tan hideheld=1 | UseAnim ?  | RemoveGameObject object=baby7 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | held->-
+baby7	stash	react	635e492be7			ev anim 0 anims\obj_use\synthrun.tan hideheld=1 | UseAnim ?  | RemoveGameObject object=baby7 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | held->-
+baby7	use	react	d1ec11f01e			ev anim 3 anims\obj_use\synthkil.tan hideheld=1 | ev gameobject baby7 4 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+babylab	drop	react	a9b9369eb4			ev anim 6 anims\obj_up\rotup.tan hideheld=0 | ev gameobject babylab 13 | ev gameobject babylab 6 dropzone10 | message 370 | held->-
+babylab	stash	react	721372dd01			ev anim 2 anims\obj_up\rotup.tan hideheld=0 | message 218 | ev gameobject babylab 11 | ev gameobject babylab 2 | message 371 | held->-
+babylab	use	react	f5e4d0bfff			ev gameobject babylab 4 | OpenSound sounds\russell\eating.wav | RemoveGameObject object=babylab | OpenSound sounds\russell\retching\vomit1.wav | PlaySound | FadeToColour rgb=65280 unk04=1 speed=1 unk1c=0 percent=20 | PlaySound | held->-
+beef1	drop	react	1a0a3a9a02			ev anim 6 anims\obj_up\beefup.tan hideheld=0 | ev gameobject beef1 13 | ev gameobject beef1 6 dropzone10 | message 370 | message 65535 | held->-
+beef1	stash	react	307c6e90af			ev anim 2 anims\obj_up\beefup.tan hideheld=0 | message 276 | ev gameobject beef1 11 | ev gameobject beef1 2 | message 371 | held->-
+beef1	use	react	9e6d9fda70			ev anim 3 anims\obj_use\beefuse.tan hideheld=1 | ev gameobject beef1 4 | OpenSound sounds\russell\eating.wav | RemoveGameObject object=beef1 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | held->-
+beef10	drop	react	3c5116831d			ev anim 6 anims\obj_up\beefup.tan hideheld=0 | ev gameobject beef10 13 | ev gameobject beef10 6 dropzone10 | message 370 | message 65535 | held->-
+beef10	stash	react	324549624d			ev anim 2 anims\obj_up\beefup.tan hideheld=0 | message 276 | ev gameobject beef10 11 | ev gameobject beef10 2 | message 371 | held->-
+beef10	use	react	7857a620fb			ev anim 3 anims\obj_use\beefuse.tan hideheld=1 | ev gameobject beef10 4 | OpenSound sounds\russell\eating.wav | RemoveGameObject object=beef10 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | held->-
+beef11	drop	react	f8559704a5			ev anim 6 anims\obj_up\beefup.tan hideheld=0 | ev gameobject beef11 13 | ev gameobject beef11 6 dropzone10 | message 370 | message 65535 | held->-
+beef11	stash	react	555e8332ec			ev anim 2 anims\obj_up\beefup.tan hideheld=0 | message 276 | ev gameobject beef11 11 | ev gameobject beef11 2 | message 371 | held->-
+beef11	use	react	aa67a58941			ev anim 3 anims\obj_use\beefuse.tan hideheld=1 | ev gameobject beef11 4 | OpenSound sounds\russell\eating.wav | RemoveGameObject object=beef11 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | held->-
+beef12	drop	react	a046ae1137			ev anim 6 anims\obj_up\beefup.tan hideheld=0 | ev gameobject beef12 13 | ev gameobject beef12 6 dropzone10 | message 370 | message 65535 | held->-
+beef12	stash	react	4fc72e6f13			ev anim 2 anims\obj_up\beefup.tan hideheld=0 | message 276 | ev gameobject beef12 11 | ev gameobject beef12 2 | message 371 | held->-
+beef12	use	react	00bb879adc			ev anim 3 anims\obj_use\beefuse.tan hideheld=1 | ev gameobject beef12 4 | OpenSound sounds\russell\eating.wav | RemoveGameObject object=beef12 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | held->-
+beef13	drop	react	ccd8482017			ev anim 6 anims\obj_up\beefup.tan hideheld=0 | ev gameobject beef13 13 | ev gameobject beef13 6 dropzone10 | message 370 | message 65535 | held->-
+beef13	stash	react	cf762c3754			ev anim 2 anims\obj_up\beefup.tan hideheld=0 | message 276 | ev gameobject beef13 11 | ev gameobject beef13 2 | message 371 | held->-
+beef13	use	react	543b3bf37e			ev anim 3 anims\obj_use\beefuse.tan hideheld=1 | ev gameobject beef13 4 | OpenSound sounds\russell\eating.wav | RemoveGameObject object=beef13 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | held->-
+beef14	drop	react	d5811e76e4			ev anim 6 anims\obj_up\beefup.tan hideheld=0 | ev gameobject beef14 13 | ev gameobject beef14 6 dropzone10 | message 370 | message 65535 | held->-
+beef14	stash	react	a7c701bdf9			ev anim 2 anims\obj_up\beefup.tan hideheld=0 | message 276 | ev gameobject beef14 11 | ev gameobject beef14 2 | message 371 | held->-
+beef14	use	react	229f740b3a			ev anim 3 anims\obj_use\beefuse.tan hideheld=1 | ev gameobject beef14 4 | OpenSound sounds\russell\eating.wav | RemoveGameObject object=beef14 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | held->-
+beef15	drop	react	e511a9dcd6			ev anim 6 anims\obj_up\beefup.tan hideheld=0 | ev gameobject beef15 13 | ev gameobject beef15 6 dropzone10 | message 370 | message 65535 | held->-
+beef15	stash	react	d88824cbbf			ev anim 2 anims\obj_up\beefup.tan hideheld=0 | message 276 | ev gameobject beef15 11 | ev gameobject beef15 2 | message 371 | held->-
+beef15	use	react	4e0e11bcea			ev anim 3 anims\obj_use\beefuse.tan hideheld=1 | ev gameobject beef15 4 | OpenSound sounds\russell\eating.wav | RemoveGameObject object=beef15 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | held->-
+beef16	drop	react	8b44d5aa5f			ev anim 6 anims\obj_up\beefup.tan hideheld=0 | ev gameobject beef16 13 | ev gameobject beef16 6 dropzone10 | message 370 | message 65535 | held->-
+beef16	stash	react	9d8778131d			ev anim 2 anims\obj_up\beefup.tan hideheld=0 | message 276 | ev gameobject beef16 11 | ev gameobject beef16 2 | message 371 | held->-
+beef16	use	react	fc008cc695			ev anim 3 anims\obj_use\beefuse.tan hideheld=1 | ev gameobject beef16 4 | OpenSound sounds\russell\eating.wav | RemoveGameObject object=beef16 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | held->-
+beef17	drop	react	d51d5231b4			ev anim 6 anims\obj_up\beefup.tan hideheld=0 | ev gameobject beef17 13 | ev gameobject beef17 6 dropzone10 | message 370 | message 65535 | held->-
+beef17	stash	react	96fcedd797			ev anim 2 anims\obj_up\beefup.tan hideheld=0 | message 276 | ev gameobject beef17 11 | ev gameobject beef17 2 | message 371 | held->-
+beef17	use	react	596c54f65d			ev anim 3 anims\obj_use\beefuse.tan hideheld=1 | ev gameobject beef17 4 | OpenSound sounds\russell\eating.wav | RemoveGameObject object=beef17 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | held->-
+beef18	drop	react	22eb20baec			ev anim 6 anims\obj_up\beefup.tan hideheld=0 | ev gameobject beef18 13 | ev gameobject beef18 6 dropzone10 | message 370 | message 65535 | held->-
+beef18	stash	react	725300d1e0			ev anim 2 anims\obj_up\beefup.tan hideheld=0 | message 276 | ev gameobject beef18 11 | ev gameobject beef18 2 | message 371 | held->-
+beef18	use	react	22e2729d88			ev anim 3 anims\obj_use\beefuse.tan hideheld=1 | ev gameobject beef18 4 | OpenSound sounds\russell\eating.wav | RemoveGameObject object=beef18 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | held->-
+beef19	drop	react	55c41743d2			ev anim 6 anims\obj_up\beefup.tan hideheld=0 | ev gameobject beef19 13 | ev gameobject beef19 6 dropzone10 | message 370 | message 65535 | held->-
+beef19	stash	react	587d00425d			ev anim 2 anims\obj_up\beefup.tan hideheld=0 | message 276 | ev gameobject beef19 11 | ev gameobject beef19 2 | message 371 | held->-
+beef19	use	react	954b60abe0			ev anim 3 anims\obj_use\beefuse.tan hideheld=1 | ev gameobject beef19 4 | OpenSound sounds\russell\eating.wav | RemoveGameObject object=beef19 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | held->-
+beef2	drop	react	825ea2c419			ev anim 6 anims\obj_up\beefup.tan hideheld=0 | ev gameobject beef2 13 | ev gameobject beef2 6 dropzone10 | message 370 | message 65535 | held->-
+beef2	stash	react	7d76ee5fbb			ev anim 2 anims\obj_up\beefup.tan hideheld=0 | message 276 | ev gameobject beef2 11 | ev gameobject beef2 2 | message 371 | held->-
+beef2	use	react	7d4172df80			ev anim 3 anims\obj_use\beefuse.tan hideheld=1 | ev gameobject beef2 4 | OpenSound sounds\russell\eating.wav | RemoveGameObject object=beef2 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | held->-
+beef3	drop	react	1d3fe2862c			ev anim 6 anims\obj_up\beefup.tan hideheld=0 | ev gameobject beef3 13 | ev gameobject beef3 6 dropzone10 | message 370 | message 65535 | held->-
+beef3	stash	react	886b0837d5			ev anim 2 anims\obj_up\beefup.tan hideheld=0 | message 276 | ev gameobject beef3 11 | ev gameobject beef3 2 | message 371 | held->-
+beef3	use	react	1628db1e9d			ev anim 3 anims\obj_use\beefuse.tan hideheld=1 | ev gameobject beef3 4 | OpenSound sounds\russell\eating.wav | RemoveGameObject object=beef3 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | held->-
+beef4	drop	react	9c2c4bef34			ev anim 6 anims\obj_up\beefup.tan hideheld=0 | ev gameobject beef4 13 | ev gameobject beef4 6 dropzone10 | message 370 | message 65535 | held->-
+beef4	stash	react	312f33da3c			ev anim 2 anims\obj_up\beefup.tan hideheld=0 | message 276 | ev gameobject beef4 11 | ev gameobject beef4 2 | message 371 | held->-
+beef4	use	react	09c7cfd7b1			ev anim 3 anims\obj_use\beefuse.tan hideheld=1 | ev gameobject beef4 4 | OpenSound sounds\russell\eating.wav | RemoveGameObject object=beef4 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | held->-
+beef5	drop	react	44ff2504cd			ev anim 6 anims\obj_up\beefup.tan hideheld=0 | ev gameobject beef5 13 | ev gameobject beef5 6 dropzone10 | message 370 | message 65535 | held->-
+beef5	stash	react	b8eba82f90			ev anim 2 anims\obj_up\beefup.tan hideheld=0 | message 276 | ev gameobject beef5 11 | ev gameobject beef5 2 | message 371 | held->-
+beef5	use	react	4760faf330			ev anim 3 anims\obj_use\beefuse.tan hideheld=1 | ev gameobject beef5 4 | OpenSound sounds\russell\eating.wav | RemoveGameObject object=beef5 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | held->-
+beef6	drop	react	6fcc205b29			ev anim 6 anims\obj_up\beefup.tan hideheld=0 | ev gameobject beef6 13 | ev gameobject beef6 6 dropzone10 | message 370 | message 65535 | held->-
+beef6	stash	react	230481660c			ev anim 2 anims\obj_up\beefup.tan hideheld=0 | message 276 | ev gameobject beef6 11 | ev gameobject beef6 2 | message 371 | held->-
+beef6	use	react	3609d07b03			ev anim 3 anims\obj_use\beefuse.tan hideheld=1 | ev gameobject beef6 4 | OpenSound sounds\russell\eating.wav | RemoveGameObject object=beef6 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | held->-
+beef7	drop	react	9f724435dd			ev anim 6 anims\obj_up\beefup.tan hideheld=0 | ev gameobject beef7 13 | ev gameobject beef7 6 dropzone10 | message 370 | message 65535 | held->-
+beef7	stash	react	d2c7b29d11			ev anim 2 anims\obj_up\beefup.tan hideheld=0 | message 276 | ev gameobject beef7 11 | ev gameobject beef7 2 | message 371 | held->-
+beef7	use	react	8a7fc053bf			ev anim 3 anims\obj_use\beefuse.tan hideheld=1 | ev gameobject beef7 4 | OpenSound sounds\russell\eating.wav | RemoveGameObject object=beef7 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | held->-
+beef8	drop	react	d753bb7485			ev anim 6 anims\obj_up\beefup.tan hideheld=0 | ev gameobject beef8 13 | ev gameobject beef8 6 dropzone10 | message 370 | message 65535 | held->-
+beef8	stash	react	99b072160e			ev anim 2 anims\obj_up\beefup.tan hideheld=0 | message 276 | ev gameobject beef8 11 | ev gameobject beef8 2 | message 371 | held->-
+beef8	use	react	ede81a8c96			ev anim 3 anims\obj_use\beefuse.tan hideheld=1 | ev gameobject beef8 4 | OpenSound sounds\russell\eating.wav | RemoveGameObject object=beef8 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | held->-
+beef9	drop	react	b882697a60			ev anim 6 anims\obj_up\beefup.tan hideheld=0 | ev gameobject beef9 13 | ev gameobject beef9 6 dropzone10 | message 370 | message 65535 | held->-
+beef9	stash	react	ded2d89bad			ev anim 2 anims\obj_up\beefup.tan hideheld=0 | message 276 | ev gameobject beef9 11 | ev gameobject beef9 2 | message 371 | held->-
+beef9	use	react	b2674f621d			ev anim 3 anims\obj_use\beefuse.tan hideheld=1 | ev gameobject beef9 4 | OpenSound sounds\russell\eating.wav | RemoveGameObject object=beef9 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound | held->-
+canteen	drop	react	f92cbfc5ac			ev anim 6 anims\obj_up\cantup.tan hideheld=0 | ev gameobject canteen 13 | ev gameobject canteen 6 dropzone10 | message 370 | held->-
+canteen	stash	react	c42c44b636			ev anim 2 anims\obj_up\cantup.tan hideheld=0 | message 43 | ev gameobject canteen 11 | ev gameobject canteen 2 | message 371 | held->-
+canteen	use	react	46e9afc0fe			ev anim 3 anims\obj_use\cantuse.tan hideheld=1 | ev gameobject canteen 4 | OpenSound sounds\russell\stimus\caffeine.wav | message 43 | OpenSound sounds\russell\stimus\heart1.wav | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+champ1	drop	react	86f5d1f25f			ev anim 6 anims\obj_up\champup.tan hideheld=0 | ev gameobject champ1 13 | ev gameobject champ1 6 dropzone10 | message 370 | message 65535 | held->-
+champ1	stash	react	2f92e897c4			ev anim 2 anims\obj_up\champup.tan hideheld=0 | message 277 | ev gameobject champ1 11 | ev gameobject champ1 2 | message 371 | held->-
+champ1	use	react	f2a3bd10ed			ev anim 3 anims\obj_use\champuse.tan hideheld=1 | ev gameobject champ1 4 | OpenSound sounds\russell\drunk\cdrunk1.wav | RemoveGameObject object=champ1 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | Pla
+champ2	drop	react	b08e0e91c7			ev anim 6 anims\obj_up\champup.tan hideheld=0 | ev gameobject champ2 13 | ev gameobject champ2 6 dropzone10 | message 370 | message 65535 | held->-
+champ2	stash	react	3d33771610			ev anim 2 anims\obj_up\champup.tan hideheld=0 | message 277 | ev gameobject champ2 11 | ev gameobject champ2 2 | message 371 | held->-
+champ2	use	react	5b0f000fb2			ev anim 3 anims\obj_use\champuse.tan hideheld=1 | ev gameobject champ2 4 | OpenSound sounds\russell\drunk\cdrunk1.wav | RemoveGameObject object=champ2 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | Pla
+champ3	drop	react	3f3598ae8d			ev anim 6 anims\obj_up\champup.tan hideheld=0 | ev gameobject champ3 13 | ev gameobject champ3 6 dropzone10 | message 370 | message 65535 | held->-
+champ3	stash	react	837f906956			ev anim 2 anims\obj_up\champup.tan hideheld=0 | message 277 | ev gameobject champ3 11 | ev gameobject champ3 2 | message 371 | held->-
+champ3	use	react	3e911d770e			ev anim 3 anims\obj_use\champuse.tan hideheld=1 | ev gameobject champ3 4 | OpenSound sounds\russell\drunk\cdrunk1.wav | RemoveGameObject object=champ3 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | Pla
+champ4	drop	react	5fde0d8d86			ev anim 6 anims\obj_up\champup.tan hideheld=0 | ev gameobject champ4 13 | ev gameobject champ4 6 dropzone10 | message 370 | message 65535 | held->-
+champ4	stash	react	f2d05e4062			ev anim 2 anims\obj_up\champup.tan hideheld=0 | message 277 | ev gameobject champ4 11 | ev gameobject champ4 2 | message 371 | held->-
+champ4	use	react	ec612eee08			ev anim 3 anims\obj_use\champuse.tan hideheld=1 | ev gameobject champ4 4 | OpenSound sounds\russell\drunk\cdrunk1.wav | RemoveGameObject object=champ4 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | Pla
+champ5	drop	react	504a23b7e9			ev anim 6 anims\obj_up\champup.tan hideheld=0 | ev gameobject champ5 13 | ev gameobject champ5 6 dropzone10 | message 370 | message 65535 | held->-
+champ5	stash	react	dfa5d7cfb8			ev anim 2 anims\obj_up\champup.tan hideheld=0 | message 277 | ev gameobject champ5 11 | ev gameobject champ5 2 | message 371 | held->-
+champ5	use	react	92c3d29b88			ev anim 3 anims\obj_use\champuse.tan hideheld=1 | ev gameobject champ5 4 | OpenSound sounds\russell\drunk\cdrunk1.wav | RemoveGameObject object=champ5 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | Pla
+champ6	drop	react	9b2cbc3ed2			ev anim 6 anims\obj_up\champup.tan hideheld=0 | ev gameobject champ6 13 | ev gameobject champ6 6 dropzone10 | message 370 | message 65535 | held->-
+champ6	stash	react	5d186895e1			ev anim 2 anims\obj_up\champup.tan hideheld=0 | message 277 | ev gameobject champ6 11 | ev gameobject champ6 2 | message 371 | held->-
+champ6	use	react	ccda875be4			ev anim 3 anims\obj_use\champuse.tan hideheld=1 | ev gameobject champ6 4 | OpenSound sounds\russell\drunk\cdrunk1.wav | RemoveGameObject object=champ6 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | Pla
+chlor1	drop	react	4c6f1ca594			ev anim 6 anims\obj_up\chlorup.tan hideheld=0 | ev gameobject chlor1 13 | ev gameobject chlor1 6 dropzone10 | message 370 | held->-
+chlor1	stash	react	01370e6385			ev anim 2 anims\obj_up\chlorup.tan hideheld=0 | message 225 | ev gameobject chlor1 11 | ev gameobject chlor1 2 | message 371 | held->-
+chlor1	use	react	132796f4ac			ev anim 3 anims\obj_use\chloruse.tan hideheld=1 | ev gameobject chlor1 4 | message 225 | message 370 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+chlor2	drop	react	38fb56741e			ev anim 6 anims\obj_up\chlorup.tan hideheld=0 | ev gameobject chlor2 13 | ev gameobject chlor2 6 dropzone10 | message 370 | held->-
+chlor2	stash	react	18075b2d73			ev anim 2 anims\obj_up\chlorup.tan hideheld=0 | message 225 | ev gameobject chlor2 11 | ev gameobject chlor2 2 | message 371 | held->-
+chlor2	use	react	818b773138			ev anim 3 anims\obj_use\chloruse.tan hideheld=1 | ev gameobject chlor2 4 | message 225 | message 370 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+chlor3	drop	react	6a0500459f			ev anim 6 anims\obj_up\chlorup.tan hideheld=0 | ev gameobject chlor3 13 | ev gameobject chlor3 6 dropzone10 | message 370 | held->-
+chlor3	stash	react	1cd9f1f4c6			ev anim 2 anims\obj_up\chlorup.tan hideheld=0 | message 225 | ev gameobject chlor3 11 | ev gameobject chlor3 2 | message 371 | held->-
+chlor3	use	react	c98834abda			ev anim 3 anims\obj_use\chloruse.tan hideheld=1 | ev gameobject chlor3 4 | message 225 | message 370 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+chlor4	drop	react	3070c31a4b			ev anim 6 anims\obj_up\chlorup.tan hideheld=0 | ev gameobject chlor4 13 | ev gameobject chlor4 6 dropzone10 | message 370 | held->-
+chlor4	stash	react	1c565f3e84			ev anim 2 anims\obj_up\chlorup.tan hideheld=0 | message 225 | ev gameobject chlor4 11 | ev gameobject chlor4 2 | message 371 | held->-
+chlor4	use	react	efb977b932			ev anim 3 anims\obj_use\chloruse.tan hideheld=1 | ev gameobject chlor4 4 | message 225 | message 370 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+chlor5	drop	react	10e0282403			ev anim 6 anims\obj_up\chlorup.tan hideheld=0 | ev gameobject chlor5 13 | ev gameobject chlor5 6 dropzone10 | message 370 | held->-
+chlor5	stash	react	5dc0a240fb			ev anim 2 anims\obj_up\chlorup.tan hideheld=0 | message 225 | ev gameobject chlor5 11 | ev gameobject chlor5 2 | message 371 | held->-
+chlor5	use	react	4c1c1048dd			ev anim 3 anims\obj_use\chloruse.tan hideheld=1 | ev gameobject chlor5 4 | message 225 | message 370 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+compass	drop	react	56f0e040b1			ev anim 6 anims\obj_up\compup.tan hideheld=0 | ev gameobject compass 13 | ev gameobject compass 6 dropzone10 | message 370 | held->-
+compass	stash	react	a32759d724			ev anim 2 anims\obj_up\compup.tan hideheld=0 | message 256 | ev gameobject compass 11 | ev gameobject compass 2 | message 371 | held->-
+compass	use	react	433c640605			ev gameobject compass 4 | message 370
+crowbar	drop	react	df50c264ac			ev anim 6 anims\obj_up\crowup.tan hideheld=0 | ev gameobject crowbar 13 | ev gameobject crowbar 6 dropzone10 | message 370 | message 65535 | held->-
+crowbar	stash	react	4964e2b2be			ev anim 2 anims\obj_up\crowup.tan hideheld=0 | message 252 | ev gameobject crowbar 11 | ev gameobject crowbar 2 | message 371 | held->-
+crowbar	use	react	8ecb6266ae			ev gameobject crowbar 4 | message 370
+dat1	drop	react	8eebe25632			ev anim 6 anims\obj_up\datup.tan hideheld=0 | ev gameobject dat1 13 | ev gameobject dat1 6 dropzone10 | message 370 | held->-
+dat1	stash	react	afa4fa12ee			ev anim 2 anims\obj_up\datup.tan hideheld=0 | message 240 | ev gameobject dat1 11 | ev gameobject dat1 2 | message 371 | held->-
+dat1	use	react	774aa8e6bf			ev gameobject dat1 4 | message 370
+dat2	drop	react	6587bfbc13			ev anim 6 anims\obj_up\datup.tan hideheld=0 | ev gameobject dat2 13 | ev gameobject dat2 6 dropzone10 | message 370 | held->-
+dat2	stash	react	03b95ebb34			ev anim 2 anims\obj_up\datup.tan hideheld=0 | message 241 | ev gameobject dat2 11 | ev gameobject dat2 2 | message 371 | held->-
+dat2	use	react	f6350f632c			ev gameobject dat2 4 | message 370
+dat3	drop	react	769ec538a5			ev anim 6 anims\obj_up\datup.tan hideheld=0 | ev gameobject dat3 13 | ev gameobject dat3 6 dropzone10 | message 370 | held->-
+dat3	stash	react	9c988d90b3			ev anim 2 anims\obj_up\datup.tan hideheld=0 | message 242 | ev gameobject dat3 11 | ev gameobject dat3 2 | message 371 | held->-
+dat3	use	react	374f7b5ede			ev gameobject dat3 4 | message 370
+dat4	drop	react	b6195b0b50			ev anim 6 anims\obj_up\datup.tan hideheld=0 | ev gameobject dat4 13 | ev gameobject dat4 6 dropzone10 | message 370 | held->-
+dat4	stash	react	6bfbf3b2ef			ev anim 2 anims\obj_up\datup.tan hideheld=0 | message 243 | ev gameobject dat4 11 | ev gameobject dat4 2 | message 371 | held->-
+dat4	use	react	5c930bf1d6			ev gameobject dat4 4 | message 370
+db1xx_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+db1xx_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+db1xx_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+db1xx_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+db1xx_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+db1xx_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+db1xx_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+db1xx_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+db1xx_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+db1xx_4	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+db1xx_4	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+db1xx_4	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+db1xx_5	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+db1xx_5	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+db1xx_5	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+db3xx_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+db3xx_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+db3xx_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+db3xx_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+db3xx_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+db3xx_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+db3xx_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+db3xx_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+db3xx_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+dbaby1	drop	react	acf8766e5e			ev anim 0 anims\obj_use\synthrun.tan hideheld=1 | UseAnim ?  | RemoveGameObject object=dbaby1 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | held->-
+dbaby1	stash	react	acf8766e5e			ev anim 0 anims\obj_use\synthrun.tan hideheld=1 | UseAnim ?  | RemoveGameObject object=dbaby1 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | held->-
+dbaby1	use	react	a4e0f10895			ev anim 3 anims\obj_use\synthkil.tan hideheld=1 | ev gameobject dbaby1 4 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+dbaby2	drop	react	30a13b3c5e			ev anim 0 anims\obj_use\synthrun.tan hideheld=1 | UseAnim ?  | RemoveGameObject object=dbaby2 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | held->-
+dbaby2	stash	react	30a13b3c5e			ev anim 0 anims\obj_use\synthrun.tan hideheld=1 | UseAnim ?  | RemoveGameObject object=dbaby2 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | held->-
+dbaby2	use	react	6612ed2782			ev anim 3 anims\obj_use\synthkil.tan hideheld=1 | ev gameobject dbaby2 4 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+dbaby3	drop	react	d7b9feadce			ev anim 0 anims\obj_use\synthrun.tan hideheld=1 | UseAnim ?  | RemoveGameObject object=dbaby3 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | held->-
+dbaby3	stash	react	d7b9feadce			ev anim 0 anims\obj_use\synthrun.tan hideheld=1 | UseAnim ?  | RemoveGameObject object=dbaby3 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | held->-
+dbaby3	use	react	5b1c35f579			ev anim 3 anims\obj_use\synthkil.tan hideheld=1 | ev gameobject dbaby3 4 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+dbaby4	drop	react	20341bbfad			ev anim 0 anims\obj_use\synthrun.tan hideheld=1 | UseAnim ?  | RemoveGameObject object=dbaby4 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | held->-
+dbaby4	stash	react	20341bbfad			ev anim 0 anims\obj_use\synthrun.tan hideheld=1 | UseAnim ?  | RemoveGameObject object=dbaby4 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | held->-
+dbaby4	use	react	250bd85ef0			ev anim 3 anims\obj_use\synthkil.tan hideheld=1 | ev gameobject dbaby4 4 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+dbaby5	drop	react	a96edd9ee7			ev anim 0 anims\obj_use\synthrun.tan hideheld=1 | UseAnim ?  | RemoveGameObject object=dbaby5 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | held->-
+dbaby5	stash	react	a96edd9ee7			ev anim 0 anims\obj_use\synthrun.tan hideheld=1 | UseAnim ?  | RemoveGameObject object=dbaby5 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | held->-
+dbaby5	use	react	9663462b6f			ev anim 3 anims\obj_use\synthkil.tan hideheld=1 | ev gameobject dbaby5 4 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+dbaby6	drop	react	8b19e5e9e9			ev anim 0 anims\obj_use\synthrun.tan hideheld=1 | UseAnim ?  | RemoveGameObject object=dbaby6 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | held->-
+dbaby6	stash	react	8b19e5e9e9			ev anim 0 anims\obj_use\synthrun.tan hideheld=1 | UseAnim ?  | RemoveGameObject object=dbaby6 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | held->-
+dbaby6	use	react	d3a189138f			ev anim 3 anims\obj_use\synthkil.tan hideheld=1 | ev gameobject dbaby6 4 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+devlet	drop	react	f9b4bfb228			ev anim 6 anims\obj_up\devup.tan hideheld=0 | ev gameobject devlet 13 | ev gameobject devlet 6 dropzone10 | message 370 | held->-
+devlet	stash	react	327cdbbe36			ev anim 2 anims\obj_up\devup.tan hideheld=0 | message 306 | ev gameobject devlet 11 | ev gameobject devlet 2 | message 371 | held->-
+devlet	use	moved	1ac92e7a4f		-> XDEVLET	ev gameobject devlet 4 | OpenSound sounds\objects\paprfld4.wav | ev exitpage r4 | ev pagedrawn xdevlet | BeginPageFilter a=118 b=86 c=87 | ev enterpage xdevlet | JumpToPage xdevlet | message 65535 | message 65535 | message 65535
+fireCO22	drop	react	db6031cd51			ev anim 6 anims\obj_up\co2up.tan hideheld=0 | ev gameobject fireco22 13 | ev gameobject fireco22 6 dropzone10 | message 370 | held->-
+fireCO22	stash	react	20d2913c63			ev anim 2 anims\obj_up\co2up.tan hideheld=0 | message 260 | ev gameobject fireco22 11 | ev gameobject fireco22 2 | message 371 | held->-
+fireCO22	use	react	137468539d			ev anim 3 anims\obj_use\co2use.tan hideheld=1 | ev gameobject fireco22 4 | message 370 | message 65535
+fireCO23	drop	react	f7b138688a			ev anim 6 anims\obj_up\co2up.tan hideheld=0 | ev gameobject fireco23 13 | ev gameobject fireco23 6 dropzone10 | message 370 | held->-
+fireCO23	stash	react	d6e22f5b1e			ev anim 2 anims\obj_up\co2up.tan hideheld=0 | message 260 | ev gameobject fireco23 11 | ev gameobject fireco23 2 | message 371 | held->-
+fireCO23	use	react	f124469abe			ev anim 3 anims\obj_use\co2use.tan hideheld=1 | ev gameobject fireco23 4 | message 370 | message 65535
+fireCO24	drop	react	eba45277e0			ev anim 6 anims\obj_up\co2up.tan hideheld=0 | ev gameobject fireco24 13 | ev gameobject fireco24 6 dropzone10 | message 370 | held->-
+fireCO24	stash	react	8ef4bf2dd9			ev anim 2 anims\obj_up\co2up.tan hideheld=0 | message 260 | ev gameobject fireco24 11 | ev gameobject fireco24 2 | message 371 | held->-
+fireCO24	use	react	692e2ccc1d			ev anim 3 anims\obj_use\co2use.tan hideheld=1 | ev gameobject fireco24 4 | message 370 | message 65535
+fireCO25	drop	react	8fc03566a0			ev anim 6 anims\obj_up\co2up.tan hideheld=0 | ev gameobject fireco25 13 | ev gameobject fireco25 6 dropzone10 | message 370 | held->-
+fireCO25	stash	react	9b450a07ee			ev anim 2 anims\obj_up\co2up.tan hideheld=0 | message 260 | ev gameobject fireco25 11 | ev gameobject fireco25 2 | message 371 | held->-
+fireCO25	use	react	4fc1341a38			ev anim 3 anims\obj_use\co2use.tan hideheld=1 | ev gameobject fireco25 4 | message 370 | message 65535
+fireH2O1	drop	react	3b633f56e5			ev anim 6 anims\obj_up\h2oup.tan hideheld=0 | ev gameobject fireh2o1 13 | ev gameobject fireh2o1 6 dropzone10 | message 370 | held->-
+fireH2O1	stash	react	6702b1502b			ev anim 2 anims\obj_up\h2oup.tan hideheld=0 | message 261 | ev gameobject fireh2o1 11 | ev gameobject fireh2o1 2 | message 371 | held->-
+fireH2O1	use	react	327a8134e7			ev anim 3 anims\obj_use\h2ouse.tan hideheld=1 | ev gameobject fireh2o1 4 | message 370 | message 65535
+fireH2O2	drop	react	1dcf269235			ev anim 6 anims\obj_up\h2oup.tan hideheld=0 | ev gameobject fireh2o2 13 | ev gameobject fireh2o2 6 dropzone10 | message 370 | held->-
+fireH2O2	stash	react	4276e895a0			ev anim 2 anims\obj_up\h2oup.tan hideheld=0 | message 261 | ev gameobject fireh2o2 11 | ev gameobject fireh2o2 2 | message 371 | held->-
+fireH2O2	use	react	a07c7dbd70			ev anim 3 anims\obj_use\h2ouse.tan hideheld=1 | ev gameobject fireh2o2 4 | message 370 | message 65535
+fireH2O3	drop	react	e971e761ed			ev anim 6 anims\obj_up\h2oup.tan hideheld=0 | ev gameobject fireh2o3 13 | ev gameobject fireh2o3 6 dropzone10 | message 370 | held->-
+fireH2O3	stash	react	09b0f8dcc6			ev anim 2 anims\obj_up\h2oup.tan hideheld=0 | message 261 | ev gameobject fireh2o3 11 | ev gameobject fireh2o3 2 | message 371 | held->-
+fireH2O3	use	react	a92f50f92a			ev anim 3 anims\obj_use\h2ouse.tan hideheld=1 | ev gameobject fireh2o3 4 | message 370 | message 65535
+fishrod	drop	react	3a8c694a80			ev anim 6 anims\obj_up\fishnup.tan hideheld=0 | ev gameobject fishrod 13 | ev gameobject fishrod 6 dropzone10 | message 370 | message 65535 | held->-
+fishrod	stash	react	93eba61b19			ev anim 2 anims\obj_up\fishnup.tan hideheld=0 | message 227 | ev gameobject fishrod 11 | ev gameobject fishrod 2 | message 371 | held->-
+fishrod	use	react	fb21337f78			ev anim 3 anims\obj_use\fishnmis.tan hideheld=1 | ev gameobject fishrod 4 | message 370 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+flop1	drop	react	981d351446			ev anim 6 anims\obj_up\zivup.tan hideheld=0 | ev gameobject flop1 13 | ev gameobject flop1 6 dropzone10 | message 370 | message 65535 | held->-
+flop1	stash	react	17c60aa3e6			ev anim 2 anims\obj_up\zivup.tan hideheld=0 | message 244 | ev gameobject flop1 11 | ev gameobject flop1 2 | message 371 | held->-
+flop1	use	react	0f58c4b129			ev gameobject flop1 4 | message 370
+forekey	drop	react	1413f70bdf			ev anim 6 anims\obj_up\forekup.tan hideheld=0 | ev gameobject forekey 13 | ev gameobject forekey 6 dropzone10 | message 370 | held->-
+forekey	stash	react	2056caf5c6			ev anim 2 anims\obj_up\forekup.tan hideheld=0 | message 245 | ev gameobject forekey 11 | ev gameobject forekey 2 | message 371 | held->-
+forekey	use	react	bffa8cecb0			ev gameobject forekey 4 | message 370
+friendlet	drop	react	40c7f6d62d			ev anim 6 anims\obj_up\friendup.tan hideheld=0 | ev gameobject friendlet 13 | ev gameobject friendlet 6 dropzone10 | message 370 | held->-
+friendlet	stash	react	2dcbb0df14			ev anim 2 anims\obj_up\friendup.tan hideheld=0 | message 270 | ev gameobject friendlet 11 | ev gameobject friendlet 2 | message 371 | held->-
+friendlet	use	moved	67391f6295		-> XFRIENDLET	ev gameobject friendlet 4 | OpenSound sounds\objects\paprfld4.wav | ev exitpage r4 | ev pagedrawn xfriendlet | BeginPageFilter a=118 b=86 c=87 | ev enterpage xfriendlet | JumpToPage xfriendlet | message 65535 | message 65535 | message 65535
+fuse1	drop	react	ce7b58e6e9			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse1 13 | ev gameobject fuse1 6 dropzone10 | message 370 | message 65535 | held->-
+fuse1	stash	react	324bad68ce			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse1 11 | ev gameobject fuse1 2 | message 371 | held->-
+fuse1	use	react	00b9cab024			ev gameobject fuse1 4 | message 370
+fuse10	drop	react	0490d80423			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse10 13 | ev gameobject fuse10 6 dropzone10 | message 370 | message 65535 | held->-
+fuse10	stash	react	30e7aaf95c			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse10 11 | ev gameobject fuse10 2 | message 371 | held->-
+fuse10	use	react	9231936bbe			ev gameobject fuse10 4 | message 370
+fuse11	drop	react	a64319c78a			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse11 13 | ev gameobject fuse11 6 dropzone10 | message 370 | message 65535 | held->-
+fuse11	stash	react	9defddf53b			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse11 11 | ev gameobject fuse11 2 | message 371 | held->-
+fuse11	use	react	9650848436			ev gameobject fuse11 4 | message 370
+fuse12	drop	react	357552ff18			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse12 13 | ev gameobject fuse12 6 dropzone10 | message 370 | message 65535 | held->-
+fuse12	stash	react	944e95061a			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse12 11 | ev gameobject fuse12 2 | message 371 | held->-
+fuse12	use	react	bdba456c1c			ev gameobject fuse12 4 | message 370
+fuse13	drop	react	008c8f6d18			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse13 13 | ev gameobject fuse13 6 dropzone10 | message 370 | message 65535 | held->-
+fuse13	stash	react	9e7ff36e6c			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse13 11 | ev gameobject fuse13 2 | message 371 | held->-
+fuse13	use	react	5afa4e41bf			ev gameobject fuse13 4 | message 370
+fuse14	drop	react	4c0ff1be43			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse14 13 | ev gameobject fuse14 6 dropzone10 | message 370 | message 65535 | held->-
+fuse14	stash	react	04e3f24303			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse14 11 | ev gameobject fuse14 2 | message 371 | held->-
+fuse14	use	react	3331bbbaf5			ev gameobject fuse14 4 | message 370
+fuse16	drop	react	20eaad842a			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse16 13 | ev gameobject fuse16 6 dropzone10 | message 370 | message 65535 | held->-
+fuse16	stash	react	2874bb040a			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse16 11 | ev gameobject fuse16 2 | message 371 | held->-
+fuse16	use	react	cf22ed37ef			ev gameobject fuse16 4 | message 370
+fuse17	drop	react	fb9f8e2074			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse17 13 | ev gameobject fuse17 6 dropzone10 | message 370 | message 65535 | held->-
+fuse17	stash	react	b6ff8b49be			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse17 11 | ev gameobject fuse17 2 | message 371 | held->-
+fuse17	use	react	5fa5002119			ev gameobject fuse17 4 | message 370
+fuse18	drop	react	e89b6f3843			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse18 13 | ev gameobject fuse18 6 dropzone10 | message 370 | message 65535 | held->-
+fuse18	stash	react	309c034128			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse18 11 | ev gameobject fuse18 2 | message 371 | held->-
+fuse18	use	react	456fe9eb77			ev gameobject fuse18 4 | message 370
+fuse19	drop	react	e199ef0905			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse19 13 | ev gameobject fuse19 6 dropzone10 | message 370 | message 65535 | held->-
+fuse19	stash	react	fb110a5607			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse19 11 | ev gameobject fuse19 2 | message 371 | held->-
+fuse19	use	react	fe6d2d8b67			ev gameobject fuse19 4 | message 370
+fuse2	drop	react	f22cfced10			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse2 13 | ev gameobject fuse2 6 dropzone10 | message 370 | message 65535 | held->-
+fuse2	stash	react	86632884b6			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse2 11 | ev gameobject fuse2 2 | message 371 | held->-
+fuse2	use	react	f125a9ce29			ev gameobject fuse2 4 | message 370
+fuse20	drop	react	1e73df1ccf			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse20 13 | ev gameobject fuse20 6 dropzone10 | message 370 | message 65535 | held->-
+fuse20	stash	react	3b75dee3ec			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse20 11 | ev gameobject fuse20 2 | message 371 | held->-
+fuse20	use	react	43aa8198b7			ev gameobject fuse20 4 | message 370
+fuse21	drop	react	b2c33afe43			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse21 13 | ev gameobject fuse21 6 dropzone10 | message 370 | message 65535 | held->-
+fuse21	stash	react	9406ce1a85			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse21 11 | ev gameobject fuse21 2 | message 371 | held->-
+fuse21	use	react	6e00ed2d7f			ev gameobject fuse21 4 | message 370
+fuse22	drop	react	1095303db0			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse22 13 | ev gameobject fuse22 6 dropzone10 | message 370 | message 65535 | held->-
+fuse22	stash	react	2e848bbc4d			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse22 11 | ev gameobject fuse22 2 | message 371 | held->-
+fuse22	use	react	c9f82684d1			ev gameobject fuse22 4 | message 370
+fuse23	drop	react	242d6dcd17			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse23 13 | ev gameobject fuse23 6 dropzone10 | message 370 | message 65535 | held->-
+fuse23	stash	react	b062cd253f			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse23 11 | ev gameobject fuse23 2 | message 371 | held->-
+fuse23	use	react	aec13755c4			ev gameobject fuse23 4 | message 370
+fuse24	drop	react	c141ae8645			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse24 13 | ev gameobject fuse24 6 dropzone10 | message 370 | message 65535 | held->-
+fuse24	stash	react	2d9d7864c7			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse24 11 | ev gameobject fuse24 2 | message 371 | held->-
+fuse24	use	react	06c260e14b			ev gameobject fuse24 4 | message 370
+fuse25	drop	react	57af8e9a4d			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse25 13 | ev gameobject fuse25 6 dropzone10 | message 370 | message 65535 | held->-
+fuse25	stash	react	cbd694acf2			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse25 11 | ev gameobject fuse25 2 | message 371 | held->-
+fuse25	use	react	c4d026edeb			ev gameobject fuse25 4 | message 370
+fuse26	drop	react	8ef352b978			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse26 13 | ev gameobject fuse26 6 dropzone10 | message 370 | message 65535 | held->-
+fuse26	stash	react	c7cee565fd			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse26 11 | ev gameobject fuse26 2 | message 371 | held->-
+fuse26	use	react	4288f5c09c			ev gameobject fuse26 4 | message 370
+fuse27	drop	react	5dd11eccb5			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse27 13 | ev gameobject fuse27 6 dropzone10 | message 370 | message 65535 | held->-
+fuse27	stash	react	d3b9e38082			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse27 11 | ev gameobject fuse27 2 | message 371 | held->-
+fuse27	use	react	8c7922bdb2			ev gameobject fuse27 4 | message 370
+fuse28	drop	react	001113e63c			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse28 13 | ev gameobject fuse28 6 dropzone10 | message 370 | message 65535 | held->-
+fuse28	stash	react	4770805ee3			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse28 11 | ev gameobject fuse28 2 | message 371 | held->-
+fuse28	use	react	74ac2ba746			ev gameobject fuse28 4 | message 370
+fuse29	drop	react	ed98274ad9			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse29 13 | ev gameobject fuse29 6 dropzone10 | message 370 | message 65535 | held->-
+fuse29	stash	react	e3e094fb61			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse29 11 | ev gameobject fuse29 2 | message 371 | held->-
+fuse29	use	react	8bd6eb6fd5			ev gameobject fuse29 4 | message 370
+fuse3	drop	react	841137ded2			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse3 13 | ev gameobject fuse3 6 dropzone10 | message 370 | message 65535 | held->-
+fuse3	stash	react	a5ea76dbf3			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse3 11 | ev gameobject fuse3 2 | message 371 | held->-
+fuse3	use	react	3e16b2d823			ev gameobject fuse3 4 | message 370
+fuse30	drop	react	2ae4ca9ec6			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse30 13 | ev gameobject fuse30 6 dropzone10 | message 370 | message 65535 | held->-
+fuse30	stash	react	8f2a8deebe			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse30 11 | ev gameobject fuse30 2 | message 371 | held->-
+fuse30	use	react	1c432a1774			ev gameobject fuse30 4 | message 370
+fuse32	drop	react	67b59bca24			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse32 13 | ev gameobject fuse32 6 dropzone10 | message 370 | message 65535 | held->-
+fuse32	stash	react	61f31f5297			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse32 11 | ev gameobject fuse32 2 | message 371 | held->-
+fuse32	use	react	14db6ef51e			ev gameobject fuse32 4 | message 370
+fuse38	drop	react	1ecf032e0e			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse38 13 | ev gameobject fuse38 6 dropzone10 | message 370 | message 65535 | held->-
+fuse38	stash	react	58c75c8e70			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse38 11 | ev gameobject fuse38 2 | message 371 | held->-
+fuse38	use	react	eb8388e235			ev gameobject fuse38 4 | message 370
+fuse39	drop	react	393be499bd			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse39 13 | ev gameobject fuse39 6 dropzone10 | message 370 | message 65535 | held->-
+fuse39	stash	react	9f12f17567			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse39 11 | ev gameobject fuse39 2 | message 371 | held->-
+fuse39	use	react	3f9aff047c			ev gameobject fuse39 4 | message 370
+fuse4	drop	react	536941c82f			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse4 13 | ev gameobject fuse4 6 dropzone10 | message 370 | message 65535 | held->-
+fuse4	stash	react	95539cf304			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse4 11 | ev gameobject fuse4 2 | message 371 | held->-
+fuse4	use	react	4ddd91d61b			ev gameobject fuse4 4 | message 370
+fuse40	drop	react	a6c071a03a			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse40 13 | ev gameobject fuse40 6 dropzone10 | message 370 | message 65535 | held->-
+fuse40	stash	react	077cc885ac			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse40 11 | ev gameobject fuse40 2 | message 371 | held->-
+fuse40	use	react	34851a6305			ev gameobject fuse40 4 | message 370
+fuse41	drop	react	5c265f6d49			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse41 13 | ev gameobject fuse41 6 dropzone10 | message 370 | message 65535 | held->-
+fuse41	stash	react	efc121cfaf			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse41 11 | ev gameobject fuse41 2 | message 371 | held->-
+fuse41	use	react	f840ebcc78			ev gameobject fuse41 4 | message 370
+fuse42	drop	react	f6abd9beda			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse42 13 | ev gameobject fuse42 6 dropzone10 | message 370 | message 65535 | held->-
+fuse42	stash	react	10f8905340			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse42 11 | ev gameobject fuse42 2 | message 371 | held->-
+fuse42	use	react	661cba62ee			ev gameobject fuse42 4 | message 370
+fuse43	drop	react	85a2deed8a			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse43 13 | ev gameobject fuse43 6 dropzone10 | message 370 | message 65535 | held->-
+fuse43	stash	react	26f0c986f1			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse43 11 | ev gameobject fuse43 2 | message 371 | held->-
+fuse43	use	react	79fd8a434a			ev gameobject fuse43 4 | message 370
+fuse44	drop	react	d6d0b06d5e			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse44 13 | ev gameobject fuse44 6 dropzone10 | message 370 | message 65535 | held->-
+fuse44	stash	react	83377f2e0d			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse44 11 | ev gameobject fuse44 2 | message 371 | held->-
+fuse44	use	react	2031d828c8			ev gameobject fuse44 4 | message 370
+fuse45	drop	react	024ccfd8a6			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse45 13 | ev gameobject fuse45 6 dropzone10 | message 370 | message 65535 | held->-
+fuse45	stash	react	e0d2baad78			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse45 11 | ev gameobject fuse45 2 | message 371 | held->-
+fuse45	use	react	12c29c8818			ev gameobject fuse45 4 | message 370
+fuse46	drop	react	f05531fcea			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse46 13 | ev gameobject fuse46 6 dropzone10 | message 370 | message 65535 | held->-
+fuse46	stash	react	33dc8e60ab			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse46 11 | ev gameobject fuse46 2 | message 371 | held->-
+fuse46	use	react	f3018ac820			ev gameobject fuse46 4 | message 370
+fuse47	drop	react	1564e6f1d7			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse47 13 | ev gameobject fuse47 6 dropzone10 | message 370 | message 65535 | held->-
+fuse47	stash	react	c70aa89033			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse47 11 | ev gameobject fuse47 2 | message 371 | held->-
+fuse47	use	react	0ddeebd978			ev gameobject fuse47 4 | message 370
+fuse48	drop	react	3f8cd15ae3			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse48 13 | ev gameobject fuse48 6 dropzone10 | message 370 | message 65535 | held->-
+fuse48	stash	react	052b63b92f			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse48 11 | ev gameobject fuse48 2 | message 371 | held->-
+fuse48	use	react	1b7c832915			ev gameobject fuse48 4 | message 370
+fuse49	drop	react	7f78cd80c8			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse49 13 | ev gameobject fuse49 6 dropzone10 | message 370 | message 65535 | held->-
+fuse49	stash	react	8246ae7a09			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse49 11 | ev gameobject fuse49 2 | message 371 | held->-
+fuse49	use	react	fa24252546			ev gameobject fuse49 4 | message 370
+fuse5	drop	react	aa96779d10			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse5 13 | ev gameobject fuse5 6 dropzone10 | message 370 | message 65535 | held->-
+fuse5	stash	react	b39a4871aa			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse5 11 | ev gameobject fuse5 2 | message 371 | held->-
+fuse5	use	react	4d3180d812			ev gameobject fuse5 4 | message 370
+fuse50	drop	react	95d9b4aac5			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse50 13 | ev gameobject fuse50 6 dropzone10 | message 370 | message 65535 | held->-
+fuse50	stash	react	4a5c3a69ca			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse50 11 | ev gameobject fuse50 2 | message 371 | held->-
+fuse50	use	react	329c6f0b4b			ev gameobject fuse50 4 | message 370
+fuse51	drop	react	2644f0f901			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse51 13 | ev gameobject fuse51 6 dropzone10 | message 370 | message 65535 | held->-
+fuse51	stash	react	5ae81ec3a0			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse51 11 | ev gameobject fuse51 2 | message 371 | held->-
+fuse51	use	react	c21cab22ca			ev gameobject fuse51 4 | message 370
+fuse52	drop	react	28f5bd1c16			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse52 13 | ev gameobject fuse52 6 dropzone10 | message 370 | message 65535 | held->-
+fuse52	stash	react	294c31aeec			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse52 11 | ev gameobject fuse52 2 | message 371 | held->-
+fuse52	use	react	c517249b12			ev gameobject fuse52 4 | message 370
+fuse53	drop	react	fc918e1b10			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse53 13 | ev gameobject fuse53 6 dropzone10 | message 370 | message 65535 | held->-
+fuse53	stash	react	3741248c40			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse53 11 | ev gameobject fuse53 2 | message 371 | held->-
+fuse53	use	react	77a7044722			ev gameobject fuse53 4 | message 370
+fuse54	drop	react	8f891137fa			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse54 13 | ev gameobject fuse54 6 dropzone10 | message 370 | message 65535 | held->-
+fuse54	stash	react	a611f5577a			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse54 11 | ev gameobject fuse54 2 | message 371 | held->-
+fuse54	use	react	98e10713e2			ev gameobject fuse54 4 | message 370
+fuse55	drop	react	e8a239ee02			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse55 13 | ev gameobject fuse55 6 dropzone10 | message 370 | message 65535 | held->-
+fuse55	stash	react	43b5a2a6fb			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse55 11 | ev gameobject fuse55 2 | message 371 | held->-
+fuse55	use	react	96319bb5ed			ev gameobject fuse55 4 | message 370
+fuse56	drop	react	9576e26f57			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse56 13 | ev gameobject fuse56 6 dropzone10 | message 370 | message 65535 | held->-
+fuse56	stash	react	8a78728231			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse56 11 | ev gameobject fuse56 2 | message 371 | held->-
+fuse56	use	react	9b871258ea			ev gameobject fuse56 4 | message 370
+fuse57	drop	react	d36bf01978			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse57 13 | ev gameobject fuse57 6 dropzone10 | message 370 | message 65535 | held->-
+fuse57	stash	react	086d4e60ea			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse57 11 | ev gameobject fuse57 2 | message 371 | held->-
+fuse57	use	react	d557eac1cb			ev gameobject fuse57 4 | message 370
+fuse58	drop	react	2759fbde9d			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse58 13 | ev gameobject fuse58 6 dropzone10 | message 370 | message 65535 | held->-
+fuse58	stash	react	fa4881a0b1			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse58 11 | ev gameobject fuse58 2 | message 371 | held->-
+fuse58	use	react	ed49f39468			ev gameobject fuse58 4 | message 370
+fuse59	drop	react	6e8283b6f1			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse59 13 | ev gameobject fuse59 6 dropzone10 | message 370 | message 65535 | held->-
+fuse59	stash	react	ee0b9d079f			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse59 11 | ev gameobject fuse59 2 | message 371 | held->-
+fuse59	use	react	373baef40b			ev gameobject fuse59 4 | message 370
+fuse6	drop	react	5d167ca468			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse6 13 | ev gameobject fuse6 6 dropzone10 | message 370 | message 65535 | held->-
+fuse6	stash	react	5fc4b64ecc			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse6 11 | ev gameobject fuse6 2 | message 371 | held->-
+fuse6	use	react	598afbdee9			ev gameobject fuse6 4 | message 370
+fuse60	drop	react	d7af348334			ev anim 6 anims\obj_up\fbuseup.tan hideheld=0 | ev gameobject fuse60 13 | ev gameobject fuse60 6 dropzone10 | message 370 | message 65535 | SetPalette palette=pal#f462f3fc steps=12 duration=5 | held->-
+fuse60	stash	react	485032d79d			ev anim 2 anims\obj_up\fbuseup.tan hideheld=0 | message 278 | ev gameobject fuse60 11 | ev gameobject fuse60 2 | message 371 | SetPalette palette=pal#f462f3fc steps=12 duration=5 | held->-
+fuse60	use	react	c5b7aff3c8			ev gameobject fuse60 4 | message 370
+fuse61	drop	react	2a500da8be			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse61 13 | ev gameobject fuse61 6 dropzone10 | message 370 | message 65535 | held->-
+fuse61	stash	react	5ab1e4d74f			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse61 11 | ev gameobject fuse61 2 | message 371 | held->-
+fuse61	use	react	6e127b1330			ev gameobject fuse61 4 | message 370
+fuse7	drop	react	ab3690e4e4			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse7 13 | ev gameobject fuse7 6 dropzone10 | message 370 | message 65535 | held->-
+fuse7	stash	react	bf8c443716			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse7 11 | ev gameobject fuse7 2 | message 371 | held->-
+fuse7	use	react	6f76b2690f			ev gameobject fuse7 4 | message 370
+fuse8	drop	react	17e13a85c4			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse8 13 | ev gameobject fuse8 6 dropzone10 | message 370 | message 65535 | held->-
+fuse8	stash	react	8de0f0673b			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse8 11 | ev gameobject fuse8 2 | message 371 | held->-
+fuse8	use	react	7b8fec9489			ev gameobject fuse8 4 | message 370
+fuse9	drop	react	e9455d1f94			ev anim 6 anims\obj_up\fuseup.tan hideheld=0 | ev gameobject fuse9 13 | ev gameobject fuse9 6 dropzone10 | message 370 | message 65535 | held->-
+fuse9	stash	react	3a058a40a2			ev anim 2 anims\obj_up\fuseup.tan hideheld=0 | message 278 | ev gameobject fuse9 11 | ev gameobject fuse9 2 | message 371 | held->-
+fuse9	use	react	e5a7aee6e3			ev gameobject fuse9 4 | message 370
+goggles	drop	react	66bde15c40			ev anim 6 anims\obj_up\gogup.tan hideheld=0 | ev gameobject goggles 13 | ev gameobject goggles 6 dropzone10 | message 370 | message 65535 | held->-
+goggles	stash	react	3f88d54875			ev anim 2 anims\obj_up\gogup.tan hideheld=0 | message 253 | ev gameobject goggles 11 | ev gameobject goggles 2 | message 371 | held->-
+goggles	use	react	e30b6f0309			message 253 | ev gameobject goggles 14 | ev gameobject goggles 8 | PlaceGameObject srcObject=goggles extraImage= dstObject=goggles imageKind=wearing holdInde | OpenSound sounds\objects\gogon.wav | PlaceGameObject srcObject=goggles extraImag
+grub_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+grub_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+grub_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+grub_10	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+grub_10	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+grub_10	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+grub_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+grub_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+grub_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+grub_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+grub_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+grub_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+grub_4	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+grub_4	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+grub_4	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+grub_5	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+grub_5	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+grub_5	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+grub_6	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+grub_6	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+grub_6	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+grub_7	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+grub_7	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+grub_7	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+grub_8	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+grub_8	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+grub_8	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+grub_9	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+grub_9	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+grub_9	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+honey	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+honey	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+honey	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+inhal1	drop	react	3cbe69f60d			ev anim 6 anims\obj_up\inhalup.tan hideheld=0 | ev gameobject inhal1 13 | ev gameobject inhal1 6 dropzone10 | message 370 | held->-
+inhal1	stash	react	188394e274			ev anim 2 anims\obj_up\inhalup.tan hideheld=0 | message 222 | ev gameobject inhal1 11 | ev gameobject inhal1 2 | message 371 | held->-
+inhal1	use	react	72b100aa5a			ev anim 3 anims\obj_use\inhaluse.tan hideheld=1 | ev gameobject inhal1 4 | message 222 | SetPalette palette=pal#b77fcfb2 steps=12 duration=5
+inhal2	drop	react	f8b98cbfde			ev anim 6 anims\obj_up\inhalup.tan hideheld=0 | ev gameobject inhal2 13 | ev gameobject inhal2 6 dropzone10 | message 370 | held->-
+inhal2	stash	react	fda8ee0e32			ev anim 2 anims\obj_up\inhalup.tan hideheld=0 | message 222 | ev gameobject inhal2 11 | ev gameobject inhal2 2 | message 371 | held->-
+inhal2	use	react	95118f2468			ev anim 3 anims\obj_use\inhaluse.tan hideheld=1 | ev gameobject inhal2 4 | message 222 | SetPalette palette=pal#b77fcfb2 steps=12 duration=5
+inhal3	drop	react	5a8f3f10d7			ev anim 6 anims\obj_up\inhalup.tan hideheld=0 | ev gameobject inhal3 13 | ev gameobject inhal3 6 dropzone10 | message 370 | held->-
+inhal3	stash	react	3488f9c8a8			ev anim 2 anims\obj_up\inhalup.tan hideheld=0 | message 222 | ev gameobject inhal3 11 | ev gameobject inhal3 2 | message 371 | held->-
+inhal3	use	react	0a600c70f8			ev anim 3 anims\obj_use\inhaluse.tan hideheld=1 | ev gameobject inhal3 4 | message 222 | SetPalette palette=pal#b77fcfb2 steps=12 duration=5
+inhal4	drop	react	cc6777a5e1			ev anim 6 anims\obj_up\inhalup.tan hideheld=0 | ev gameobject inhal4 13 | ev gameobject inhal4 6 dropzone10 | message 370 | held->-
+inhal4	stash	react	84e1086bc0			ev anim 2 anims\obj_up\inhalup.tan hideheld=0 | message 222 | ev gameobject inhal4 11 | ev gameobject inhal4 2 | message 371 | held->-
+inhal4	use	react	636821963e			ev anim 3 anims\obj_use\inhaluse.tan hideheld=1 | ev gameobject inhal4 4 | message 222 | SetPalette palette=pal#b77fcfb2 steps=12 duration=5
+inhal5	drop	react	8143d47e27			ev anim 6 anims\obj_up\inhalup.tan hideheld=0 | ev gameobject inhal5 13 | ev gameobject inhal5 6 dropzone10 | message 370 | held->-
+inhal5	stash	react	5a22ee0ef9			ev anim 2 anims\obj_up\inhalup.tan hideheld=0 | message 222 | ev gameobject inhal5 11 | ev gameobject inhal5 2 | message 371 | held->-
+inhal5	use	react	b7375881f9			ev anim 3 anims\obj_use\inhaluse.tan hideheld=1 | ev gameobject inhal5 4 | message 222 | SetPalette palette=pal#b77fcfb2 steps=12 duration=5
+kukri	drop	react	2812cb5781			ev anim 6 anims\obj_up\kukup.tan hideheld=0 | ev gameobject kukri 13 | ev gameobject kukri 6 dropzone10 | message 370 | held->-
+kukri	stash	react	6eb4a84187			ev anim 2 anims\obj_up\kukup.tan hideheld=0 | message 249 | ev gameobject kukri 11 | ev gameobject kukri 2 | message 371 | held->-
+kukri	use	react	be2c4934aa			ev anim 3 anims\obj_use\kukuse.tan hideheld=1 | ev gameobject kukri 4 | message 370 | message 65535
+latex	drop	react	cb36a05ee3			ev anim 6 anims\obj_up\emptyup.tan hideheld=0 | ev gameobject latex 13 | ev gameobject latex 6 dropzone10 | message 370 | held->-
+latex	stash	react	59ae018b50			ev anim 2 anims\obj_up\emptyup.tan hideheld=0 | message 220 | ev gameobject latex 11 | ev gameobject latex 2 | message 371 | held->-
+latex	use	react	d2961e322d			ev gameobject latex 5 | message 370
+medipass	drop	react	ade482f526			ev anim 6 anims\obj_up\mediup.tan hideheld=0 | ev gameobject medipass 13 | ev gameobject medipass 6 dropzone10 | message 370 | message 65535 | held->-
+medipass	stash	react	c38b89da61			ev anim 2 anims\obj_up\mediup.tan hideheld=0 | message 250 | ev gameobject medipass 11 | ev gameobject medipass 2 | message 371 | held->-
+medipass	use	react	12b8b39a9c			ev gameobject medipass 4 | message 370
+mescal1	drop	react	1040e615ba			ev anim 6 anims\obj_up\mescalup.tan hideheld=0 | ev gameobject mescal1 13 | ev gameobject mescal1 6 dropzone10 | message 370 | message 65535 | held->-
+mescal1	stash	react	2703611fef			ev anim 2 anims\obj_up\mescalup.tan hideheld=0 | message 221 | ev gameobject mescal1 11 | ev gameobject mescal1 2 | message 371 | held->-
+mescal1	use	react	e0a242090e			ev anim 3 anims\obj_use\mescause.tan hideheld=1 | ev gameobject mescal1 4 | OpenSound sounds\russell\drunk\mdrunk1.wav | message 221 | message 370 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+mikememo	drop	react	0b20ae9b26			ev anim 6 anims\obj_up\mikeup.tan hideheld=0 | ev gameobject mikememo 13 | ev gameobject mikememo 6 dropzone10 | message 370 | held->-
+mikememo	stash	react	d2a2c1a487			ev anim 2 anims\obj_up\mikeup.tan hideheld=0 | message 308 | ev gameobject mikememo 11 | ev gameobject mikememo 2 | message 371 | held->-
+mikememo	use	moved	bf9001018b		-> XMIKEMEMO	ev gameobject mikememo 4 | OpenSound sounds\objects\paprfld4.wav | ev exitpage r4 | ev pagedrawn xmikememo | BeginPageFilter a=118 b=86 c=87 | ev enterpage xmikememo | JumpToPage xmikememo | message 65535 | message 65535 | message 65535
+o1fish_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+o1fish_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+o1fish_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+o1fish_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+o1fish_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+o1fish_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+o1fish_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+o1fish_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+o1fish_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+o1fish_4	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+o1fish_4	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+o1fish_4	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+o1fish_5	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+o1fish_5	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+o1fish_5	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+o1fish_6	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+o1fish_6	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+o1fish_6	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+o1p_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+o1p_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+o1p_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+o1p_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+o1p_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+o1p_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+o1p_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+o1p_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+o1p_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+o1p_4	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+o1p_4	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+o1p_4	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+o1p_5	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+o1p_5	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+o1p_5	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+o2p_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+o2p_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+o2p_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+o2p_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+o2p_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+o2p_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+o2p_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+o2p_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+o2p_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+oxy_cyl	drop	react	977ebf762e			ev anim 6 anims\obj_up\cylup.tan hideheld=0 | ev gameobject oxy_cyl 13 | ev gameobject oxy_cyl 6 dropzone10 | OpenSound sounds\objects\cyldrop.wav | message 370 | PlaySound | held->-
+oxy_cyl	stash	react	9870a8c0dd			message 178 | message 370
+oxy_cyl	use	react	d20fafb7dd			ev anim 3 anims\obj_use\cyluse.tan hideheld=1 | ev gameobject oxy_cyl 4 | message 370
+oxy_mask	drop	react	344f95efb5			ev anim 6 anims\obj_up\airup.tan hideheld=0 | ev gameobject oxy_mask 13 | ev gameobject oxy_mask 6 dropzone10 | message 370 | message 65535 | held->-
+oxy_mask	stash	react	f98861738b			ev anim 2 anims\obj_up\airup.tan hideheld=0 | message 257 | ev gameobject oxy_mask 11 | ev gameobject oxy_mask 2 | message 371 | held->-
+oxy_mask	use	react	5d5d1d1d15			ev anim 3 anims\obj_use\airuse.tan hideheld=1 | message 257 | ev gameobject oxy_mask 14 | ev gameobject oxy_mask 8 | OpenSound sounds\objects\mask.wav | message 372 | held->- | worn->oxy_mask
+pamphlet	drop	react	45d29df4c3			ev anim 6 anims\obj_up\pamphup.tan hideheld=0 | ev gameobject pamphlet 13 | ev gameobject pamphlet 6 dropzone10 | message 370 | held->-
+pamphlet	stash	react	4de800796e			ev anim 2 anims\obj_up\pamphup.tan hideheld=0 | message 269 | ev gameobject pamphlet 11 | ev gameobject pamphlet 2 | message 371 | held->-
+pamphlet	use	moved	45430537c4		-> XPAMPH	ev gameobject pamphlet 4 | OpenSound sounds\objects\paprfld4.wav | ev exitpage r4 | ev pagedrawn xpamph | BeginPageFilter a=118 b=86 c=87 | ev enterpage xpamph | JumpToPage xpamph | message 65535
+poem1	drop	react	335acb65f0			ev anim 6 anims\obj_up\poem1up.tan hideheld=0 | ev gameobject poem1 13 | ev gameobject poem1 6 dropzone10 | message 370 | held->-
+poem1	stash	react	a31c0c3656			ev anim 2 anims\obj_up\poem1up.tan hideheld=0 | message 272 | ev gameobject poem1 11 | ev gameobject poem1 2 | message 371 | held->-
+poem1	use	moved	93c98b32b3		-> XPOEM1	ev gameobject poem1 4 | OpenSound sounds\objects\paprfld4.wav | ev exitpage r4 | ev pagedrawn xpoem1 | BeginPageFilter a=118 b=86 c=87 | ev enterpage xpoem1 | JumpToPage xpoem1 | message 65535 | message 65535 | message 65535
+poem2	drop	react	e10f1d4ad4			ev anim 6 anims\obj_up\poem2up.tan hideheld=0 | ev gameobject poem2 13 | ev gameobject poem2 6 dropzone10 | message 370 | held->-
+poem2	stash	react	8c9bdd324a			ev anim 2 anims\obj_up\poem2up.tan hideheld=0 | message 273 | ev gameobject poem2 11 | ev gameobject poem2 2 | message 371 | held->-
+poem2	use	moved	54f4932e0f		-> XPOEM2	ev gameobject poem2 4 | OpenSound sounds\objects\paprfld4.wav | ev exitpage r4 | ev pagedrawn xpoem2 | BeginPageFilter a=118 b=86 c=87 | ev enterpage xpoem2 | JumpToPage xpoem2 | message 65535 | message 65535 | message 65535
+poncho	drop	react	745a3d1d90			ev anim 6 anims\obj_up\ponchup.tan hideheld=0 | ev gameobject poncho 13 | ev gameobject poncho 6 dropzone10 | message 370 | held->-
+poncho	stash	react	58a109ca07			ev anim 2 anims\obj_up\ponchup.tan hideheld=0 | message 255 | ev gameobject poncho 11 | ev gameobject poncho 2 | message 371 | held->-
+poncho	use	react	54f9274f6c			message 255 | ev gameobject poncho 14 | ev gameobject poncho 8 | OpenSound sounds\objects\zipup.wav | PlaySound | held->- | worn->poncho
+r10p_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r10p_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r10p_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r10p_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r10p_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r10p_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r10p_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r10p_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r10p_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r2fish_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r2fish_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r2fish_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r2fish_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r2fish_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r2fish_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r2fish_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r2fish_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r2fish_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r3p_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r3p_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r3p_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r3p_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r3p_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r3p_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r4p_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r4p_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r4p_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r4p_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r4p_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r4p_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r6p_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r6p_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r6p_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r6p_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r6p_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r6p_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r6p_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r6p_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r6p_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r7fish_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r7fish_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r7fish_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r7fish_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r7fish_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r7fish_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r7fish_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r7fish_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r7fish_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r7fish_4	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r7fish_4	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r7fish_4	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r7p_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r7p_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+r7p_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+rfmap	drop	react	30d62768b3			ev anim 6 anims\obj_up\rfmapup.tan hideheld=0 | ev gameobject rfmap 13 | ev gameobject rfmap 6 dropzone10 | message 370 | held->-
+rfmap	stash	react	de64921977			ev anim 2 anims\obj_up\rfmapup.tan hideheld=0 | message 265 | ev gameobject rfmap 11 | ev gameobject rfmap 2 | message 371 | held->-
+rfmap	use	moved	e76fdb0791		-> XRFMAP	ev gameobject rfmap 4 | OpenSound sounds\objects\paprfld4.wav | ev exitpage r4 | ev pagedrawn xrfmap | BeginPageFilter a=118 b=86 c=87 | ev enterpage xrfmap | JumpToPage xrfmap | message 65535
+russkey	drop	react	b9476fe021			ev anim 6 anims\obj_up\russkup.tan hideheld=0 | ev gameobject russkey 13 | ev gameobject russkey 6 dropzone10 | message 370 | message 65535 | held->-
+russkey	stash	react	07ec64186f			ev anim 2 anims\obj_up\russkup.tan hideheld=0 | message 246 | ev gameobject russkey 11 | ev gameobject russkey 2 | message 371 | held->-
+russkey	use	react	a24e20246d			ev gameobject russkey 4 | message 370
+russmemo	drop	react	293fd1972d			ev anim 6 anims\obj_up\russup.tan hideheld=0 | ev gameobject russmemo 13 | ev gameobject russmemo 6 dropzone10 | message 370 | held->-
+russmemo	stash	react	39b2df7581			ev anim 2 anims\obj_up\russup.tan hideheld=0 | message 307 | ev gameobject russmemo 11 | ev gameobject russmemo 2 | message 371 | held->-
+russmemo	use	moved	ca2498f4f5		-> XRUSSMEMO	ev gameobject russmemo 4 | OpenSound sounds\objects\paprfld4.wav | ev exitpage r4 | ev pagedrawn xrussmemo | BeginPageFilter a=118 b=86 c=87 | ev enterpage xrussmemo | JumpToPage xrussmemo | message 65535 | message 65535 | message 65535
+savmap	drop	react	c602695b45			ev anim 6 anims\obj_up\savmapup.tan hideheld=0 | ev gameobject savmap 13 | ev gameobject savmap 6 dropzone10 | message 370 | held->-
+savmap	stash	react	0acad41ee9			ev anim 2 anims\obj_up\savmapup.tan hideheld=0 | message 266 | ev gameobject savmap 11 | ev gameobject savmap 2 | message 371 | held->-
+savmap	use	moved	5309bd4e5b		-> XSAVMAP	ev gameobject savmap 4 | OpenSound sounds\objects\paprfld4.wav | ev exitpage r4 | ev pagedrawn xsavmap | BeginPageFilter a=118 b=86 c=87 | ev enterpage xsavmap | JumpToPage xsavmap | message 65535
+sb_blow	drop	react	ffe7a07060			ev anim 6 anims\obj_up\blowup.tan hideheld=0 | ev gameobject sb_blow 13 | ev gameobject sb_blow 6 dropzone10 | SetScrollOptions unk04=1 unk08=1 | message 370 | message 65535 | held->-
+sb_blow	stash	react	df3bb27ec5			ev anim 2 anims\obj_up\blowup.tan hideheld=0 | message 228 | ev gameobject sb_blow 11 | ev gameobject sb_blow 2 | SetScrollOptions unk04=1 unk08=1 | message 371 | held->-
+sb_blow	use	react	544494d482			ev anim 3 anims\obj_use\blowuse.tan hideheld=1 | ev gameobject sb_blow 4 | message 370
+sb_pick	drop	react	abfee935ef			ev anim 6 anims\obj_up\pickerup.tan hideheld=0 | ev gameobject sb_pick 13 | ev gameobject sb_pick 6 dropzone10 | SetScrollOptions unk04=1 unk08=1 | message 370 | message 65535 | held->-
+sb_pick	stash	react	38be2f03d5			ev anim 2 anims\obj_up\pickerup.tan hideheld=0 | message 305 | ev gameobject sb_pick 11 | ev gameobject sb_pick 2 | SetScrollOptions unk04=1 unk08=1 | message 371 | held->-
+sb_pick	use	react	62427be5d2			ev anim 3 anims\obj_use\pickuse.tan hideheld=1 | ev gameobject sb_pick 4 | message 370 | message 65535 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5
+sleep1	drop	react	68aebddeca			ev anim 6 anims\obj_up\sleepup.tan hideheld=0 | ev gameobject sleep1 13 | ev gameobject sleep1 6 dropzone10 | message 370 | held->-
+sleep1	stash	react	d8c1a85b18			ev anim 2 anims\obj_up\sleepup.tan hideheld=0 | message 223 | ev gameobject sleep1 11 | ev gameobject sleep1 2 | message 371 | held->-
+sleep1	use	react	b0e08791be			ev anim 3 anims\obj_use\sleepuse.tan hideheld=1 | ev gameobject sleep1 4 | FadeToColour rgb=0 unk04=2 speed=100 unk1c=0 percent=54 | ev exitpage r4 | ev pagedrawn zlandofnod | EndPageFilter | message 338 | ev enterpage zlandofnod | JumpToPa
+sleep2	drop	react	b35561f69e			ev anim 6 anims\obj_up\sleepup.tan hideheld=0 | ev gameobject sleep2 13 | ev gameobject sleep2 6 dropzone10 | message 370 | held->-
+sleep2	stash	react	3dd5a167ea			ev anim 2 anims\obj_up\sleepup.tan hideheld=0 | message 223 | ev gameobject sleep2 11 | ev gameobject sleep2 2 | message 371 | held->-
+sleep2	use	react	32d89440c3			ev anim 3 anims\obj_use\sleepuse.tan hideheld=1 | ev gameobject sleep2 4 | FadeToColour rgb=0 unk04=2 speed=100 unk1c=0 percent=54 | ev exitpage r4 | ev pagedrawn zlandofnod | EndPageFilter | message 338 | ev enterpage zlandofnod | JumpToPa
+sleep3	drop	react	7ac3b03e7e			ev anim 6 anims\obj_up\sleepup.tan hideheld=0 | ev gameobject sleep3 13 | ev gameobject sleep3 6 dropzone10 | message 370 | held->-
+sleep3	stash	react	080fed19c6			ev anim 2 anims\obj_up\sleepup.tan hideheld=0 | message 223 | ev gameobject sleep3 11 | ev gameobject sleep3 2 | message 371 | held->-
+sleep3	use	react	84535b2164			ev anim 3 anims\obj_use\sleepuse.tan hideheld=1 | ev gameobject sleep3 4 | FadeToColour rgb=0 unk04=2 speed=100 unk1c=0 percent=54 | ev exitpage r4 | ev pagedrawn zlandofnod | EndPageFilter | message 338 | ev enterpage zlandofnod | JumpToPa
+sleep4	drop	react	7b61c1c964			ev anim 6 anims\obj_up\sleepup.tan hideheld=0 | ev gameobject sleep4 13 | ev gameobject sleep4 6 dropzone10 | message 370 | held->-
+sleep4	stash	react	0fbb68ccac			ev anim 2 anims\obj_up\sleepup.tan hideheld=0 | message 223 | ev gameobject sleep4 11 | ev gameobject sleep4 2 | message 371 | held->-
+sleep4	use	react	3a2a9965c0			ev anim 3 anims\obj_use\sleepuse.tan hideheld=1 | ev gameobject sleep4 4 | FadeToColour rgb=0 unk04=2 speed=100 unk1c=0 percent=54 | ev exitpage r4 | ev pagedrawn zlandofnod | EndPageFilter | message 338 | ev enterpage zlandofnod | JumpToPa
+sleep5	drop	react	6d34b4225b			ev anim 6 anims\obj_up\sleepup.tan hideheld=0 | ev gameobject sleep5 13 | ev gameobject sleep5 6 dropzone10 | message 370 | held->-
+sleep5	stash	react	d8cd415cda			ev anim 2 anims\obj_up\sleepup.tan hideheld=0 | message 223 | ev gameobject sleep5 11 | ev gameobject sleep5 2 | message 371 | held->-
+sleep5	use	react	e02203cad4			ev anim 3 anims\obj_use\sleepuse.tan hideheld=1 | ev gameobject sleep5 4 | FadeToColour rgb=0 unk04=2 speed=100 unk1c=0 percent=54 | ev exitpage r4 | ev pagedrawn zlandofnod | EndPageFilter | message 338 | ev enterpage zlandofnod | JumpToPa
+statue	drop	react	9b98983b2d			ev anim 6 anims\obj_up\statueup.tan hideheld=0 | ev gameobject statue 13 | ev gameobject statue 6 dropzone10 | message 370 | held->-
+statue	stash	react	e5aaff0a73			ev anim 2 anims\obj_up\statueup.tan hideheld=0 | message 309 | ev gameobject statue 11 | ev gameobject statue 2 | message 371 | held->-
+statue	use	react	ad15c2fea5			ev gameobject statue 4 | message 370
+survibag	drop	react	82c78ecaca			ev anim 6 anims\obj_up\survup.tan hideheld=0 | ev gameobject survibag 13 | ev gameobject survibag 6 dropzone10 | message 370 | message 65535 | held->-
+survibag	stash	react	4043eddd3e			ev anim 2 anims\obj_up\survup.tan hideheld=0 | message 254 | ev gameobject survibag 11 | ev gameobject survibag 2 | message 371 | held->-
+survibag	use	moved	cf3958ca2e		-> ZLANDOFNOD	JigglePage records=ptr#00000000 count=1 unk14=0 first=0 last=-1 | ev anim 3 anims\obj_use\unroll2.tan hideheld=1 | ev gameobject survibag 4 | FadeToColour rgb=0 unk04=2 speed=100 unk1c=0 percent=54 | ev exitpage r4 | ev pagedrawn zlandofnod
+term_1	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+term_1	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+term_1	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+term_10	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+term_10	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+term_10	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+term_2	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+term_2	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+term_2	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+term_3	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+term_3	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+term_3	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+term_4	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+term_4	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+term_4	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+term_5	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+term_5	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+term_5	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+term_6	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+term_6	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+term_6	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+term_7	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+term_7	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+term_7	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+term_8	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+term_8	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+term_8	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+term_9	drop	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+term_9	stash	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+term_9	use	off	d41d8cd98f		the object cannot be put in the hand (hold rc=18: fruit)	
+torch	drop	react	43bc5f146e			ev anim 6 anims\obj_up\torchup.tan hideheld=0 | ev gameobject torch 13 | ev gameobject torch 6 dropzone1 | DropHeldObject hotspot=dropzone1 | message 370 | message 65535 | held->-
+torch	stash	react	9870a8c0dd			message 178 | message 370
+torch	use	react	53c2bd8039			ev gameobject torch 4 | message 180 | message 370
+tracker	drop	react	e380936cf4			ev anim 6 anims\obj_up\trackup.tan hideheld=0 | ev gameobject tracker 13 | ev gameobject tracker 6 dropzone10 | message 370 | message 65535 | held->-
+tracker	stash	react	3c95471cb6			ev anim 2 anims\obj_up\trackup.tan hideheld=0 | message 258 | ev gameobject tracker 11 | ev gameobject tracker 2 | message 371 | held->-
+tracker	use	react	1eeaccc81b			ev gameobject tracker 4 | message 370
+video1	drop	react	60c983e075			ev anim 6 anims\obj_up\vidup.tan hideheld=0 | ev gameobject video1 13 | ev gameobject video1 6 dropzone10 | message 370 | held->-
+video1	stash	react	ae82596434			ev anim 2 anims\obj_up\vidup.tan hideheld=0 | message 234 | ev gameobject video1 11 | ev gameobject video1 2 | message 371 | held->-
+video1	use	react	ff3b0d5216			ev gameobject video1 4 | message 370
+video2	drop	react	3ce6f3725d			ev anim 6 anims\obj_up\vidup.tan hideheld=0 | ev gameobject video2 13 | ev gameobject video2 6 dropzone10 | message 370 | held->-
+video2	stash	react	075c5d019f			ev anim 2 anims\obj_up\vidup.tan hideheld=0 | message 235 | ev gameobject video2 11 | ev gameobject video2 2 | message 371 | held->-
+video2	use	react	ba20473a5a			ev gameobject video2 4 | message 370
+video3	drop	react	a0c0f91a7f			ev anim 6 anims\obj_up\vidup.tan hideheld=0 | ev gameobject video3 13 | ev gameobject video3 6 dropzone10 | message 370 | held->-
+video3	stash	react	dbcd001da8			ev anim 2 anims\obj_up\vidup.tan hideheld=0 | message 236 | ev gameobject video3 11 | ev gameobject video3 2 | message 371 | held->-
+video3	use	react	86818a73d5			ev gameobject video3 4 | message 370
+video4	drop	react	d1f079d228			ev anim 6 anims\obj_up\vidup.tan hideheld=0 | ev gameobject video4 13 | ev gameobject video4 6 dropzone10 | message 370 | held->-
+video4	stash	react	6a33e01914			ev anim 2 anims\obj_up\vidup.tan hideheld=0 | message 237 | ev gameobject video4 11 | ev gameobject video4 2 | message 371 | held->-
+video4	use	react	73caa5cda1			ev gameobject video4 4 | message 370
+video5	drop	react	8e1771d3d6			ev anim 6 anims\obj_up\vidup.tan hideheld=0 | ev gameobject video5 13 | ev gameobject video5 6 dropzone10 | message 370 | held->-
+video5	stash	react	3869136b44			ev anim 2 anims\obj_up\vidup.tan hideheld=0 | message 238 | ev gameobject video5 11 | ev gameobject video5 2 | message 371 | held->-
+video5	use	react	5f529f2ea6			ev gameobject video5 4 | message 370
+video6	drop	react	26e728e5e0			ev anim 6 anims\obj_up\vidup.tan hideheld=0 | ev gameobject video6 13 | ev gameobject video6 6 dropzone10 | message 370 | held->-
+video6	stash	react	35e4226cb0			ev anim 2 anims\obj_up\vidup.tan hideheld=0 | message 239 | ev gameobject video6 11 | ev gameobject video6 2 | message 371 | held->-
+video6	use	react	5834954012			ev gameobject video6 4 | message 370
+vit1	drop	react	2aea98c501			ev anim 6 anims\obj_up\vitup.tan hideheld=0 | ev gameobject vit1 13 | ev gameobject vit1 6 dropzone10 | message 370 | held->-
+vit1	stash	react	872c51bfdf			ev anim 2 anims\obj_up\vitup.tan hideheld=0 | message 226 | ev gameobject vit1 11 | ev gameobject vit1 2 | message 371 | held->-
+vit1	use	react	1f55c37483			ev anim 3 anims\obj_use\vituse.tan hideheld=1 | ev gameobject vit1 4 | OpenSound sounds\russell\sighs\sigh2.wav | message 226 | message 370 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound
+vit2	drop	react	a8970d35b9			ev anim 6 anims\obj_up\vitup.tan hideheld=0 | ev gameobject vit2 13 | ev gameobject vit2 6 dropzone10 | message 370 | held->-
+vit2	stash	react	b969fed977			ev anim 2 anims\obj_up\vitup.tan hideheld=0 | message 226 | ev gameobject vit2 11 | ev gameobject vit2 2 | message 371 | held->-
+vit2	use	react	f2fdf00867			ev anim 3 anims\obj_use\vituse.tan hideheld=1 | ev gameobject vit2 4 | OpenSound sounds\russell\sighs\sigh2.wav | message 226 | message 370 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound
+vit3	drop	react	e240b68215			ev anim 6 anims\obj_up\vitup.tan hideheld=0 | ev gameobject vit3 13 | ev gameobject vit3 6 dropzone10 | message 370 | held->-
+vit3	stash	react	bf34776c98			ev anim 2 anims\obj_up\vitup.tan hideheld=0 | message 226 | ev gameobject vit3 11 | ev gameobject vit3 2 | message 371 | held->-
+vit3	use	react	7675c7727d			ev anim 3 anims\obj_use\vituse.tan hideheld=1 | ev gameobject vit3 4 | OpenSound sounds\russell\sighs\sigh2.wav | message 226 | message 370 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound
+vit4	drop	react	e70c0f101e			ev anim 6 anims\obj_up\vitup.tan hideheld=0 | ev gameobject vit4 13 | ev gameobject vit4 6 dropzone10 | message 370 | held->-
+vit4	stash	react	adadeeef89			ev anim 2 anims\obj_up\vitup.tan hideheld=0 | message 226 | ev gameobject vit4 11 | ev gameobject vit4 2 | message 371 | held->-
+vit4	use	react	9dbc9d36db			ev anim 3 anims\obj_use\vituse.tan hideheld=1 | ev gameobject vit4 4 | OpenSound sounds\russell\sighs\sigh2.wav | message 226 | message 370 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound
+vit5	drop	react	1cd09e6ec4			ev anim 6 anims\obj_up\vitup.tan hideheld=0 | ev gameobject vit5 13 | ev gameobject vit5 6 dropzone10 | message 370 | held->-
+vit5	stash	react	180071ade4			ev anim 2 anims\obj_up\vitup.tan hideheld=0 | message 226 | ev gameobject vit5 11 | ev gameobject vit5 2 | message 371 | held->-
+vit5	use	react	e117441ed1			ev anim 3 anims\obj_use\vituse.tan hideheld=1 | ev gameobject vit5 4 | OpenSound sounds\russell\sighs\sigh2.wav | message 226 | message 370 | SetPalette palette=pal#5d0e21d3 steps=12 duration=5 | PlaySound
+wand	drop	react	27b18a2cd4			ev anim 6 anims\obj_up\wandup.tan hideheld=0 | ev gameobject wand 13 | ev gameobject wand 6 dropzone10 | message 370 | message 65535 | held->-
+wand	stash	react	0f372006ee			ev anim 2 anims\obj_up\wandup.tan hideheld=0 | message 248 | ev gameobject wand 11 | ev gameobject wand 2 | message 371 | held->-
+wand	use	react	1bf590f564			ev anim 3 anims\obj_use\wanduse.tan hideheld=1 | ev gameobject wand 4 | message 370
+wifelet	drop	react	d7b1f4191b			ev anim 6 anims\obj_up\wifeup.tan hideheld=0 | ev gameobject wifelet 13 | ev gameobject wifelet 6 dropzone10 | message 370 | held->-
+wifelet	stash	react	655a330d70			ev anim 2 anims\obj_up\wifeup.tan hideheld=0 | message 271 | ev gameobject wifelet 11 | ev gameobject wifelet 2 | message 371 | held->-
+wifelet	use	moved	0c094b5c86		-> XWIFELET	ev gameobject wifelet 4 | OpenSound sounds\objects\paprfld4.wav | ev exitpage r4 | ev pagedrawn xwifelet | BeginPageFilter a=118 b=86 c=87 | ev enterpage xwifelet | JumpToPage xwifelet | message 65535 | message 65535 | message 65535

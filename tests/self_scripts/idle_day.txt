@@ -1,0 +1,4 @@
+# One game day of idling at the start position (R4): CSelf::Update every 90 s for 86400 s.
+time 28918
+run 86400 90
+dump

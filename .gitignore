@@ -1,0 +1,39 @@
+# build output
+/build/
+/dist/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Never commit files of the original game. The app imports the player's own copy at run time; developers keep
+# theirs outside the repository (see WORKERS.md, "Game data locations").
+*.iso
+*.img
+*.ccd
+*.cue
+*.sub
+*.cab
+*.CAB
+*.exe
+*.EXE
+*.dll
+*.DLL
+*.dat
+*.DAT
+*.sav
+*.avi
+*.AVI
+*.wav
+*.WAV
+*.tan
+*.TAN
+*.xft
+*.pal
+*.PAL
+*.ttf
+*.TTF
+*.zip

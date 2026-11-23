@@ -1,0 +1,8 @@
+# Malaria with fever, then chloroquine (code 0x50): cures after the next update (immunity 1 day), health refunded by half the loss.
+time 28918
+self m_dwMalaria 90000
+self m_dMalariaHealthLoss 20
+run 3600 90
+consume 0x50
+run 3600 90
+dump

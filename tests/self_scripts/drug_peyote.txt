@@ -1,0 +1,6 @@
+# Peyote: Consume(0xe6) at once, idle two hours in 90 s steps, dump.
+time 28918
+consume 0xe6
+dump
+run 7200 90
+dump

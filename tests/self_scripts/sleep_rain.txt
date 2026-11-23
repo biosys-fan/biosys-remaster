@@ -1,0 +1,5 @@
+# Sleep at R4 with the rain flag on: the sleep ends after one 90 s step with wake reason 7 (cel flag 2, site flag 0x800000 clear).
+time 28918
+self m_dEnergy 20
+sleep 0 0 1
+dump

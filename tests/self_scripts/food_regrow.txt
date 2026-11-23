@@ -1,0 +1,11 @@
+# A termite is picked up and eaten (removed from the scene); after its regrow time (43200 s) UpdateAllObjects makes it reappear
+# (variant fresh, state 2, in scene). Needs the clock running (extension `ticks 40`).
+time 28918
+ticks 40
+event term_1 1
+event term_1 4
+dump obj term_1
+advance 30000 0
+dump obj term_1
+advance 30000 0
+dump obj term_1

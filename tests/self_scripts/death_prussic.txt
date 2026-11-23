@@ -1,0 +1,7 @@
+# Prussic acid poisoning (cyanide), timer past 2: cause 5.
+time 28918
+self m_dwPrussic 100
+self m_dPrussicHealthLoss 1
+self m_dHealth 3
+run 9000 90
+dump

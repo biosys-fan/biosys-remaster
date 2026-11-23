@@ -1,0 +1,8 @@
+# Worm cure (0x82) with worms present (timer past a day): symptom 0x10 then cured.
+time 28918
+self m_dwWorms 90000
+run 180 90
+dump
+consume 0x82
+run 180 90
+dump

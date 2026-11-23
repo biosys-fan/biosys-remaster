@@ -1,0 +1,11 @@
+# Chloroquine/cinchona while the fever symptom 2 is on: cured bit set (malaria 90000 s).
+time 28918
+self m_dwMalaria 90000
+run 900 90
+dump
+consume 0x50
+run 900 90
+dump
+consume 0x96
+run 900 90
+dump

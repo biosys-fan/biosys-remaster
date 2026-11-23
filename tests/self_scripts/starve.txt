@@ -1,0 +1,4 @@
+# No food and no water at all: idle at R4 from the start state until the player dies (at most 30 game days).
+time 28918
+run 2592000 90
+dump

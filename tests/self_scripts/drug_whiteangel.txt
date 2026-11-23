@@ -1,0 +1,6 @@
+# White angel mushroom: Consume(0xb4) at once, idle two hours in 90 s steps, dump.
+time 28918
+consume 0xb4
+dump
+run 7200 90
+dump

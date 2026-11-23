@@ -1,0 +1,6 @@
+# Ephedrine while fumes are present: cures them (0x8008).
+time 28918
+self m_dwFumes 100
+consume 0x104
+run 900 90
+dump

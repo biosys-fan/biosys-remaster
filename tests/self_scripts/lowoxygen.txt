@@ -1,0 +1,5 @@
+# Low oxygen cel (oxygen 12 at R4): oxygen damage below 14, breathing flag 0x100 between 14 and 16; idle one hour.
+time 28918
+cel R4 oxygen=12
+run 3600 90
+dump

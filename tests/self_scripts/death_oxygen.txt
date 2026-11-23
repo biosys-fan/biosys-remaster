@@ -1,0 +1,6 @@
+# Oxygen 5 at R4 with low health: cause 0x12.
+time 28918
+cel R4 oxygen=5
+self m_dHealth 3
+run 100000 90
+dump

@@ -1,0 +1,5 @@
+# CTimeline::Advance for one game day with the player update on (extension `ticks 40`: the saved clock is frozen).
+time 28918
+ticks 40
+advance 86400 1
+dump

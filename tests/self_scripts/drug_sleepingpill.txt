@@ -1,0 +1,11 @@
+# Sleeping pill (Consume 0x6e starts Sleep(1,1,1)); the sleep page's drawn handler is then simulated by m_bRunSleepOnIdle = 1.
+time 28918
+cel R4 flags=32
+self m_dEnergy 50
+consume 0x6e
+dump
+self m_bRunSleepOnIdle 1
+idle 2
+dump
+run 7200 90
+dump

@@ -1,0 +1,8 @@
+# Cyanide: eat 10 then 0x8c within the hour; health refunded.
+time 28918
+consume 10
+run 1800 90
+dump
+consume 0x8c
+run 180 90
+dump

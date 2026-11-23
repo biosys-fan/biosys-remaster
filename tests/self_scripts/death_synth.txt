@@ -1,0 +1,7 @@
+# Synth attack timer with low health, then Die(8).
+time 28918
+self m_dwSynthAttack 1
+self m_dHealth 4
+run 900 90
+die 8
+dump

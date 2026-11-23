@@ -1,0 +1,14 @@
+# Oxygen mask: wear it (event 8) in a low-oxygen cel (oxygen 12), run the clock one hour (the filter drains, breathing flags 1 and 2),
+# take it off (9). Needs the clock running (extension `ticks 40`).
+time 28918
+ticks 40
+cel R4 oxygen=12 flags=32
+event oxy_mask 1
+event oxy_mask 8
+dump obj oxy_mask
+advance 3600 1
+dump obj oxy_mask
+advance 50000 1
+dump obj oxy_mask
+event oxy_mask 9
+dump obj oxy_mask

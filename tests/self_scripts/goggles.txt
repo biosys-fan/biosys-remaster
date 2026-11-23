@@ -1,0 +1,15 @@
+# Infra-red goggles: pick up (event 1), wear (8), run the clock (advance, extension `ticks 40` because the saved clock is frozen):
+# charge drains by 1/180 per second, the power state follows; take off (9); recharge at a hotspot (7).
+time 28918
+ticks 40
+event goggles 1
+dump obj goggles
+event goggles 8
+dump obj goggles
+advance 3600 1
+dump obj goggles
+advance 14400 1
+dump obj goggles
+event goggles 9
+event goggles 7 FRECHARGE
+dump obj goggles

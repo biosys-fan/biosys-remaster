@@ -1,0 +1,23 @@
+# Malaria for more than 0x15180 s and not immune: health loss cause 2 until death (water and food refilled).
+time 28918
+self m_dwMalaria 90000
+self m_dHealth 3
+self m_dHydration 100
+self m_dNutrition 100
+run 20000 90
+self m_dHydration 100
+self m_dNutrition 100
+run 20000 90
+self m_dHydration 100
+self m_dNutrition 100
+run 20000 90
+self m_dHydration 100
+self m_dNutrition 100
+run 20000 90
+self m_dHydration 100
+self m_dNutrition 100
+run 20000 90
+self m_dHydration 100
+self m_dNutrition 100
+run 20000 90
+dump

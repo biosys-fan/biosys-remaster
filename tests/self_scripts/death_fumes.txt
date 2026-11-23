@@ -1,0 +1,7 @@
+# Heavy pollution with low health: fumes damage cause 7 / thirst.
+time 28918
+cel R4 pollution=90
+self m_dHealth 5
+self m_dHydration 100
+run 100000 90
+dump

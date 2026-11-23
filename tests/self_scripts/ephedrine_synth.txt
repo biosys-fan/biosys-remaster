@@ -1,0 +1,8 @@
+# Ephedrine during a synth attack timer: cures bit 0x4000.
+time 28918
+self m_dwSynthAttack 100
+run 180 90
+dump
+consume 0x104
+run 180 90
+dump

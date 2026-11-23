@@ -1,0 +1,7 @@
+# Sleep in the cold (air -30 C): the body temperature drops below 25 and the loop ends, wake reason 4.
+time 28918
+cel R4 flags=32 airTemp=-30
+self m_dTemperature 26
+self m_dEnergy 40
+sleep 0 0 1
+dump

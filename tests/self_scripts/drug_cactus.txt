@@ -1,0 +1,6 @@
+# Cactus poison: Consume(0x10e) at once, idle two hours in 90 s steps, dump.
+time 28918
+consume 0x10e
+dump
+run 7200 90
+dump

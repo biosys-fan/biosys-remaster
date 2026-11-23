@@ -1,0 +1,6 @@
+# Malaria already caught (timer 1): after 24 h the fever starts (ideal and max body temperature 73, health loss, symptom 2).
+time 28918
+self m_dwMalaria 1
+self m_dHydration 100
+run 100000 90
+dump

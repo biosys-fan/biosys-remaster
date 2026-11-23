@@ -1,0 +1,7 @@
+# Eat code 261 (s2ep_1, consumable code on the object): pick it up (event 1), eat it (event 4), idle two hours, dump player and object.
+time 28918
+event s2ep_1 1
+event s2ep_1 4
+dump obj s2ep_1
+run 7200 90
+dump obj s2ep_1

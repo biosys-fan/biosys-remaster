@@ -1,0 +1,6 @@
+# Guarana: Consume(0x32) at once, idle two hours in 90 s steps, dump.
+time 28918
+consume 0x32
+dump
+run 7200 90
+dump

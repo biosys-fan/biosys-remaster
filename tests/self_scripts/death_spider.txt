@@ -1,0 +1,6 @@
+# Spider bite with 5 health: cause 0x11 (LoseHealth in Consume then Update).
+time 28918
+self m_dHealth 12
+consume 0x136
+run 100000 90
+dump

@@ -1,0 +1,7 @@
+# Eat code 290 (s9av_1, consumable code on the object): pick it up (event 1), eat it (event 4), idle two hours, dump player and object.
+time 28918
+event s9av_1 1
+event s9av_1 4
+dump obj s9av_1
+run 7200 90
+dump obj s9av_1

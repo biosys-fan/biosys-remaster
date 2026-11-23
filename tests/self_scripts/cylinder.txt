@@ -1,0 +1,13 @@
+# Oxygen cylinder (empty in the saved game): pick up (1) sets the FX site, toggle the valve (4: stays shut with no oxygen), drop on a
+# hotspot (6 dCylinder), hold (10), stash (2), use-on (7) sets the variant.
+time 28918
+event oxy_cyl 1
+dump obj oxy_cyl
+event oxy_cyl 4
+event oxy_cyl 10
+dump obj oxy_cyl
+event oxy_cyl 6 dCylinder
+dump obj oxy_cyl
+event oxy_cyl 7 yOxygen
+event oxy_cyl 2
+dump obj oxy_cyl

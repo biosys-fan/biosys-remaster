@@ -1,0 +1,5 @@
+# Sleep refused: energy above 80 and the argument a = 0 (CanSleep fails): nothing changes except the globals.
+time 28918
+self m_dEnergy 90
+sleep 0 0 1
+dump

@@ -1,0 +1,8 @@
+# Drinking and eating are refused while the air mask is worn (m_pAirMask set by event 8 on the oxygen mask).
+time 28918
+event oxy_mask 1
+event oxy_mask 8
+drink 0xbe
+event r4bf_1 1
+event r4bf_1 4
+dump obj r4bf_1

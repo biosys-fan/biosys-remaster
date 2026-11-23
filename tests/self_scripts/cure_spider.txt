@@ -1,0 +1,8 @@
+# Spider bite (0x136) then antidote 0xa0.
+time 28918
+consume 0x136
+run 900 90
+dump
+consume 0xa0
+run 180 90
+dump

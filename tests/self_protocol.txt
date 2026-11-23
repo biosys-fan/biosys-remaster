@@ -1,0 +1,61 @@
+SCRIPT PROTOCOL of build/biosys-selftest (src/tools/selftest.cpp) and tests/self_oracle.py
+=======================================================================================
+
+Both programs read a saved game and a script, run the player model headlessly and print the same dump format, so that
+tests/test_self.sh can diff them (numbers with a relative tolerance of 1e-9, everything else exactly).
+
+    build/biosys-selftest run  <file.sav> <script> [--seed N]
+    python3 -I tests/self_oracle.py <file.sav> <script> [--seed N]
+
+The world is FROZEN: the weather, flows, plants, features and the ocean are never updated, the cels keep the values they
+were loaded with (or the script sets). What runs is the player (CSelf) and the game objects (CWorld::UpdateAllObjects).
+The random generator is the C runtime's (seed*214013+2531011; rand = (seed>>16)&0x7fff), one draw order for both programs.
+Initial state: the saved game (python3 -I <dev>/analysis/scripts/biosys_savblob.py dump <sav>): the
+CSelf slot, the objects, cels, sites, plants, the timeline; every member the slot does not carry has the value the
+constructor gives it. The default seed is 1. `--tick` below is the DLL's GetTickCount(), 0 unless the script sets it.
+
+Script: one command per line, tokens separated by blanks, `#` starts a comment, blank lines are ignored.
+
+  seed N                    srand(N) (decimal); the same as --seed
+  tick N                    GetTickCount() answers N from now on (decimal)
+  time T                    game clock DAT_100c1c1c = T (decimal seconds) and time of day = T % 86400
+  self NAME VALUE           assign the Self member NAME (the C++ member name printed by `dump`, e.g. m_dHealth). VALUE:
+                            decimal integer, decimal float or 0xHEX for integer members. Only scalar members.
+  cel NAME key=V ...        set members of the biome cel NAME. Keys: airTemp (+0x38) humidity (+0x48) oxygen (+0x50)
+                            co2 (+0x58) soilWater (+0x70) wind (+0x80) pollution (+0x98) plantHealth (+0xf0)
+                            flags (+0x108, integer)
+  goto SITE [PAGE]          put the player at the site SITE (name as in the save, e.g. R4): m_pSite = the site,
+                            m_pCel = the site's cel, m_pBiome = the site's biome; m_pPreviousSite unchanged. With PAGE:
+                            m_szLocation = PAGE (upper case) and m_pPage = that page.
+  update [P]                CSelf::Update(P) once (P = its parameter, default 1)
+  run SECONDS STEP [P]      repeat { time += STEP; CSelf::Update(P) } while the elapsed time is below SECONDS and the
+                            player is not dead (Update ran Die / the dead flag is set); P default 1
+  advance SECONDS [U]       CTimeline::Advance(SECONDS, U) (dll:100154b0, U default 1) with the world simulation calls
+                            (weather, ocean, flows, features, plants) left out: its loop, the object update, the
+                            player update when U != 0, the clock steps of 90 s
+  consume CODE              CSelf::Consume(CODE) (decimal or 0xHEX consumable code)
+  drink CODE                CSelf::Drink(CODE)
+  event OBJECT CODE [EXTRA] Event_OnGameObject(OBJECT, CODE, EXTRA) dll:1001e380: engine object events 1..0x10
+  sleep A B C               CSelf::Sleep(A, B, C) (dll:10067600); when it returns nonzero the page "zLandOfNod" is
+                            shown: CSelf+0x75c = 1 (the sleep page's drawn handler); then CSelf::OnIdle is called until
+                            it returns 0 and the player is awake again (m_bAwake = 1) or dead, at most 10 calls
+  idle [N]                  CSelf::OnIdle() N times (default 1)
+  die CAUSE                 CSelf::Die(CAUSE)
+  dump [obj NAME ...]       print a dump block (below); `obj NAME` adds the members of that game object
+
+Dump block:
+
+    == t=<game clock> seed=<current rng state>
+    self.<member> = <value>       every member of Self in the order of src/game/self.h (all of them, saved or not;
+                                  array members as name[i]); integers decimal, doubles Python repr (shortest round trip),
+                                  name references (NamedRef) the target's name text or '' ; pointers to world items as
+                                  their name or ''; the 11-byte strings as text before the first NUL
+    global.<name> = <value>       the DLL globals the player model owns (PlayerGlobals in self_env.h), same format; the
+                                  oracle prints only the ones it models, the comparison uses the names in both
+    obj.<OBJECT>.<member> = <v>   with `obj OBJECT`: every typed member of the object (GameObj common block first), names
+                                  as in src/game/gameobj.h / obj_*.h
+    msg <n> <stringId> <text>     (selftest only, never compared) the messages shown since the previous dump
+
+Comparison: the two outputs are parsed into `name = value` pairs per block; `msg` lines are ignored.
+Death: when the player dies (CSelf::Die) the script goes on (the commands still work); the dump shows m_wCauseOfDeath and
+global.dead = 1 (DAT_100c2728). Nothing else happens (no death page).

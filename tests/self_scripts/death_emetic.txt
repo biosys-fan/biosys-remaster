@@ -1,0 +1,6 @@
+# Emetic (0x118) at health 8: LoseHealth(10, 0x10) leaves health -2 and sets the die-on-update flag; Event_OnTimer then calls Die(0): cause 0x10.
+time 28918
+self m_dHealth 8
+consume 0x118
+die 0
+dump

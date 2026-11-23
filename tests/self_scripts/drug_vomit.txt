@@ -1,0 +1,6 @@
+# Emetic: Consume(0x118) at once, idle two hours in 90 s steps, dump.
+time 28918
+consume 0x118
+dump
+run 7200 90
+dump
