@@ -26,7 +26,10 @@ def fresh(name):
 
 
 def prog(*args, env=None):
-    r = subprocess.run(['build/biosys'] + list(args), capture_output=True, text=True, env=env)
+    try:            # (a time limit: a program that waits for the user, e.g. on an error dialog, must fail the check, not hang the suite)
+        r = subprocess.run(['build/biosys'] + list(args), capture_output=True, text=True, env=env, timeout=120)
+    except subprocess.TimeoutExpired:
+        return -99, '', 'the program did not end within 120 s (waiting for the user?)'
     return r.returncode, r.stdout, r.stderr
 
 

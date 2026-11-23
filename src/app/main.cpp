@@ -2867,8 +2867,14 @@ int main(int argc, char** argv) {
         return runWindow(s, o);
     } catch (const Error& e) {
         std::fprintf(stderr, "biosys: %s\n", e.what());
+        // The message box is for a player who started the app by double click and has no terminal: only inside an app bundle. A build
+        // started from a terminal (build/biosys) has said it on stderr; a modal box there would block whatever started it (a test that
+        // expects the error exit waited for hours on it).
         const char* vd = std::getenv("SDL_VIDEODRIVER");
-        if (windowMode && !(vd && std::strcmp(vd, "dummy") == 0)) SDL_ShowSimpleMessageBox(SDL_MESSAGEBOX_ERROR, "Biosys Remaster", e.what(), nullptr);
+        const char* base = SDL_GetBasePath();
+        const bool bundled = base && std::strstr(base, ".app/Contents/") != nullptr;
+        if (windowMode && bundled && !(vd && std::strcmp(vd, "dummy") == 0))
+            SDL_ShowSimpleMessageBox(SDL_MESSAGEBOX_ERROR, "Biosys Remaster", e.what(), nullptr);
         return 1;
     }
 }
