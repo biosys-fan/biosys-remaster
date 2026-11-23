@@ -116,7 +116,7 @@ while the game is asking you to type something (a password, a page name).
 | `--pass-ms N` | the pace of the game: one game step every N milliseconds, 10 to 100 (default `33`). Lower is faster, higher is slower; it does not depend on your screen's refresh rate (section 9.5) |
 | `--panorama-filter linear\|nearest` | with `smooth`: soft (`linear`, default) or hard-edged pixels |
 | `--start-muted` | start with the sound muted (the **\\** key toggles it) |
-| `--save-dir DIR` | where saved games go (default: the per-user application folder: the `biosys` folder inside Application Support in your user Library) |
+| `--save-dir DIR` | where saved games go (default: the per-user application folder: the `biosys` folder inside Application Support in your user Library); a folder that does not exist yet is made when the game starts in a window |
 | `--autosave yes\|no` | autosave on (default) or off (section 1.6) |
 | `--autosave-minutes N` | minutes of play between two timed autosaves, 0 to 1440 (default `10`; `0` = no timed autosave, but waking up and quitting still save) |
 | `--load-autosave [1\|2\|3]` | start directly in that autosave (default: the newest); needs `--game` |
