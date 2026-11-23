@@ -22,6 +22,11 @@ kept free of platform calls on purpose; SDL3, FreeType and zlib all exist for Wi
 - [ ] **First-run screen.** It already lists Windows font candidates (`C:\Windows\Fonts\segoeui.ttf`); verify
       drag and drop, the file dialog and the "open the download page" button through SDL3 on Windows, and that
       long paths and paths with spaces work.
+- [ ] **Error messages without a terminal.** A fatal error is shown in a message box only when the program runs from a
+      macOS app bundle (`.app/Contents/` in `SDL_GetBasePath()`, end of `main` in `src/app/main.cpp`), so that a build
+      started from a terminal or by a test never blocks on a dialog. Windows has no bundle: decide the rule there (for
+      example: no console attached, or a `--dialogs` switch set by the installed shortcut) and keep the tests free of
+      modal boxes.
 - [ ] **Where files go.** `SDL_GetPrefPath` gives `%APPDATA%\biosys\biosys\`; check saves, `biosys.conf` and
       `gamedata\` there, and the documentation that names the macOS folder.
 - [ ] **Keys.** The manual names Option and Cmd (Option+Return, Option+N, Option+M, Cmd+,). Map and document
