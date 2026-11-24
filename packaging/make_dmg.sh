@@ -60,6 +60,9 @@ sync
 hdiutil detach -quiet "$MNT" || { sleep 2; hdiutil detach -quiet -force "$MNT"; }
 hdiutil convert -quiet "$RW" -format ULMO -o "$OUT"     # lzma, read-only (macOS 10.15+)
 rm -rf "$WORK" "$STAGE"
-codesign --force --sign - --timestamp=none "$OUT"
+# The image itself is NOT signed. macOS checks a signed disk image when a downloaded copy is opened, and an ad-hoc signature (all
+# this project has) fails that check: the image of 0.1.0 and 0.1.1 did not open after a download (macOS 26: the open is refused),
+# while an unsigned image opens and only the app inside goes through the "Open Anyway" step. The app inside stays ad-hoc signed.
+if codesign -dv "$OUT" 2>&1 | grep -q 'Signature='; then echo "the disk image must not be signed" >&2; exit 1; fi
 hdiutil verify -quiet "$OUT"
 echo "built $OUT ($(du -h "$OUT" | cut -f1)), sha256 $(shasum -a 256 "$OUT" | cut -d' ' -f1)"

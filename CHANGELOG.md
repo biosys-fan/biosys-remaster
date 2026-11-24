@@ -1,5 +1,30 @@
 # Changelog
 
+## 0.1.2: the download opens
+
+**If you downloaded 0.1.0 or 0.1.1 and the disk image would not open, take this one.** The game itself is unchanged.
+
+**Download:** `Biosys-Remaster-0.1.2-macOS.dmg` (Intel and Apple Silicon, macOS 11 or later).
+
+### Fixed
+
+- The disk image of 0.1.0 and 0.1.1 did not open after it was downloaded on current macOS. The image carried a
+  signature of its own that macOS rejects for a file from the internet; the image is no longer signed, the app inside
+  is as before. Found by installing the published download the way a player does.
+- The first-run screen shows the right version number.
+
+### How to start
+
+1. Open the `.dmg` and drag **Biosys Remaster** onto **Applications**. Open it from there.
+2. The first time, macOS says it cannot check the app, because this free fan project has no paid Apple developer
+   signature. Open **System Settings › Privacy & Security**, scroll down and choose **Open Anyway**. Once only.
+3. The app asks for the original game, which is not included. Its start screen opens the download page
+   (<https://www.myabandonware.com/game/biosys-f2f#downloads>): download **Game CD** and **Setup CD** and drop both
+   files onto the app's window. No unpacking. The app copies what it needs (about 1 GB) and starts the game.
+
+This is an unofficial homage to *Biosys* (1999, JumpStart Solutions / Take-Two Interactive), not affiliated with or
+endorsed by the original creators or rights holders. It contains no file of the original game. See DISCLAIMER.md.
+
 ## 0.1.1: maintenance release
 
 The same game as 0.1.0. This release brings the download in line with the source code as it stands now.
