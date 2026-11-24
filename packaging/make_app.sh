@@ -13,6 +13,10 @@ ARCHS="-arch arm64 -arch x86_64"
 
 [ -d "$D/sdl3/SDL3.framework" ] && [ -f "$D/freetype/lib/libfreetype.a" ] || { echo "run packaging/build_deps.sh first" >&2; exit 1; }
 
+# make does not notice a changed -D flag: the object that holds the version number is rebuilt every time, and the program with it
+# (0.1.1 was first built with "0.1.0" still inside it; removing the object alone is not enough, make then calls the program up to date)
+rm -f "$B/app/firstrun.o" "$B/biosys"
+
 # -ffile-prefix-map keeps the build machine's folder names out of the program
 make -j8 B="$B" DEVFLAGS= \
     CXXFLAGS="-std=c++17 -O2 -Wall -Wextra -Wno-unused-parameter -Isrc -I$D/freetype/include/freetype2 -F$D/sdl3 $ARCHS -mmacosx-version-min=$MIN_MACOS -ffile-prefix-map=$PWD=. -DBIOSYS_VERSION=\\\"$VERSION\\\"" \

@@ -1,5 +1,34 @@
 # Changelog
 
+## 0.1.1: maintenance release
+
+The same game as 0.1.0. This release brings the download in line with the source code as it stands now.
+
+**Download:** `Biosys-Remaster-0.1.1-macOS.dmg` (Intel and Apple Silicon, macOS 11 or later).
+
+### Changed since 0.1.0
+
+- The error message box at start (for example when the preferences file named on the command line cannot be read)
+  appears only when the app is started as an app, where there is no terminal to read the message from. Started from a
+  terminal, the program prints the message and ends, as command-line programs do.
+- Tests only: the preferences test and the picture-cleaning test no longer depend on how busy the machine is, and the
+  autosave test uses a read-only folder for its "cannot write" case.
+- Unchanged, already in 0.1.0: starting the app creates the save folder if it is missing.
+
+### How to start
+
+1. Open the `.dmg` and drag **Biosys Remaster** onto **Applications**. Open it from there.
+2. The first time, macOS says it cannot check the app, because this free fan project has no paid Apple developer
+   signature. Open **System Settings › Privacy & Security**, scroll down and choose **Open Anyway**. Once only.
+3. The app asks for the original game, which is not included. Its start screen opens the download page
+   (<https://www.myabandonware.com/game/biosys-f2f#downloads>): download **Game CD** and **Setup CD** and drop both
+   files onto the app's window. No unpacking. The app copies what it needs (about 1 GB) and starts the game.
+
+If you already have 0.1.0 with the game imported, replace the app in Applications; the imported game and your saves stay.
+
+This is an unofficial homage to *Biosys* (1999, JumpStart Solutions / Take-Two Interactive), not affiliated with or
+endorsed by the original creators or rights holders. It contains no file of the original game. See DISCLAIMER.md.
+
 ## 0.1.0: first public release
 
 The first build anyone can simply download and play.
